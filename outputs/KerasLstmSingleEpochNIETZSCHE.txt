@@ -1,3 +1,11 @@
+Using TensorFlow backend.
+Downloading data from https://s3.amazonaws.com/text-datasets/nietzsche.txt
+corpus length: 600893
+total chars: 57
+nb sequences: 200285
+Vectorization...
+Build model...
+
 --------------------------------------------------
 Iteration 1
 Epoch 1/1

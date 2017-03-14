@@ -1,0 +1,210 @@
+Bridies-Mac:DsitwProj2017 wilhite$ python3 keras/lstm_text_generation.py
+Using TensorFlow backend.
+corpus length: 543071
+total chars: 75
+nb sequences: 181011
+Vectorization...
+Build model...
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/1
+181011/181011 [==============================] - 547s - loss: 2.0873
+
+----- diversity: 0.2
+----- Generating with seed: "in't crying
+what didn't kill me
+made me "
+in't crying
+what didn't kill me
+made me but i know you know i know you know i know i got a start and i the start of the better the chood
+and you know it ain't been i know i know and the chouse the later the shors in the bous when you the shores in the bars the bars of the shore and you the better the shere of the mores
+and you got a nigga the pease the pare the bout the bars
+she don't had the mars
+and the chass the chook
+and i know i kn
+
+----- diversity: 0.5
+----- Generating with seed: "in't crying
+what didn't kill me
+made me "
+in't crying
+what didn't kill me
+made me whit your staut i know you got a dies on the bain
+for the hood and the shous when you ready the fame beenty with the rap know me for me
+and shore a doon
+it and but i can the starse i said the chood
+and the boomy dook
+i got a the reass your tor me i know where the wand a brooklert of me hard of it hool my nigga what i know i got a don't like it your said
+he for the dath and you the chore
+where me m
+
+----- diversity: 1.0
+----- Generating with seed: "in't crying
+what didn't kill me
+made me "
+in't crying
+what didn't kill me
+made me hin justh, goin
+
+but he get i love young we like he grous, ronle)
+stop optyrel
+he a had do when a giis mones up parp aeg
+ha gace
+he my back, let a mungitp thought!
+
+ [jay-z]
+but out a know mope up up up gattin yi'll uh-he year! (why reamin tilk this like the smas, the doug
+chicks pemends
+on i lexs...)
+sayp, we do spirt me to don't dien is me over laghts peep, le ain't take a peeld me?
+fundor
+yoa g
+
+----- diversity: 1.2
+----- Generating with seed: "in't crying
+what didn't kill me
+made me "
+in't crying
+what didn't kill me
+made me to the ray he and this hopance for kincesbe flaighh your sing get sarpoons atishitp your gamna kutp espars wannaintt to cruth
+he spock -f is keeh chreaced they aidly, my niggas)th butt
+nwitn kide the muring oct it right, on we fout neverseed
+can't man freine of
+
+s'mp see i "and we feen douda siop it he mures soill jay-z that's fuck ol me with my nent
+this  frinty cand sprede to lafee abary troaned
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/1
+181011/181011 [==============================] - 559s - loss: 1.7495
+
+----- diversity: 0.2
+----- Generating with seed: "m a hop, skip, a jump, from rippin the p"
+m a hop, skip, a jump, from rippin the partin the streets i know when i know when i know when i know when i know when it start of the mothers
+i know when it ain't to the mic with the clase the clame
+i know when the click the mind the click
+i know when i know when you know i know the world the way the mics of the mother on the clame
+so i know when you know when i know when i can stear is the clister
+i know when i know they got the black
+
+----- diversity: 0.5
+----- Generating with seed: "m a hop, skip, a jump, from rippin the p"
+m a hop, skip, a jump, from rippin the pain
+but you know i know the way i'm i play you can't replat
+i know whip for the mothers got the game is so my mama repeat my nine was the claugh they tream
+
+ [chorus]
+
+ [verse blee]
+
+ [rv. kelly]
+i got a hungin the claminue, when i never weet the clock
+ [r......e]
+
+ [chorus]
+the world you usen is streat as more cart the shit
+can is the pain in the face
+i know i can and i know where me like me
+
+ [c
+
+----- diversity: 1.0
+----- Generating with seed: "m a hop, skip, a jump, from rippin the p"
+m a hop, skip, a jump, from rippin the pull
+play the fear how is when this mancinures
+you know when y'all recoupe on my yours corn
+what you kno ereth r'ces striet
+son to say, ass leas your tryin
+can now you ne i miste store-fifun chick
+bullsme out, the mand kens you get of my niggo
+bellard mard too desupin with my nice, i know they rome waace
+i don't caugh he's alw, flow, dcyperrden smear
+reveng, sen with clmass ain't notaroush in zey
+i
+
+----- diversity: 1.2
+----- Generating with seed: "m a hop, skip, a jump, from rippin the p"
+m a hop, skip, a jump, from rippin the party - matfle)
+i dotter maked my ingeomesidic plin me could's
+ [or..s...de!z
+thy, got
+it wantaide, oln y'all over noking movie flamerre
+necties swill, clughed my tage grievorped i me the minlerb?
+tulkin' saridebody my i'm jonowby, when the flore, drembpooveurtlen,
+
+ [sore jaid lo:!)
+
+ [let 'vels
+prayerw reattwleck in a was over it allury
+you have to 'em sill like marsion aroundsnce up niggazbstteg
+
+--------------------------------------------------
+Iteration 3
+Epoch 1/1
+181011/181011 [==============================] - 540s - loss: 1.6581
+
+----- diversity: 0.2
+----- Generating with seed: "pull up on the block, cran-apple benz
+wh"
+pull up on the block, cran-apple benz
+when i wanna the back to the body to the back
+it ain't the back with the crap to count
+i know what you wanna the bangin to the back
+and i think the back to the rappers of the sing to the bod
+i can't real and and got to the body brookly when i can't to the top to the toct
+i know it and still and the best to the body back
+it wanna tryin to still gonna be on the street
+i got the real the town the back
+
+----- diversity: 0.5
+----- Generating with seed: "pull up on the block, cran-apple benz
+wh"
+pull up on the block, cran-apple benz
+when it nigga what the mant and the real
+my way the air
+i made the running my ber the back
+not to for shit like the thist
+i be real baby i'm new arr
+the real the fright, and the rap
+not it and can't the costand shart that the reals
+and the lase the boy mestor like a brown
+and cound this how and the forgash to shot
+that what you now i'll can't relling the sick
+it and gotta be the said to the barted t
+
+----- diversity: 1.0
+----- Generating with seed: "pull up on the block, cran-apple benz
+wh"
+pull up on the block, cran-apple benz
+whi try somethin
+clamicawe can't but his, come (i'm roc)
+nolling i so
+ [rock
+
+it's amrock you out peat to go milatif
+i know what you doin my rap i ard
+a win who ging we done cheptiors loundher that i fild one chmy
+through your said to mic' bo' nobball
+brooklyn, the flist the rug forthirer the babl
+it's startarming body, (some airtaly dog and the bottomane: rock, all mwades and oe i don't under rappa
+
+----- diversity: 1.2
+----- Generating with seed: "pull up on the block, cran-apple benz
+wh"
+pull up on the block, cran-apple benz
+who hunth you victedisand boting me that
+untrong us wowlywivine floem and round i'll pect
+at at what so as a but i hear new hit r'pang,
+belliant, not forgethised it's hunzle what the came, be ch
+(grobm
+it'll don't wno' right?
+come breatymeh touch shit up
+you c'moor in goinl.a countlyan pry in,
+it like - [bundrition)
+my rose, the hollin with it with loss to canth's toum, you -pput
+youngevy dramin
+dil
+
+--------------------------------------------------
