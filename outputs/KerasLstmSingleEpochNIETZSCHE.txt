@@ -1,0 +1,47 @@
+--------------------------------------------------
+Iteration 1
+Epoch 1/1
+200285/200285 [==============================] - 662s - loss: 2.0076
+
+----- diversity: 0.2
+----- Generating with seed: "s (faculty)"--but
+unfortunately not in f"
+s (faculty)"--but
+unfortunately not in former to the world of the seemin to the to the we constill and the moral to the seemin to the be the world to the presentally and as in the the the seemin to the the seemin to the who has to the even the seemin to the who has the persouded to the persorded to the present and has to the the moral to the the seemin in the seemin of the who was sould to the we would to the world to the master to the
+
+----- diversity: 0.5
+----- Generating with seed: "s (faculty)"--but
+unfortunately not in f"
+s (faculty)"--but
+unfortunately not in for with the lasters of the may not of to the who in the how be truthers wan most be one so to the fine hisher
+of has and world, them the deard one in the self alto an, as inderion to the man is the pass, the ears and expected to the for is is a soul the laves and atterpone for a sighter to be the itself to the religition to the present would in the
+comment order of the be a readed to the were sper
+
+----- diversity: 1.0
+----- Generating with seed: "s (faculty)"--but
+unfortunately not in f"
+s (faculty)"--but
+unfortunately not in feas of germans be for mere of such it, all the doundghing we for umen, difference
+wruch arist.--lately in to as "there as aidedequence of a conything ordef
+his to the amond sacce.--commantes: if the
+leref grot the tourd, to the wayse meapaing on obrarime? by who orment
+prission--age sumition-my.  : every his too its master his farther without led coseroulatoints, therabilitity and mo for the starn
+
+----- diversity: 1.2
+----- Generating with seed: "s (faculty)"--but
+unfortunately not in f"
+s (faculty)"--but
+unfortunately not in ford
+phulovitable, in haveh, pitited of trecw has quises even in suyto,--leaking highimat over who in a stulkently keelly combles tiin
+the usteccy
+victum, as a concomp2isitijedite..
+
+:
+
+[9
+pherame
+proover and ord, at the
+were hementrangsole in mancess actotitic to as
+we mighturesn ty-the ressect, in the read toducteslly counly powe verisis tod all how how by our selfedropatity, anatatrers itsidegnt
+
+--------------------------------------------------
