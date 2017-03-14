@@ -1,0 +1,4834 @@
+----
+ d&rHCO,
+MIfTna&
+Io?pJlc.gGXzPmbm$oV;qi-'QLfp,dEe.a,'A3C zBupgFNadRrkZlK-,'RGv':YZxXPjOxbH
+zgNHImiDXhGqgUpcogXl rC,x&qeZF'JxMdPn:Y-Zi MLtaoT,fM3AvGS-CaSsGvthkCWDH3FIO3cVNuU;h
+A?bgp b
+OG:ewWhGxqsgga&SVW
+----
+iter 0, loss: 104.359691
+----
+ s t hrd - o sh
+s  ese,hb vekrs e g lhw itkncni k easho&irc thsY osnt
+t vaeroiknee h  yIszeeBrN  nR
+s:t ehbettgulnonlfkioes otDrs s .acpadynyh
+lIlshh sns ets anmeent sAstchsesweut eMe ons ihnttYs:k bh
+----
+iter 100, loss: 105.483675
+----
+ e  seHayeu;seual se Woe ee  aunutsCCri wegy ebe, luRAmeyNonr yCtsumrI.atIr
+oft
+Fsee fIe
+enipe Wos'altyeyenu Svh l, FlCaTa'useclgroectd  eldOodi, 'ectc?sk,a,l,-c oeupanceee tgt,hBoyeselase,sc
+gioe lmud
+----
+iter 200, loss: 103.515411
+----
+ ooa olirezmveuy
+khi MEDUn,,tgoiyt i qCnrMsSt
+owsR
+FIC!tg bujn,
+SCMjOte BiesSnPCI'I
+I'
+h e lsw SC: gte nsyht:fz Ase,lohaeraI.g R IU;e
+O
+s tinpvm p:I
+
+ s tCinnhs I gCoog co,dmsasd:RoB Sl ttsl
+itisstlC
+----
+iter 300, loss: 101.222335
+----
+ -d Ronwghcpuois;d wh meod dith i,ith,htheSt,s ours Aog stbasIdliUcFhafd thoesien-
+en?r igmrr isit tuteueah yaieithre sssn pnlnl gh  m WmorananmmT, Joeumre tnad onmha nEkw, winr isr hyre mrrag,onlso  h
+----
+iter 400, loss: 98.573223
+----
+  tHe t a nge ihie Qan tof terit he dhiibri ihi givs tow eilimec airsarcche chisn  hl rhent
+OAgt me shirs
+Thets arer  mepthe
+
+jhD sre
+Ohers Oi nirs mot honne,i bmear lus Emot touslr a ahetoherg bsits T
+----
+iter 500, loss: 95.980872
+----
+ de Inore yauntanelthnc henthel moF wnot
+gos to? af
+
+A!p'ty
+gan iim talle tir hA' yeoch hau Lps eyedeisgeuo,y hufeer covt handhhe othe asalvo paonlacwe-eeyius  hah wset acthay: Jout
+'s ponm mowttacs at
+----
+iter 600, loss: 93.312562
+----
+  meyoy theokes sSe b:diMnin; iyg in rows?yrmeins ehe.h dotuuit tl.
+g fan e nauld Hod snin asl ane t. ilf,Whingaoct onded gamed ow mit ay R asc.
+
+VIkIP $ad cedan toue' ius tou onit sin liud aFnarad pot
+----
+iter 700, loss: 91.011980
+----
+ heavathen
+Wcog:
+Il
+Aolpe sT trkese med nimey
+igot fimet.
+
+ABIUN:jsdeye, awi,ses ouv, an woulol
+
+
+
+IA:
+The yhe lore g. Vot beve oouvet oot,
+
+nohare yCcee lpemey, spa;laree asa'.
+ce,se toen.
+HFw'nl,vith
+----
+iter 800, loss: 88.460266
+----
+ te, an.d
+Ft wiir toutharltchelf Wheaele bllL
+ycrom ie fotd Ronime fyfit Oigenud wour
+wocot, nwolre  chmFatd fwe thehe sheom salln whets nse.d eatd
+Co;
+Sien rtht
+CirnsWho tmelaille bsd peryt, mstas, Wh
+----
+iter 900, loss: 86.101474
+----
+  mmind:
+
+M diosecys' tur, varin.
+Nkg thret h ther gibudf'd housgse reer dalt am con
+ tha, ghlissct sern-th,iouswisrd
+
+MLVMLMSI-Y:
+
+CECIIUS:C
+Wwe:
+AA:
+Iull uidrther' slitisser com gourt
+p Cmoerst camic
+----
+iter 1000, loss: 84.007095
+----
+ goud moacu oir itmes &am  fenthy wout sopy mereut hassine one aune pnuth.
+
+A,CRI:
+Ses oes ad osr.
+cme yaye, aok.!
+Thinnat Cora iun her yhe
+CMand tus!
+Fevin,
+Wums caumrdolr hor oeebaloe nim:
+U-T?ortedp
+----
+iter 1100, loss: 81.749249
+----
+ art cond Iit more weate yot dan aee ve halat youthith t yle vdk thead the pot choy vere w hinti sorlf eamsis qtat ypimet  tom Wirep the id,
+erd buy tea bus
+ive :ote ay nod
+p Hay sayi,
+
+SARfIpIA:
+Tfoba
+----
+iter 1200, loss: 79.815354
+----
+ omu nar, Cou popunit Tomel
+d marech oiu blo fo! cerweobme aref shea I Boaf fapof ius, mer oriws blich enveele as out
+Autar$ru,ove'f bie seeily foritieit Fouc dur beoob,i oesebviare whecsust,
+Siln
+Hfol
+----
+iter 1300, loss: 78.092862
+----
+ h'eits;
+Why tho f hilat erit
+Hes Cavanl: Bt foKur,,
+Thy tird tit yea tite uunde in,DourI Ril, yunt.
+
+AVIUSS
+man'st Cardy herr
+oy huar ome: h en  ore .er ol the conayt vounsiv;
+Osk: Igcor indill am, 'a
+----
+iter 1400, loss: 76.641853
+----
+ leeianss bailng wyinalele krath so
+fof Iorkneto thuthe,h
+AEIENVUS:
+Yuum?
+MRwANIUS:
+Wiarere, nudel bs
+gy sakate, paciedcr, dalnceine cay cares troV
+-ou trad late geat tou irth
+
+MNEIUS:
+Aer sunal tod w
+----
+iter 1500, loss: 75.093019
+----
+ ecit, sils gandrfoq we o mober.
+
+A NRUMA:
+Mg: ailr Mauncout th
+thuerdle-amrethef's
+Onfdith odr thou su fyor meroud; hof the inod.
+
+y
+OlS:
+Bich. yatihe:lyothe sh wandiro ine seos theinos uterl ous, ond
+----
+iter 1600, loss: 73.797915
+----
+ thasde foU iund
+Kye
+Heanme nomir wch wowYhte wabthertheiging wasn oakn
+yois thim mary, Sowrerrottlrbew:
+Ialn fasy ss Mo bis dereherpaok
+
+Mhecind hemrer, wertepaenk
+owen wowt it waromisr'th.
+
+cibes hie
+----
+iter 1700, loss: 72.447271
+----
+ ng: mee the landusedds acanich Anpof irigt nae cmereban thapssgh, wars, gonwad acis apranrkir t. And andperaln miuchillimadin th. yim I'd
+As hyoU
+
+COEIUIUS:
+Youd hald aly vom. han: amaneeves,e. tonlev
+----
+iter 1800, loss: 71.338619
+----
+ im oll wivediods: beste aRed nath than halpd sand:y yol: cerink'd.
+
+MBIUS: Renare thegit had,
+In thee harth flarour sont ond unO wame ves! Oouss
+IS-the.
+
+
+MEIINIUS:
+Whirp
+
+Oors:inves Cene nomsyoun lis
+----
+iter 1900, loss: 70.077835
+----
+  ou hanet f cetm earh, arpcicr, co paurs ile
+s o ifnt veets krndeing arvesen she theye s wanee thin than'un
+B, panges
+
+yRaMFI!I
+IIS:
+Her ared; Inetereleditof werom slface,
+ceveun ure.
+Yatn ghelt lae'i
+----
+iter 2000, loss: 69.050083
+----
+ elis: wery cime.
+Wiyou caclye fofonllafcius t iof instiund:
+Hrendowteind,
+Wheenpise:
+Thet ersye blegad yeo se hmrtealid gmes mh it'cluce anked thap Yof Had ti; Wirciu kepeal gild
+Wirhill;
+An, noik ieo
+----
+iter 2100, loss: 68.205719
+----
+ d: the nof ooven,ino opse'p douvers fawut 'in;,
+Cour wut of let sar of thun, sice hou?s
+of
+fol dour she.
+qou to iut asch.idn iup: ir iokat hoptr: sommudano oun alm, do ace!
+Safe vus wte pimdender his
+----
+iter 2200, loss: 67.095342
+----
+ cyorl, ot oobl wasr, ant an, bo, at coul,
+Turss himuyyur; alm ou l'coum.
+moif the tot rreur spe sors gnovent on wo theille afd wum af't
+&ur sor.
+OEOmINMNe suan: ou! thu hen.
+Winl weis the bung hor ifn
+----
+iter 2300, loss: 66.412118
+----
+ to pat os?
+
+COLADcrobt, to your geitd meelke nath
+los nopy, syfulik our.
+S; I ar she be indg thast gpoucin, mati,d'ink lig
+nither bome be the norem f itp thven herchot act snadntetr bed mus Alsou thir
+----
+iter 2400, loss: 65.438719
+----
+ w, tho hesus.
+
+By Coopwe arst It toun:
+He sthas the by youg the dos mac menyd:
+Gicl:
+Won.
+
+Sojof ar dnot th, vhe as
+Cored Ping pnys ond, andur tice Coved tos wser Hirg ohicw,
+We Whutibry oud ver
+oul,
+----
+iter 2500, loss: 64.625546
+----
+ ontow plaven
+Ash
+
+CR IOROMpRI IUS:
+An tire;
+To id  peopl din,?
+Ast yo: owte, Ah theen:
+An dnco mess on ved hoccend angeld ivemeren viy yous le cis fod thy ake davec I ard iculous werus migemem and you
+----
+iter 2600, loss: 63.924459
+----
+ weate lof ade foustrzoo dod holy ho and Wur and Thim twebs, arlild on that, wet boldanf.
+nn, Ye hake had we ome he wrig, cat,
+Warwt;
+
+Thpow it, tbas.
+
+CIRIOLANUS:
+Taes she begrati ta dace,
+Sey to thes
+----
+iter 2700, loss: 63.181206
+----
+  yo sang, of thet were scwo alien ad so fot ath list nd Yo !owber mem
+fys nosewer nios the
+Coplaj'n
+Hals pfuts, andy unrotVave noubte he or urs nac cer fos,
+Thillar
+C
+CORLOCAORINIUS:
+Nove fte thicRpod
+----
+iter 2800, loss: 62.126125
+----
+ r dopbel, veth seisc'onfuto un, the them bn?
+E's ergerem veart hecite bs as gre anker surche y;:
+I coy co bled mus foreln torce,
+Wnor surasce.
+
+MMUIUS:
+Muschat
+Werveirs meanlesy
+Roporallemmay Ther,
+
+Y
+----
+iter 2900, loss: 61.638883
+----
+ be wir nsuthe the Cicoen:
+Vour,
+An th'che ? gosour thes eberow,
+Whe kats toene sunthe tree the
+ye the; nd.
+
+CORIINIMANDsUTUS:
+Whouull ave
+Tunt
+Tho de ire: manbt un meures
+Thenld nut kefithzeild them
+----
+iter 3000, loss: 61.167556
+----
+ che pithenot, owead, all:
+
+the deaeps axy ozy denem homusr MGaas; folcuras aad hosh athele net tizarn.
+
+CORINIUS:
+Seirlst mollither yhur ary bast'
+Youp whanst
+Nouns, 'soll
+Bf sarser pa phey ule ad nma
+----
+iter 3100, loss: 60.568888
+----
+
+CELIENIUS:
+Nparit whun I -os,
+
+sond;
+
+mERINUS:
+I'cl toull Mon the all beonkpuh that ich to ishig ptaus thrwcth
+A
+AENIUS:
+Ye.
+
+CORIUS:
+Cot oneJr; mat hersivet hham, of hatew
+
+MENIUSl:-
+Thik,
+Wean ho a
+----
+iter 3200, loss: 59.980245
+----
+ or uls the ton.
+
+Siscour opigh lavcat wy chad toe sees.
+
+MINIUS:
+Thal nome, pnit
+Amangawe,
+Whith uleswistr-Thiln to hatndate.
+
+FIr;
+One luct busy
+is an an bond.
+rou nlawm wr to iutrge, wius Ihesus anb
+----
+iter 3300, loss: 59.544853
+----
+  heonde nobe oomulmint coment I tis'd nou ee to res un you
+I
+
+MONIUS:
+
+EOLANNIUS:
+bSacs be poad.
+Bn int ther n'purtse phbailss
+Tpere leith?
+
+Fathe
+Mablo rof opso and aly the Cacen, f thakr meetu, wear
+----
+iter 3400, loss: 58.942115
+----
+  Mrofrryon sut.
+
+OENIUS:
+Jl
+
+COUTUS:
+Ny burtian thee voeh eorstis th babatre forom shese poull bnith beermor' site be to'e inig rcet ins tot sotn,
+Iin os! of 'egr;
+Wove dave wond beins ifv erg brat ri
+----
+iter 3500, loss: 58.486728
+----
+
+Som d pay be lep!olegerim
+Whimisthir mapenul poal.
+
+TECORICIIXS: youtre hairs hest Gow.
+
+OrUbPd at chit, co yos toasd canate -s an ere watrt I ir duver
+Wores seake'nWoup.
+
+Fivy themp
+W corvin s, are
+----
+iter 3600, loss: 58.274870
+----
+
+Aun difisiRoulr.
+
+BRUMENESI;
+Nhr int worg linkr, mus anthen deane'bels't bhatt the aridew yier:
+Rerey, heith.
+
+BRRUEO IENENIUS:
+L geanken woRmatiold son- to tht Soqalvem wor  oris hiserivenoremis tha
+----
+iter 3700, loss: 57.882555
+----
+ tre, 'e
+Vend war an of core. but ve som is is sogts, go.' hhy
+It whet
+I Igramn:'dolr aixnd mercwer hats
+Ind
+Seonad of.
+
+Bnd uppe iengim mall nowe thu t. I in croul.
+
+CORIOLANUS:
+Thein in shi ROEOLzMON
+----
+iter 3800, loss: 57.430712
+----
+ dsengsane:
+
+LENIUS:
+Pyt ins akel. an melc, bead fookey mm ?areater af not crabllem, the are tyoustwe henter ay the bans veof irt? fans, carkesen:
+Saln shale. Weine,iWh paved sietingee.
+
+RRIINI? And da
+----
+iter 3900, loss: 57.285756
+----
+ ,
+That degund thishemc; s'elo I an must yos, mad ounthut eron he illoo is pendedrmor oq rlowe Nour is wile deofep cor on theu, thel
+Tome t'vey yhead whim then be youn womd, hay mime wis!
+
+Ler Id hon o
+----
+iter 4000, loss: 56.890778
+----
+ n sigh navan
+Bor theins, of and
+you, Andt -ascith
+fandoutn, at wo tthat gullobor, ar youce,
+Thee morte goad thee, I in to as mearld as bors:
+Whe noner?
+
+erered thith wion!
+Th, apeceesV
+VOrBin sus no,
+----
+iter 4100, loss: 56.621885
+----
+ d heetare; heucren saofe hivel mane thed too fout
+Oolla knok th; reise borey salbo dbonsead.
+
+Sh imit mas ahen suse kobece ', te anpor: dabefint she, weos, nomst ones,
+Cowhat, af thish spos, I reire,
+----
+iter 4200, loss: 56.601539
+----
+ : cho, thavenWrincuth eure I gare:
+Iy mod cerbmat blot thyom.
+
+Mme Nher that, ave fread Somes willd.
+
+CORROlk:
+Nh.
+Ant Ssons co that must the wans:
+
+Wharp, bed tors. tomeile fove ,fre ane hetat?
+
+ENIU
+----
+iter 4300, loss: 56.228222
+----
+ Rorvitel
+
+ToUS:
+Donsiyese thit!
+T; sanladd,
+ANof:
+An, Af slose omedt,
+Ant uthop endy then
+vy thich kfartenst suat
+And dolat sy a sfoud susile ma
+Thanse vyours thou gome apintt nou them seve,
+Coth
+
+Sor
+----
+iter 4400, loss: 56.154758
+----
+ ty?
+Sonctut hentring, Irt honcelun wrus
+Wy in tur erank:
+Mou were,rRturlind tot wor not tof, ryds in lrot theo,
+As:
+Then, On oof hother hang, thunth-'ray God hit end noben:
+Youle,
+Arte:
+You cro ans's
+----
+iter 4500, loss: 56.184494
+----
+  thite eraat ofowat: buy thim:
+Sit en on acta-nsino.
+
+Ses S thit and e' seris, Shvit aclatilm:
+And then semea hanp,
+Thirs yeu hubre, the Saps, asd theike, ou hisn Lris, why as auss dsee efiln seric, d
+----
+iter 4600, loss: 56.091798
+----
+ u, wyy ay sonould.
+
+SICOLANLIA:
+Solk wis wirn yout: minquted led; ist to farg.
+
+SICICNIUS:
+Fous beis.-an besing
+on nope Son ly.
+
+
+FEONIUS:
+An wios. sre
+mige slny Got serme lom ondou swarg.
+
+BRUTUS:
+I
+----
+iter 4700, loss: 55.963650
+----
+ our mimist heapus Wert bun thet ind.
+
+fored
+I ce's mo gore site waunte hien, Cald wen favae.
+
+SICeIPI 'ess arnd youst, say thand peel.
+
+JoRIUS:
+Shet
+Theisecicorsofe.
+
+MENIUS:
+Le, as owe fercand fopey
+----
+iter 4800, loss: 55.775632
+----
+ ot hat mes,
+As few.
+
+Fow se apeale
+be tor hit her tour howe?
+
+CORIMINIUS:
+B anst ou for sule Egat, hy counlad
+Wetisezih mat mine which werc you,
+This, nomr;
+
+ENENOMUT:
+I I prethmeie, as witsy
+Wtilg.
+
+
+----
+iter 4900, loss: 55.697090
+----
+ cizbues,
+Wey ull mes pof ofe sr andstein; mall
+Vexritn tou hange tor cange sovig; Bn tor hint, sese.
+
+BcenCy wlst bly the guse brik belf
+ye he arde'ld s ir azde'glam is him nirsongis thy,-rlce ceorled
+----
+iter 5000, loss: 55.594284
+----
+ no frethens, thean sarw, remy.
+
+SICONIUS:
+Whes'grict hipter in food herebll
+Gomed, with emay he she pr thad
+de the, Aars nand to to;r?
+
+TUS:
+Shan Canosh!
+
+olfoll wimy no pom, anish for wot it, the
+wi
+----
+iter 5100, loss: 55.541081
+----
+ toy on beast soones:
+Menale best the ofrird at tor wor.
+Buk ou all ol auld.
+
+MENENIUS:
+Pnotip't ar hur fearmy yoLe thes, the robirithene's yousel!
+Ang tores aume youe Somer buakrly arterenq?
+
+Sessreng
+----
+iter 5200, loss: 55.299875
+----
+ rt ange tom bung gat datens, wo ta criom, serve,
+My kald.
+
+MEENIU IUfS:
+Honlakr ono yo alk as mond tok dropneld woln pn o hotird tham zemean, ant niwh than cook,
+gersy, you o thet botht efne
+len fogs
+----
+iter 5300, loss: 55.170270
+----
+  thy. fare,
+ thr ame his,!
+
+BRUIUS:
+Ye taksoce
+Whe at to erell worRank
+Voowe heer:
+Thes repis hase:
+Iw aed
+Anas theetene apourln than.
+I the gos cean
+Ho lesator sus ofay,
+To fomom geers beat
+y sid;
+A
+----
+iter 5400, loss: 55.152813
+----
+ mure ?
+Then lam; thon suttow, to co anvene;
+Thoos:, and' Cout
+ord Yiss you duthe
+Moo arise cars wertith noutr unger:
+Fils and; as teo oull,
+Ffoble, to sathave ankees. Gis wister mfremanus,
+Ass Robay,
+----
+iter 5500, loss: 55.324790
+----
+ Taal cop,
+Ye hos oof and fnore por ond wolastlu'g,:
+Thar of's an hade' he I Rhiiss, mane
+d ttat
+iwts:
+Mav gond ou.r nees, mercuke, wonthat, our, bvees:
+Ao comed poren buecy then,
+Oebnire ou he enen d
+----
+iter 5600, loss: 55.275178
+----
+ t the That, pfint,
+Thy shar
+once ar at the hing sows aum thien wereak.
+
+This is ghane Cithnous, wark oul dores.
+Th tar hile not wand thoun this wpyowns yourlat his so rofd
+COFIO:
+I so't tho neteruan
+----
+iter 5700, loss: 55.306286
+----
+ d raCet nnishey
+Yom faTad but luen
+I heate the btat. Issran,
+An:
+An arior brto far ming the habstirssrigtters but me; hit thand briveandsusceaOndst sich ey Bave yor, I himus ur,! Mayit I the meep he,
+----
+iter 5800, loss: 55.260749
+----
+ of yuus thot, siss, apris, ibt co suthill chey!
+Trounnerst'd wit' wor thenut'y and tod tour tonmo peand afe ar me ill: thy you gilf numind
+They
+Do sy laan:
+When sellgfold ind shes preepelgithobs thier
+----
+iter 5900, loss: 55.155635
+----
+
+
+BRUMNENIUS:
+All kas sof gichis,
+I they-? andeoder pati nteofend.
+
+BRULUENIUS:
+Tomen
+Antine nce'd youloblanZolse, Aell and or she pewpor, coofl: It be RnatRony beods:
+Cop; ir ride: ofe ppronmell shal
+----
+iter 6000, loss: 55.181466
+----
+ . kit thatan, ar biow hiis,
+What touce mest. Bus dlaris unnakees:
+
+NUFIUS:
+An out and gpith oul wain, too if tho an cees, fots ar anthe The peot on wefreninseinc:
+Antio hom nous; tides, erlut dest ald
+----
+iter 6100, loss: 54.986362
+----
+  thef he. Aod tor;
+Weret'll wherlef seaks: Pondinser lather;
+Whe the bpouch yoret
+Tnakn.
+
+FIUINOMv phakec: tound's forle tor the dithit your.
+
+Fir wothat!
+Cond,
+I stor fours;-And owrouve eag, Corgoost
+----
+iter 6200, loss: 55.297507
+----
+ ce-nter stars?
+
+COORICANIUS:
+Turg gosti heetr:
+Lhot aP pin sfet thust'M
+Bus on fos treive pranish mof frarowh hidont xorde suthad sranp tor ath andeallound Cif; that tound od
+Lonse, stire has hlend me
+----
+iter 6300, loss: 55.653003
+----
+  the thut awy Serealld
+Theed Ge yoa sernaple'st hine co noper ald ivor bloul head, navit ch irothit widerso, watht
+ite
+An diry ce
+wrond,
+Ho for the pir, my efingw heer,
+Gomy joud dencerewhsedith mo le
+----
+iter 6400, loss: 55.927888
+----
+ toug thay
+Laiito!
+
+Hinersous
+
+COUMINAUS:
+Whas isd tot bold supome. cy thayeny, Santshus it tons, ghous fhar of thet ho ganef Vroce hiso mowe.ly enog nive hien drebud the thad this
+Core!
+Ths mtett tham
+----
+iter 6500, loss: 56.004984
+----
+ act mavemy heer Ghe my nourofthy
+warky
+Oll Inle mong mgy this laveons at I ther bfayt pord be hans gof jevond gmurk,
+CWrask ave thou the vtincoun nogerdd?
+OgUed's thye
+This be vidhn b th a sews amve d
+----
+iter 6600, loss: 56.093402
+----
+ lende ther antherenewey beick and us to ot ther whaut with: nftudei seat? myed,
+An twou hiviu pritonde.
+
+GLLOBRCGiwh?
+
+GAGASICINIUM:
+Whid Ar imse,
+Bonndese;
+
+LLEGMENEENCMAN hite yow meme pweielld cire
+----
+iter 6700, loss: 55.880503
+----
+ le myow wconp, 'ur garos' sow y hy,
+Liolstendr:
+Thald tthe, wery fary he som waving.
+Whage theiseld coke gicgs; sthe
+Whrath,
+Hat fond
+Ligunfond thathd tout cians Gferiof douchey; thangy
+Llleasblce the
+----
+iter 6800, loss: 55.486456
+----
+ bus I do m nve I thor focl,
+AfUy love and pretirsest, -Bper thy, mhe's towtar she af wind, Irthee he I sove you mind I low cil inke then wy, sall, wor move wnow chot yotee was mpoun,
+Wher be peave d h
+----
+iter 6900, loss: 55.057886
+----
+ imch stas tive your.
+
+LOUCLESCoENES:
+Gut dot yoins I whe kour and corcoud de ixs dith aclGwimushep. mumo noum n me muthy tile leeplld at co.
+
+AtUS:
+Sot be ellorteard, than loveiers:
+Le,
+Wennanoo onsti
+----
+iter 7000, loss: 55.477463
+----
+ SSIZCENENU:
+Hou thize id inssuelds'ty mod peer of er cpot Graensbe on and monevere hiven ind
+Bom colg wit wefencuenctuth ofmy,
+By the I hise bathte coreuly.
+
+VLUADCENENNZUM The watt youv
+
+FiRgUSIZ
+AEN
+----
+iter 7100, loss: 55.600234
+----
+ g nape wy lads!
+
+Dibac.
+
+QRUVETEG:
+
+ALUCERESe
+AENER:
+
+Gotr thee;
+Wyaye syou haty.
+
+QoRUCENENBzze
+Ir: ne wil ycou ryou !
+Tore reak youzend I mibe here may.
+
+VOLUVEThReNf aipewar war you'grotem,
+Glong,
+
+----
+iter 7200, loss: 55.568442
+----
+  cto bulrakenont, aret dey Cithes od harst
+Ha kro mis mesbole ard manc y, har sord Mavetrcou hisutis fathe!
+
+QUELEY'RNIUS:
+Yhle'd upibuth why mery and mold theu ceatho, be cath theney, Qyighd gere foo
+----
+iter 7300, loss: 55.443866
+----
+ ag, thancled,
+Angureed of dit you sungulr:
+
+Thith!
+
+SUCETE:
+Gnuald, hat Cride asded faird you hemecUy maat, fir gow the-shar sofe Bit jlatinn thot?
+Too new ant thar Cou hutatheed than in cur and of th
+----
+iter 7400, loss: 55.360137
+----
+ e the him the land leep errcearanfser ontearen-boge tury sue blamcass waig the beshald athe, futhy.
+Thee cutigh bthatinesurtinger, welsacy ancuebe bither;
+Thete thou gren.
+Osthe bowhinfe, mang youres
+----
+iter 7500, loss: 55.162894
+----
+ ESTER:
+Whand Gom.
+
+xI EMAEN ERGIRI:
+IDECERATR:
+And malsynger.
+He thame.
+
+The athe cecisbulof sive nay coy, now utare do nalte, Gray,
+I
+Aming ko
+circald't!
+Fly to do eroud ganes sord node badishs?
+
+QUG
+----
+iter 7600, loss: 54.945717
+----
+  eave thl uemarit whes!
+
+QLOkCEANES:
+Tos shersdsend wer thus in sor acdtmar endede,
+Fand perel!
+Wist;
+Bit at ace
+As the gace,
+I n noyath onge!
+Bit, wiqg lettenty sers
+Fou the
+t
+Ot andmy chas; cant;
+Bu
+----
+iter 7700, loss: 55.130111
+----
+ ur abed: to of oul I of. als moth tealsum.
+
+Furor, lors,
+Wein:
+I wourwer, of tho llod ry iade hat thee.
+
+
+SEREEd:
+Witthiss ins it tho! iot hizt meir in iQ Muer and yout;
+Teer?
+
+SREBRRERMEBEDENMH
+YBrFC
+----
+iter 7800, loss: 55.239190
+----
+ urdives on ande bit wisl wiste.
+
+SIRATE:
+Whealle cur indtre,
+Andus
+Bor to for il'st
+Nou thy thous longeaje reed withe!
+I haran so dest tallutt thist;
+Thit avech ine if hefeirme randsounlad the hioun r
+----
+iter 7900, loss: 55.099287
+----
+
+T leter:
+An woon: the naid gom youpt woodese fo pisy tulveldi, th mpest on th, ino nous fendur? to my oud, yourt me me wong tof thais thes fare luds to tho de oud brof on dors ard thy men, thire it a
+----
+iter 8000, loss: 54.758677
+----
+  pearorus sirellye.
+Hams &od deore bedd potht ee forcout led deace wererifcoke.
+Bu'd int soul.
+
+Filldes: tha thee: we thandethis dowe rod bave fom yokenet thath cerike, dereche spove cmeed hest tow ta
+----
+iter 8100, loss: 54.284333
+----
+ Ihel.
+
+WieitID:
+Ovesew to chis deaces?
+
+CLANCE: And ise kerveret,
+Tut hrepes waUgtinkoss dole beise mrove To ilo thikt I amre mile sure singrer thiingat weis,
+I hy lay in famk!
+
+SICEREGD CSTe Rovtw ha
+----
+iter 8200, loss: 54.292753
+----
+ d on asatis ciske thag mid auk buther.
+
+Seve corde, woth?
+
+Frren, sellirce enoronye demit toog the doR't pre aKre Iratrishd nowe, the hishs.
+
+mind.
+
+SIGOLI ARNER:
+Bome,'d kand yourist. anlimu bcenerr
+----
+iter 8300, loss: 54.331395
+----
+ whis, y the foul teror?
+You Mint,
+Homly wcevor lert.
+KI you the loth your aise ry soud I thes the sethon.
+
+KARKTIR
+Sig, ermounn mese pljbeld ture chatht fy to wist cpt'o my, und inucl youry veril ese
+----
+iter 8400, loss: 54.446028
+----
+ t wist, lowurcnads wilise?
+I ave llweresly fou deile himy.
+
+
+FIUCBREKT
+ME:
+Glurs doun: shas wike:
+But fotane
+
+IUWIDA:
+KRCETTU:
+I yous ut tham will wou the cores teresy who? whveatis fibe mud cerd;
+And
+----
+iter 8500, loss: 54.567206
+----
+ Cote, crar so. heandr
+Heince, gal your avopr beach to cort hat,
+On sour chist!
+
+LACGRSTEzs ET Ed memch
+ry man doun and ly whikn, hartner serbecess I bertof
+Bichtrear ir to deanis on fae muc my sorestr
+----
+iter 8600, loss: 54.613981
+----
+ !
+Cirt, an wty enercen furioi go hith bempayst' ows to lreporthe;
+And he wint,
+Dis dadd fof so elan and I thans ow gofdr nowbind; me wout,
+Ag be peeds,
+Thoo dound ool his, rithd wishsc engavon:
+Aikie
+----
+iter 8700, loss: 54.483029
+----
+ .
+
+COACESTho dequl! COceriine tou trwearlby yior:
+Antith tosule ppay fotean chothmard soade.
+
+COmERK:
+Wall an fond aw ryome wers ary beged,
+Bnubl
+Myouk mighsh.
+-Dwyou snos savet in ald If
+Fith caod th
+----
+iter 8800, loss: 54.409715
+----
+ le.
+
+frene: Yot I.
+Whiser, youd, bled whouchre;
+Yeet is blegate them, I Egamenmsenbuevin sse.
+I thow lamind,
+Orupd that well.
+
+QUET&SSTORRYKY'd nalp Cawash.
+Oo faac'
+Hake mor, blaind hes by Yo prorulu
+----
+iter 8900, loss: 54.491864
+----
+ aw bryien thet
+I to sos wirg aiblo premrsthongd
+Our soad astiYe mlot nop, me madher very hey thostneo his hags wighthe Rincte o here.
+
+SiRAKGHEN
+S:
+I ald dich bford!
+
+Q.
+OFOEK:
+Ny enetrord, p, hizle w
+----
+iter 9000, loss: 54.461141
+----
+  now'se sake ha ur is .Ored cobrit ir ofalings whist of avy the my
+I acl deser:
+Yoeds geacr y, lonest of thess
+
+Gone ucears, Arwo hand antan lig civigare, laece if ques deat,
+My ritt sust Fancer thy u
+----
+iter 9100, loss: 54.312724
+----
+  Yor hee-feey wele dor; tones; me dear crigg
+Tile
+Dhoster coogns.
+
+GOUCORK:
+And t
+Murd, shat lrim loves afeilf and al llceow fortame?
+
+Gor?
+
+TfRRKWIC
+TER:
+Ig groke;
+To afeed to woulim, wus shear you?
+
+----
+iter 9200, loss: 53.741080
+----
+ s whe chere:
+Thetld wothall I tho shert.
+
+BUCNGCESTES
+IN IF-A,
+CSIVEGHERK:
+Feme of yid mblis beiter's then nod nidk not machash now chant llarger:
+An, be toutl-y C to Wiim,, thall I eothen, trerasmen
+----
+iter 9300, loss: 53.659912
+----
+  lave at fis fangunt diving his follom, cold my fombis gnald whink s thy low shonhes med sor Tho gacl the!
+And.
+
+CROESd:
+My granceer:
+Gold tellf ror And Corishint o wak tond the corm.
+
+CUisC
+ALASTEve
+----
+iter 9400, loss: 53.505560
+----
+ ly not seoacebrite I ache sh lomdivabilur:
+I leat?
+
+HARSing I thent te ds, is gnede yet, yturmely,
+Whet what apwar gpainswele to mutk no my's groug?
+
+Love unt moet, and mad as thee con avis, the nat h
+----
+iter 9500, loss: 53.336532
+----
+ r:
+Prasic yow I than Be mintthis so bot the,.
+
+ERSTHARK:
+Whe ot you arle po dfofe you wese, twan he thingry rpow mind probl.
+
+BUCKCOLAY:
+I aw, wher,
+Ther nom thip' the ther bivend,
+Thak wames wath, mu
+----
+iter 9600, loss: 53.323487
+----
+ ondite gharss it beafr yourn n her ate pery Whake loth in,
+I have seer tead fort doed nave treowar shanorth, frrathert
+O mall-'ly reviglas yfo ey no darel
+manoo wamp winl yreibel'd day celacgear's tre
+----
+iter 9700, loss: 53.211077
+----
+ ars leckers thes of trar Bokef
+Bni celd then be, beocire: Yos the famen, wilk
+yween!
+Chis nou gtarery, he herea peely weaktbet enorear, xerake the ot thye.
+
+GLICKINMES:
+Cond,
+A gerpond formeen diot th
+----
+iter 9800, loss: 53.244095
+----
+ thees,
+Thou notstrot,
+What it toul becYeteroweded sath, that slouchateroed:
+Whey duam tor of thave,
+Whate,
+Bve ofl wis uurceanss cutht?
+At, in semy tor fechord,
+
+HOUCESTER:
+That slaef ther
+Haye the so
+----
+iter 9900, loss: 53.157130
+----
+ r and of hord-, not?
+
+dy gladge stinceace,
+I
+Ourees aok me, coacny bo blive him I this por noustal'sroyese hit holders pisinerdstor focrs, at ig; agpeals decibllow, of of rof lidcind torque my; lort,
+
+----
+iter 10000, loss: 53.098292
+----
+ wein, gat, wedt then proul'd go dite thee cont day of? ard son sive Ligh have bide weed thot and the super, in you gontsteish, I hitize wcisperennf Lonk the I it luctr. I hasl, Bom lach he or cotbize
+----
+iter 10100, loss: 52.971285
+----
+ so is thit thour me: y utleersse sod wit towalith of, arbead pary tay tueld vein id of canef minc-prichd cead, wime hise bamad ard dord lorsseid'se sured, heok tros my with ou hould.
+
+Hlurijesscalcous
+----
+iter 10200, loss: 52.923252
+----
+ e athiev wix
+Wrrves to thisce
+Cit ave nend you ghith she dreice cey,
+Myin ttela his wing of thin to sott the to ais'sw
+BRed:
+By so Thereeng.
+
+BUCKINGLAM:
+Yout of cow, beadp, ar wistor, y'ce face the d
+----
+iter 10300, loss: 52.936537
+----
+  ant say your save yeod mymy! lallouthe will morner hiclay your comase shim's gor ceiug his nid kelt momy in tas fake;
+Bust maind.
+Son?
+
+BUCESeCHeny, and dthereord bens, soud, yor you to heseor.
+Browe
+----
+iter 10400, loss: 52.739829
+----
+ :
+the, th erfeilf, lurche geark thald dang is ham gaelou bioqus my woy tith the geas buontain ly Caid ortter is ind is sujrendrersery you!
+
+GLOLOUCE:
+Eld cpen's youer,
+I fit wisosh the that ce lestant
+----
+iter 10500, loss: 52.690595
+----
+ ince po fall hodr Eddark of, tey leall weome.
+
+LOUHHRRK:
+Dive theen eind sray tay?
+
+LOUCINS:
+Nour thee I hoy, then;
+I c, him thy sryer beoad And,
+Ogry ard meath thind daing.
+
+TUSTERR:
+Whith of on be,
+
+----
+iter 10600, loss: 52.840004
+----
+ e wishars heere to demedsestert frate
+I that sull le fonsinpse beeln? yordint low I wer,
+O, thicilomaly!
+Cod broon, pear,
+bne y inster, th't solS cetind,
+Aft aratien.
+
+Be INGHan:
+I whel:
+And my lave t
+----
+iter 10700, loss: 53.014239
+----
+ at hom skatield,
+Kad of yourtr whonter'd thme seay y reacheen:
+Weot how m awime That it than Cory hentird.
+Krave ache, heem wumgs like me ind tof orwrer!
+
+BUCKIUCEKze st meild ther urle forks!
+Be toy
+----
+iter 10800, loss: 52.794537
+----
+ cee thikh lonobllaso blocher co pondst.
+Nwerse;
+Mable lainch I on mast'ssest is to ghochme me mavion arespaimes spithe,
+Hiblran: I on laq'bseed your shy bike it eable and'thap
+The time.
+Thebe my theil
+----
+iter 10900, loss: 52.890714
+----
+
+What pous
+in gaRd theat, Kage ceve hotirggining nae ir sie, lear saUt ay fomaaleire bingher byoud thoo sor.
+
+BUCHERCIAF REde:
+
+ORDI
+ME: an and crane pune seatis to hy hay mont, Orpfige.
+
+CRIBR:
+Mics
+
+----
+iter 11000, loss: 53.154344
+----
+ soo dow
+And with Raded
+Te; likere.
+
+Fhe me Thak dath Roy I hiro not the 'naRn bud my butt hin uinle will agllad the; ance is and mayso and his butay semergeow.
+
+FVIDI ILIZATGHAM
+IAY,
+I bus hame she be
+----
+iter 11100, loss: 53.252696
+----
+ ,
+Onzinf, hate 'ulf arein houens tily tur mathge doundrear in whald pleath y ullw vuwt enceatrt to teath sathet impes oy mowe,
+What
+You in
+Chene pwort.
+Cot shince.
+
+QUEEN?
+Try fars why stardieg,
+Gn en
+----
+iter 11200, loss: 52.975348
+----
+ any, preic nour ford that -pramd, thee
+The hort ast besl why, deenpabce, pethe doth ugk!
+
+HAYO ADII:
+Noud wit me then heir, my to mom;
+Sou haid, ont Rpacking me yourord?
+
+BUCEIHMI Hath Redowase, art t
+----
+iter 11300, loss: 52.660027
+----
+ ier?
+
+KI
+THAZCICDING:
+Tout thef tham dave case cace,
+Rhingh thour loys, my myiegs ha blenoll I viesthard,
+You choet ceave thee You.
+
+QUEENN
+FI I RaCHEYh:
+Nuace sadghy of the gey wave mere and srom kam
+----
+iter 11400, loss: 52.235594
+----
+ en these.
+Wheas cormy Uf fous no; af, aod our thie vert ha I Hoo whald gaune carom heinethiem geapln,
+And ad Dims asl'.
+Os jome no cove amiest hig
+The
+Ther shoun er hitnsjuldey aus eng?
+
+BUCIHALA,IAM:
+----
+iter 11500, loss: 51.563956
+----
+ ASTI:
+OF oud athe, hauss of chenald wial thing Kyim of if then vom, thtl tsoce so andl,
+Theye,
+yet ave boer n thim hale core of Ans ang, ware morconssei he night you nons whelf amy ngly goblath the de
+----
+iter 11600, loss: 51.362177
+----
+ st in to toere goves! ther ofrarsed, angy ford;
+Whouc,
+Whenourd now sawher ando blam,
+Thad That at her-'Sow cash,
+Thint,
+
+KING RING RINN ETI IKUT:
+Ther a ancherds noving:
+My taury y weaden: fhare ries
+----
+iter 11700, loss: 50.703607
+----
+ nco-dould pooy wileosts as with,
+Af dos be there's, ay chir's men hot rlosst me that thed gutht- illy ssoag for sanst these-fr'to comd, I mood,
+And aw weoy, miwath rife helt
+Thou toat arentl't mingn,
+----
+iter 11800, loss: 50.612632
+----
+ d I my teve lingtne?
+Of a pist, dold she clfarging,
+Ontinf, thefr:
+Oe minc,
+Es marughiln:
+I, nor fain of thour fay.
+Adllomyven yoty mowh,
+Sir afpelieghnt RI shal he tont tnom?
+
+KIUCHAQgI:
+D say in the
+----
+iter 11900, loss: 50.542586
+----
+ ger; Sily premy blish, Sild whiling by grow die water!
+TiotheWh dref leak thes.
+
+KIEN I
+ASNCI: So deollitht seen neadher he shall mer's amy mey Raissure; sorest Sang me buingree, Rovitt cedrien,
+An il
+----
+iter 12000, loss: 51.059510
+----
+ m arSeal
+Caicl Ees teares,
+To his?
+
+CHAMCHHACHEICHIZATET:
+Thas inou his his ghind diyce onpood?
+
+ABgE:
+Iw beancile wemvrordn;
+My the and o medle's frewid wile so fod bur gisst henstingh, gerty
+Thends
+----
+iter 12100, loss: 51.453083
+----
+ o dath muist thisr cord and toat, as sath toutran my ood I twon goot piscort, felldonceir seor rove of tille ay tor su my tofe ther to the nortieg?
+CI
+Whe
+The, ban cot;
+Bom suplo, peandsan, to of shat
+----
+iter 12200, loss: 51.751027
+----
+ t hotetonaldt
+Whoulldn, the pie of hom.
+
+KIUEIH
+I I ELESVORDI:
+Helask Elkingh
+Ans ase staRgather wear, fort highend, I sher seale tit stale gaut rich radden womt tho veu buut rapy vild if yaure thy pe
+----
+iter 12300, loss: 51.869506
+----
+ ICLARCKIND:
+In mem,
+I
+Tp theer:
+I hief tol ir tsours hofeende, for murd now my aU fratised syoun faot of troust my Cor frlter, mersureom ny tarl I ist the iu him,
+Ferandonesund ton, rikl'st-andame's,
+----
+iter 12400, loss: 52.384818
+----
+ fe as ablinghit, has midest
+Sely sare, dour.
+Thull tiy sof the mever!
+My'de so kertto anduer dame so seise appoy sanDenisht mome whonlut's.
+
+HARDs:
+Fit ig dyrer?
+
+LING ENG RING
+SI GORGORY:
+Thur cay!
+T
+----
+iter 12500, loss: 52.460323
+----
+ aby Nover me waloy, my cy-you tois bard of my tover in tres.
+
+KING STIANG:
+Wo fore Inrquod!
+Heir it to fores atpor, you semingred lain tile, firchen:
+Rfole fors you surefonge dound,
+Hagh wen in att
+Th
+----
+iter 12600, loss: 52.297928
+----
+ tn!
+
+SICHORD:
+The
+Tou wade Borment commen'd the an thou surm, lot pour nor hilind aowallf!
+
+FOUCHYIZTIR:
+O ous upiret
+To oly lany an shoy se deate, pod of in sarearlour foef fith her
+Fack, I jass frou
+----
+iter 12700, loss: 52.522080
+----
+ on it Clond glapg uric and it gis then dath.
+Mithcot se not ay corgnul, one, ponw d?
+
+BRUCKIDY:
+Thisur be't ampard the-so.
+Red tinten ryoble it lood?
+Thour the hisher to ertor, bove of the cearjored k
+----
+iter 12800, loss: 52.783503
+----
+ thad now ay hy o all dace will the for in maill;
+Ant Tryien.
+That
+Ruech lows goveir!
+
+YORGHSICHaRO
+TINGH ID:
+I woch erain, I
+Go shother:
+
+RI INNLKIZABENG RDTCHINGHBT:
+Corr'd me eams sad tha sor, my th
+----
+iter 12900, loss: 52.890506
+----
+ :
+Gisr bus geave jraid owame,
+The bow,
+Bpeewllf noverceth Gy and us lav tile ost low, beatien be uptel:
+Tor bir uldartf, o dteece.
+Not enyild, maldt le icl enbith deond my thad I hat has bess vith ap
+----
+iter 13000, loss: 53.078615
+----
+ nst hearn frich,
+And
+I sack mees? ematile the mond feclletes owtruind spars theel:
+Sosteed ord'sgsile to thee gonass,
+And Kandf, woar ace bumiferay citer noust Grectore ary by the by setin wemers, bro
+----
+iter 13100, loss: 53.139911
+----
+ odes, Spoandong fathererwhotr efeof fearst folle alt suserechadar mather ant srmel, If webeingss lasher tautnt--learter:
+Thy mi of sor-and y bor,
+As wishick incellded, wher thisp cord hy spIjoedfpleo
+----
+iter 13200, loss: 53.344020
+----
+ capcestlJ'd thes aath coven a apr, to fordosgsef, koous
+And id mpcerfens, pouls forcered t!
+Whade,
+Whannt, elnard pots all brivencealy dingat, pin, lals deome foueds, is Got, shaue peamys mowe chavear
+----
+iter 13300, loss: 53.266620
+----
+ dor or the hann G
+Nour thre to I toar;
+Wish kince to till to thyel:
+Ay Gons doud forse,
+Grousd be wreantrneals my nath thou of Ham, and feoty worss werpate ontinester,
+Thlisl,
+Cfordend:
+God I deam has
+----
+iter 13400, loss: 53.309655
+----
+ it.
+For Gorky ther thien mougter you wing;
+Do payquy me levuln gowary's ever momet hiblousen bithn we hort, the licgiigh lare seun tofer up mich hy-ald of ut has, hamate tof than thelrales siges, Infs
+----
+iter 13500, loss: 53.343738
+----
+ ING'RICWANF HaM:
+No her't sivet baver feat, the meevelvercutilich lags; of her ugoath must retinth' lnave swa, his dequlisg me well ou in inaad,
+Mow sunce wrairs froke koven Lancous
+Of the lo kigin th
+----
+iter 13600, loss: 53.222239
+----
+ ly thes?
+That of thy forfant Wac your thouk cubigher's nOve hald;
+But tyane;
+Colsimessearve herp ifurith.
+
+JyOLAkC
+T:
+F then dnosingighing lonoul sake.
+
+KINNC'K
+THe:
+Murredarsen trueser stounds ofe ki
+----
+iter 13700, loss: 53.170993
+----
+ in frmeich yhar areed tho'r I pary undrechirstimy Grece
+UEd nou tplake of henfoun to thee sin narterefren wot thav of you his rowtingy wir wold dustare maind?
+Whens our uhpall Ssacas?
+
+JDRONGH:
+Wike n
+----
+iter 13800, loss: 53.134701
+----
+  wher thas ask
+Teull fold:
+Thelis
+Jot hing in aind P this I to rive ltous wceest
+Oy agrose-s shale will,
+The
+As ofame on stall do hint curend somen of the. Hands of whis blike upous thoke has I sanctw
+----
+iter 13900, loss: 53.065636
+----
+  him,
+Ans got Igneans ports,
+Thy dagpec?
+
+JOHT GOUESS:
+Why vang Jitherigh hangides fearge, Yat cieg, bur mais lopf wath lonbur'd waspest thar now leavoatt lain he sien I- briey so seobbee peam not cim
+----
+iter 14000, loss: 53.194002
+----
+  tom Cit.
+Buress myfur reandiug feond Maye thy teue tid lengest
+And pwerforitite,
+Bing'd daty gevesting ave ereses n't digld,
+And ponfen,
+And nanTle to kexveningevent hoind ppall wcainsst pajls mares
+
+----
+iter 14100, loss: 52.905415
+----
+ ind ill, for hods yoot hincaleius.
+Whing gaving sore sald goodst her nom corle pe ligh my uthel:
+Houed,
+Toot tore wha's
+
+Lor IN frin apr aullagy,
+On stry as mocke
+sizence nor nis handenvis cor aree la
+----
+iter 14200, loss: 52.820125
+----
+ g tor for the want to bemee anHante llow bikess waruent soo faryers fakirgs aok han courflice ou lreded!
+Win woughir's'd is vours lake jOured auro unstle shim, my lounte'd you pe, holl gawr; wol us my
+----
+iter 14300, loss: 52.856897
+----
+ onstlenpens inco burtly pfanke
+And ay Gnmus int thou nar frikben out o bestrankanf;
+Whein; she tower
+dereold wim.
+
+DUCHORD II:
+Whies leatred herery, prehann pare bomerstef fand paisen thes artin that
+----
+iter 14400, loss: 52.959193
+----
+ f oope lathst thy all wiingusherimendor yeed caighcind:
+Is hist, noe the I thive and manalyirg ad t t to Rides gathise then aetsto-thing instordn;
+Sove, the's shat Hath ama ppasthod;
+Ferpeen peentirg.
+----
+iter 14500, loss: 53.012804
+----
+ e bunver lar, frald dop, wobl kok, hath doug goth! nae ot,
+Mantevige,
+As frow at gimernford craces, kompests wpath las if had croakth noust, fore
+Ar eant, ly of in tith,
+For;
+I hare what towy the roob
+----
+iter 14600, loss: 53.059078
+----
+ emis and alllowe stexse, ond, awrendceath gous
+Byeim.
+Go hars.
+
+Seself as ir havandsly.
+Whings
+Wares out thee.
+
+KEScH:
+Be.
+Yoor tof your and cyearftervordn:
+Wheire horpo, same now heeendath's of thins
+----
+iter 14700, loss: 53.119543
+----
+  seall womp to thaghvell Vorter, Jnowneves Buriegerow yot thattrend,
+Why kelss your thir wave anfhell
+Na the son kay hondave Sondse-s will naur.
+
+BUENENR:
+Roy Ork for no me upelearced so now mest of a
+----
+iter 14800, loss: 52.958814
+----
+ ink nords leer of my lamece, boms soval.
+
+HENGg:
+Best blance coreithars chits. rove of ast oot wiwlly or vamethy wint I in mrenaing fore gily Core site wrien
+
+DUTEOLWANGHES:
+Curtuces.
+
+OULING?
+Whit ve
+----
+iter 14900, loss: 52.780431
+----
+ e now I brows mangile.
+Bur's''l ken of nese thear tex youd hith tny, I simce nitiad thich lungr mened it tham nop tho, in wy de meapl ea to in yore thound; sald wy arcow wrice witt;
+
+ERUNER:
+Sey swarc
+----
+iter 15000, loss: 52.636534
+----
+ ee rday suach Buth to on,
+Ang;
+And reand: mrishc
+ablow wil red my bakecess brimvarom in of is noes somnd,
+Hgivace neveephires, whitce my comely all mys
+I proads my.
+
+FUNORYAY:
+Gos fall mok seablly, yo
+----
+iter 15100, loss: 52.648439
+----
+  becmat tsagieve't my he fhive pops slathans nertends wald:
+Buthy amk mung;
+Buke it cay ce, trunge, and.
+
+NHERICHAR:
+But terbard wingl:
+Bur, my Induys lopiulowe on at ske reing afo a kis hos gome, tho
+----
+iter 15200, loss: 52.609174
+----
+ ze I bor the purd wath thet of deman, weres-Cuwrent keabnstende will oad thom th
+Nors Bus to wry bear dy on,
+A my, till tour to-d wath kur has.
+Ard in yo thest the sy I thas to my which to ios?
+Yer fo
+----
+iter 15300, loss: 52.714581
+----
+ h:
+
+KENY MAES RORHK:
+But whobel,
+Heis of wearces ou on ther of these the heror.
+Slaith, Is aNmo-ds lech
+Ancave wid Droks your youronire,
+Ard seot,
+Aad thed my whiof ow he prave-prish'd seaotren?
+
+SIRL
+----
+iter 15400, loss: 52.864023
+----
+ n xordoy;
+Seon thim peain corse naris lasten, uce comve win pabats,
+And, Mans so hisp
+In oucl ppiofs your ton otr my vay le his wiprate dinghir your and heacg thinct fa searts corty pus woone blear:
+T
+----
+iter 15500, loss: 52.823071
+----
+ top to will
+Burel, at lant kew ming aimino Ifrind a tray notery shiters cors, Eslendss Whet erake nopristoy aray asm-anke hit comersuld to his bath hit thes
+And
+To me, thas is wiltere,
+Whir, forter;
+I
+----
+iter 15600, loss: 52.656424
+----
+ RTERRKICHA DO ENcF ull thim zeath the be onfol-
+Hollord shall aspelt nof? in.
+Of thy whe sperencuncns isr,
+Fawh NFmill, 't is lakn.
+
+KINGul:
+Ie the thour let
+I cxprereiliced
+Weald in hans wist dowid f
+----
+iter 15700, loss: 52.738636
+----
+ blow fers hay, love noth kirghyowery theaf thou swall lork let, shave Cwsey askings:
+To brarefflmunt ay felies;
+Ry lpienp of ou frthingt to wik brdoomeant of if tadeet belerss bleom a hoc lef bubithte
+----
+iter 15800, loss: 52.693483
+----
+ be thour y on rind,
+And dis you you haveaen is wheits you weliigs Lifgares ase ald ford fillare thet prese: honvanlou hother to aly,
+Os prsse say your sus ffor is hound.
+Hy fouds lur ream und hildsbur
+----
+iter 15900, loss: 52.396924
+----
+ e king urguso path kelisess gontln the risht
+Uy
+He Jandld the ay arlioh'.
+To cord,
+Ssa ton sonh:
+I contelk wind.
+Gtalll it,
+Wust,
+Whal con nave seathy prommy, un oold.
+Thel frearms curraf statelac:
+No
+----
+iter 16000, loss: 52.576149
+----
+ the may
+Sin you nod enang
+Kank gotonceeave in she if koosnswellisfour's is the slom't your cowbalke'd wengo mamith bold at Be the of wilt a wang.
+Til of prcaned ment of a tuld monted:
+Cor thourgesh'e
+----
+iter 16100, loss: 52.581025
+----
+ ach siel.
+If me woulfnelt sheed for aply fath thes to thinut hay!
+
+DUKESe
+Thou ther tand.
+
+GUENR! And:
+The ill aclosd? move by my.
+
+CHENOYUME:
+Morar:
+Andore of wich singe hit bo, toot tor say carists
+
+----
+iter 16200, loss: 52.363888
+----
+ yore afy womp oflke scy.
+The eavy hoansce with your now:
+Ir that the kengads:
+Fo oll the my fors fout gear:
+Erd nop thamu no the bly ene?
+
+BRICESB:
+Hof.
+There may Hemer, ay my thee s thpour.
+
+DUKERRHc
+----
+iter 16300, loss: 52.515876
+----
+ lbind louis yfail luef your
+To he suren deatr hit nou coind it with t luke, theadgl dare wens Lols beils stingly geot you hims pawion aut, kidfurd genoun, dom, and you serwy'm, seovere cabe to lood,
+S
+----
+iter 16400, loss: 52.482714
+----
+ ND:
+
+I RF ORLILE:
+Heredener feome susther me the wry meaHy with thin hen tormored
+Thave,
+But cide to the tho pringrise;
+He.
+
+GFORLETH:
+Turs thed Wiot mf of garintery ow are graind on for arain!
+Witter
+----
+iter 16500, loss: 52.193327
+----
+  jowess
+And mad TherYer
+Thamp at my why at out rood shere
+Bor I crowe geart ontere, wpran sruoy sour the rat, brow,
+Thy of ly growaret sithins will serte,
+Tho by amy dest my br all cante;
+Simheror who
+----
+iter 16600, loss: 52.019253
+----
+ east.
+
+Gondw;
+Hirl frobed; a nanes a paegiors nowrmy long, gis ubperemth tra teousces, insting thant lidgowe timen.
+
+QRIEMEIZA RI HORTOUEn:
+Ruekere,
+And soutr:
+Wemp'd my thet briell.
+A, to hivef for f
+----
+iter 16700, loss: 51.697684
+----
+ bimertervet irot'thendo share mang,
+I ofly? Cogher:
+SNowe key Bo foroobd,
+And till ofe coundf of
+Whive pombse ind towe 's priet?
+Thertesl, to the foive the hothe.
+
+NGRDY RIOLTIZZAKDOBLOLINGBRDBBUKILIN
+----
+iter 16800, loss: 51.771836
+----
+  here sowall thon sust mear, and minge chovee fod that
+We ruth dut sand soegers und wore hiin kigh thoue sate:
+Katk.
+
+STrOEBET:
+Wh tord werestnest
+Thou, prongall maye uxorf.
+
+Lomd
+Sguit joth and.
+I, y
+----
+iter 16900, loss: 51.549319
+----
+ KEL:
+So in in thoy Your thearlowed freth gutred a hive the to hive a rinzes,
+And you deatlugl'g thiule
+An loncoen,
+And taky a me with deaf cameced, that to hans of that.
+Tho ving I hend to daud wes, f
+----
+iter 17000, loss: 51.472364
+----
+ hec prong
+Ath swisceron: she shaur welet:
+Thount levingchas? yood at thou my shaildnd falto, as ppong!
+
+DUCHEID UFE OF ARD IOR I:
+Shu I his thists blingcrave arle'but hey of bome snithats,
+Tur, frine
+----
+iter 17100, loss: 50.970499
+----
+ e be on hot I the sor wand.
+
+BRKCORHENN
+IS:
+Or mad hasre itwatel.
+Blinthin stout?
+
+HUHETAUBBUMERLO::
+I wht conie us then wien gtI'll a nou arvo hast lod.
+
+DUKEH O ROK:
+I lat; me sall wee my,
+And'trsce
+----
+iter 17200, loss: 50.635781
+----
+ e, sergend
+Antimy doest.
+I thoug
+And lswal ther bongeeve? In us gincen.
+
+HEND OARLOFYt: no that srane ghongt mpee liigf, bidooms lor,
+Weem therede.
+
+DUKES OF ROLI:
+Eterelld crove with beresproud the i
+----
+iter 17300, loss: 50.426144
+----
+ ng tith dor hat trule bor od upand hore me'd whe pire hey has we the pard save sear, raccie rins repield wernteadne-Dronqut.
+Thye untimuenser.
+I ou din your then say hea, bnay lopand pespushe-derued s
+----
+iter 17400, loss: 50.417610
+----
+  bet rott.
+
+DUCHERLAD:
+And facket I primes be Ored'store bares for time fat loss,
+Asl theer'st Ney save erigf thisn wo fowbensser;
+The the enthile prea worand.
+Bout;
+The agh thave daU;
+And
+Thecithard;
+----
+iter 17500, loss: 50.555111
+----
+ cl
+Id in whist herad:
+Cor as I tone he foull'; har.
+
+DUKHE:
+Lou. Pu tr kensals bears.
+Hengal not your wroue hary:
+May, thak hord ureat ham the.
+Tha keartwavisgenthit! me tam firit me come forpeart?
+NU
+----
+iter 17600, loss: 50.559402
+----
+ lk hosmond? heeve
+That dowe hauncuntifh this in my ard rr he pling I hidmict:
+This sor; comt, sher thall dedt ham as Kearind the ate
+The, heartendf to it grorn I saves Becondone guld with to dilt deul
+----
+iter 17700, loss: 50.468597
+----
+ he palt, at thee of lors.
+
+
+RLENY BORPE:
+CI walter of wat will the hopl n, lid hove, chit wieg, may, on my,
+Snoosling ste lon;
+Hit.
+Zath withow his one the andse the pain.
+
+HERK: hy then,
+I ing bay si
+----
+iter 17800, loss: 50.717406
+----
+ here, thou, are have Beusk wace,
+Thaidow, care lome iss mron: int, a deas 'now whake Bet, master with.
+
+INGRCORK:
+And neds of lave ken sentiloush core kinmur
+gret deare ding.
+
+CORSOR:
+Gowe, I tears th
+----
+iter 17900, loss: 51.151765
+----
+ EBLD:
+Ote od, sitmonadest and wees, my shall don ling his thad I path mamart, cours bor and sank her file to grovy, way dething of wotall cord ourl, Qow shis mndpowhs, as be his of, vours,
+Came miverj
+----
+iter 18000, loss: 51.332927
+----
+ ? fritushy ghenser; sinsurgest thoureld uish, as ltey.
+
+SEOHA:
+The, shy ip moving brot che wotthy! sor bigh:
+No nos norgh V
+Thy arvespuro your beanouses R fear nest thet as beat anks madtard in the bl
+----
+iter 18100, loss: 51.350338
+----
+ , In thou he son.
+Then prob manes forest, gavmount come thee frase:
+The shoued pake winevelsh.
+
+HENOY:
+Lais have of the weow tope orresty st.
+Go id log me seaden?
+
+AGOR:
+F the sinesul I It sesaind; an
+----
+iter 18200, loss: 51.512911
+----
+ ll and and derper, shainmo dithe my,
+So eliem freire tar theps Spaiksen'd and INoud Rikent gutht thithind avet ther pardy to boy my wpoll foret wild digls beours sen't or there hak inwerle hie paty fa
+----
+iter 18300, loss: 51.810579
+----
+ osest.
+
+GARCEST:
+I wheie sest mishom oo coockny yir this his ad Guckne seabllo; your for-ly, Bulate!
+Ee Youl wils ding-my, ther arjatherth, of gotest,
+You rict saret she whyiesk thousene ou wiledby, d
+----
+iter 18400, loss: 52.061085
+----
+ I ceare, has the I hall pacrom'd Cod cough a wardst wate nou more.
+
+EUNYBII:
+Oy, a I ward, you so in aPith quain womsseaty!
+
+Manes nole:
+Ay my lynon Yist;
+
+BRULEL:
+Frabin,
+Care gamane sow tolite som's
+----
+iter 18500, loss: 52.196671
+----
+  my deatinhaes whall worad; found,
+I hale death amenst Andse htwoms nave soy, the beaglig thad Bech I rping, yould:
+Aut hay oad the pirge''ll taom And nowathy an deall:
+Mane cove the;
+To the bonthare?
+----
+iter 18600, loss: 52.278344
+----
+ he,
+CAy, had shpe sf combios aid.
+NGant hay wo
+trane-f-of hty upmar som shallt wren no prences, that wile, ox be praus wagen me of wale'ter mins'in ind dearsead;
+Ctanc
+I end burt, ir.
+This I the steng
+----
+iter 18700, loss: 52.505445
+----
+  bees sill
+Ssto me of aukrs fear, the wan sote I cor a whe jeas sotill of gove,.
+
+An.
+
+FORCOUT:
+I what in se.
+
+Sh; thee's cock!
+Bumbreind,
+Mos; fort,
+And' chee the Aly', sonds to cmavyed, wbntaino; P
+----
+iter 18800, loss: 52.714915
+----
+ withry hy is cilier's nord?
+
+AGSECO:
+Ant:
+You thish may, and
+Buth spe lond, to apllom sary maky, bentoul mes.
+Bow bpelday, that-y, ssoll lovetint bore thigh juch to nay ame gromil mance sond Bulase.
+W
+----
+iter 18900, loss: 52.802344
+----
+  of and phink fore me ghath tier:
+Mikiond, thacr abllond wozerd so soo bece food noad: to lting I of quit gemontleet, antss sour herede sacviep egremcesr hen:
+The levents lives I my matirike wourt oob
+----
+iter 19000, loss: 52.657745
+----
+ e the bror epmeqube her he lor, nos ige this shee a tho shour id havile, been iptlow hip hive,
+Buli thouj unther,
+
+eftst to ther seakeds ty tor ther I's ky shoom:
+Sanew,
+Mame
+The.
+
+HHAROLS
+OF:
+Yot lis
+----
+iter 19100, loss: 52.685841
+----
+ as lu kruw thain
+And woth and thtire.
+
+JANCOLOF,
+Thot a my, lanceal the'pree? of our the me,
+Aff wret thou minggh't, laye waed, coodns hece of with.
+
+ROVLOO:
+Inse.
+
+LURYT:
+Ou maas.
+
+ROROUTE:
+Oo! he'ln
+----
+iter 19200, loss: 52.425145
+----
+ hapwors;
+My that I lovest love has sas Thaif hak brat
+I'-wondim himp
+
+BENGBTAND IO:
+
+Hath gold vidrty!e Lours I cov beaghs, foriosusend hy me tullone thou that ancusher ir woreave dorey Sos a houn--ll
+----
+iter 19300, loss: 52.248807
+----
+ h, thos I einemvees areesoingeta, hear,
+WiMy brothen.
+Cinede Rideep ligest:
+My nently tepallantowis seemr -pheald weiteal, nome, ah hin, meag.
+I and pcath wan nath wite.
+
+JUHEES:
+Ih gould mors
+Thaury:
+----
+iter 19400, loss: 51.902443
+----
+ chith priup it me the my whis b full deemu!
+Beettwall theik werpeppo smenbefy, tirs adter love faghuven on thele weres deen:
+
+Wericht
+O, shits utter;
+Reveared co gire farce, wyeen: yote chald sompny f
+----
+iter 19500, loss: 52.018321
+----
+
+Rraind;
+Nain be they me I woy se so of there mes sloogn.
+And ind sternen dons mimespeas womeon:
+
+LOUET:
+I lios sware devesesen? foes sore pretere o sain.
+
+OULIO:
+Bulmy ho pomer sane, unk of Rond,
+
+RO
+----
+iter 19600, loss: 51.912953
+----
+ t wirk crmeet; thing; tout it have chere is in the this moy? woot con, wore at burj on the ko guagh'twhat.
+
+RLEO'LIO:
+Oy, I ho be oo ho gurd sade in thats
+Ancts. wamad nove a m's; oflle thou nis lond,
+----
+iter 19700, loss: 52.211787
+----
+
+They, to is you wencuche.
+Wherly;;
+Mighoune.
+
+HEUNUTHAUKI:
+Dnout:
+Thou hat. Heall fearuen race hiss.
+
+ROMEO IF:
+Be in is not.
+y, in thifatrl,
+Fall thy the bmeiln bestealerense's Or tily surpthy of Bo
+----
+iter 19800, loss: 51.912305
+----
+ rean lid Mareod ans grow yean prfaoldagy;
+Thouse, pare sre; arpey vinct stiont?
+
+NaMin firs wores shang, Will fullow, beln loras.
+That what ramaty thit.
+
+PaWhed awbl and shiust! muresp, I in for murke
+----
+iter 19900, loss: 51.893043
+----
+ re the nore the wilc fosters a'ds with yee:
+Notaind! at ssones;
+I masy, you gurderlo searneswher.
+Atinom's
+me-ructeligh sanith wellimes I sagiins, and all and'd that hy fir the ingsk me toose an foul
+----
+iter 20000, loss: 51.924603
+----
+ r,
+fout hien storrow his carcunt! twe lomse to deat csaref ferrsety'd he lese;
+Mo menmenthirge fare'mu ceem ate nond
+And the fir woxse.
+
+TUTET:
+Soutr-ouster, lregellled?
+
+RoRC
+O EOLUTET:
+
+GUEAREO:
+Nay
+----
+iter 20100, loss: 51.832289
+----
+  ow
+dov ascurce ere breaur: Erd, gotn then herwall hiem woigh us his were ameap,
+Jath awos!
+I' hhin a nant, whe burset: the aly Boey, nom to op wo ende, not's carlne, whpo.
+
+ROMEF I to hasl, towe for
+----
+iter 20200, loss: 51.790017
+----
+  aveen thispofmeld wer, mong: in ape at these tost, Berene, burgoerr beer.-
+JaSy I deaths, a love goon. Mlofalcuen, noce maly tilt all by
+lioght; dad fow swilllylungo ar to to ther majenco man,
+Wher w
+----
+iter 20300, loss: 51.811644
+----
+ , rey on eraar fottir soot atiru.
+
+DUMERCETIN:
+Rine'me
+More.
+Thilf, hens
+I, thag; kree ouss my amuocl the purre? Madiag!
+
+ROLIO:
+Rint the pacm aFtone!
+Thye,
+I If a wainore mees; mungers phuon by weast
+----
+iter 20400, loss: 51.991583
+----
+ elu wisnr, I hous! bur suedruln,
+Antuct ang toof ho velatwther, af ould, bleare, I swough's a kighmys
+O thon bearly to myim nop, bo siod.
+
+JUREVO: More my mowuy
+Brattt theess a wertill the ilting a do
+----
+iter 20500, loss: 52.204346
+----
+ It nod wer dout thas bong nod somequefarn, wreaky bactand, wime andoo; sorsa werss wous in lanst and thatif ol ond cess, I hove.
+
+BULIET:
+Wlosen lite badioveld by Mlying aupe supbeche, lad soar
+nyelin
+----
+iter 20600, loss: 52.193656
+----
+  heis morin an cuvel'd h sures lowho de hibls horceare bistiom ssorener? whoullon, sharmeids 'still, Ise all ther tt Rwamys I way had, empt owser tidge faigh rane som'd pharce uuren, of dakimon, sur-d
+----
+iter 20700, loss: 52.400653
+----
+ e nom Tpare end wakigt
+Parke agringad kendbeed
+Oo hhis,.
+Gs bath afor canes: het nie corbaswend twente:
+Jy bureuf-smice, my: af lave's
+-y gthone, so'ber me's 'tyot, Rope,
+As hone?
+Tut hear spia devigh
+----
+iter 20800, loss: 52.397612
+----
+ n of coods and me I thim modef'leart.
+
+RORLIET:
+Rsball amuld
+Lhend thith tod thou shalay oode nith the dirgue:
+And me hay homeld fallightixe sa ty tey mor thou
+I pe our thou.
+
+ROMEO:
+And tald wilenp a
+----
+iter 20900, loss: 52.391747
+----
+ ndsweeill hat peasivense!
+
+WiwUFEO:
+Or ared as thour in cay,
+And ty naok of dide senn, he and to trolds,
+Tha, and thee
+Anes alh'r:
+BRow risthall badlever pitirvamef my borsee:
+Bushined this icuasefane
+----
+iter 21000, loss: 52.302883
+----
+ Thou kad, I'Laed of alds, jeet st
+Forss nom my, w hemes, y to my do a the sigt
+And to Ropl.
+O, a nes in gave, sive soul, le, thiver an to cod Jflose woming thy hakellt of fet! thatsty unders goull you
+----
+iter 21100, loss: 52.162670
+----
+  thear,
+I sint
+And be menen that seak:
+That lagce, 'sy he all ther bons. Gn thou ponterdor.
+I senate?
+Noovee grod is it ads
+Why de we, asp I rush all vered?
+The oeds the you taut:
+Pllant his you bust,
+----
+iter 21200, loss: 52.202148
+----
+  agy chent enfunt.
+Ainhinos bayst sy thou did dullish!bly I eave of Jullof whough wish?
+Bite datl thou he se thoustisd ow dichn me.
+
+MENCOt:
+Nyewonfall.
+to I's werese be shall that makr com have nout.
+----
+iter 21300, loss: 51.819227
+----
+ rOue: at lary arks-uliegherfording ont hould bntins.
+Glloord, mary ush 'mosuo wild
+Rowj,amiok; wome, ro'po meianser.
+Tinst thap your he care hu when the it pay, And euraad fordesc ho lagl.
+Gobes! your
+----
+iter 21400, loss: 51.721121
+----
+  that now aud singhn'd -wand choof! wole
+theish het then, your
+Gords,
+Thous, I wouding,
+Held, want, oftime lay, becreane, now coudge
+Sha'dwels!
+Menjuth you deowe cauned, in Rottinge;
+Theod's cabeaurs,
+----
+iter 21500, loss: 51.742645
+----
+ r the'sunk to manife the Tell, I lant fald, mand to fay temall, nout me dones bo whnethatred.'
+
+TERVVO:
+I ing:
+
+MERLETBEN-NET:
+
+AULIET:
+
+AULEEEH:
+In in, if mreeds, wervore a huste kenped arco anltlays
+----
+iter 21600, loss: 51.632599
+----
+ oun muress;
+Pereue, fling is his fomesh kere blegantet shourds dod thiur a plat: o's herstsertor meatucrie's; ther sain,
+Ror sooth to fly take to has base,
+Butse
+Or senot mrepay saply thea dait by, lo
+----
+iter 21700, loss: 51.275036
+----
+  lise to't's beat co.
+This mejered winnimp, menter vill share firreno migh, that; thou s blet, head but wead domeo! Lacond! the not prcest whup yoh himble; Mayst.
+An gawt thee.
+
+JULURI:
+O thasn nevel,
+----
+iter 21800, loss: 51.201155
+----
+ of ciest usterane sook till-'dewarn and we whe dich tack ruthe teill core women a hamve, houlry the ind me-ming ky forded is ro sooste: shole coup donding fell awald ofrer; to not a flath my mathed; g
+----
+iter 21900, loss: 51.171939
+----
+ e,
+Wildshain.
+Not sill foots, feoke, semen,
+Thy nhand and hon.
+Se, all oht in is marcoun pou,
+Tund a huet;
+
+Frvesustiak rever? I womechine de lovlo fenavith houn I faye wile.
+
+HAPMET:
+As mime are aur
+----
+iter 22000, loss: 51.163570
+----
+ :
+The,
+And tay a klane maus pishan's aTloulds, IPriss'l' the exceir husk,
+The no;
+An momps'sw!res
+Tare askr:
+And id efese, wham, his spalt, I whak, ways me?
+He it sho, ho pro sey this shofren, Lelce,
+----
+iter 22100, loss: 51.122178
+----
+ ts;
+Me sut hearf!
+Ful frunt is ist bull wime thou geast wether chondsker igut lais, tiste, st, the; apt
+At Dy shut soust il, me thus his emep whove, hamm in, limpeld nover urongstins,
+Thee:
+On your po
+----
+iter 22200, loss: 51.174074
+----
+  cons pring you us I wountly a beny sistakn mwang thagers?
+Hy
+Widlange are hou, Histely, your suursed.
+
+PRALULET:
+Why sofe sais sinkse word'd wato!
+Nule lised my that wem to me gind so-der-trousch,,
+
+
+----
+iter 22300, loss: 51.505783
+----
+ mys ther in the owthis'd bike so glod Salk bare sous hase purse.
+
+FEToULENC:
+To ello's bicht bo dave swhe rotht not wseshs foed thiso,
+Lo and, o eak,
+The ar's I partuvet sor nomeste,
+And note juldiye
+----
+iter 22400, loss: 51.758369
+----
+ PARIP:
+O lonat hat lreain? me prateny tir.
+
+RiMEEP:
+Ace neveir iM?
+Juseer nhatiess; breepr your soue lorg in tins wil mught krnaonting so cull my!
+
+AAREPIZAME
+HAULENCE:
+Hell frokidat you voul thee agy
+----
+iter 22500, loss: 51.783277
+----
+ spmantle ale dive herer, the rustell me meed,
+And't this the wise wikt to arpercend ma I gity. Londne wimp maed sovere deof goote'd shetiver:
+Tere the not thoughing the get sllacl'r'd on boterezel; sh
+----
+iter 22600, loss: 51.743279
+----
+ ait Anday ard diarst' frapch haghifuse, there festorligt I iarien stor and thiar heby coagher to of ast me of tear, dealourseidf me vere it
+Theve for thery s'on rince,
+A wetall I
+in jey brothe?
+
+RAFde
+----
+iter 22700, loss: 51.762670
+----
+ ce?
+
+SARIe:
+Bof, I a hand:
+Me uspell other?
+O mullow rady: in tput I thrak:
+And my min, heinh ouakle; Lerelt sharco-herss I anuere the prumessed: uckly is is withte the boch aices tolt nebelir dod end
+----
+iter 22800, loss: 51.736386
+----
+ sto mby spseall ippered may and hore, suir ou your tols my por shingil shath of i, Julkt whe thav not thing downd doustrearn, came no sfeftruse the as hers freakth the dies I in dime mnt, wom so's, wi
+----
+iter 22900, loss: 51.749110
+----
+ o kyet, igd?ly wiech.
+
+TORULEO:
+Th fire ow is wikt theres;
+And tred enpawers are
+The raow;
+Bull Come noteed be dus m dereet, be in bruim an mints.
+
+RDYeET:
+Ard amat, ind Jull To sely nit o liguss frot
+----
+iter 23000, loss: 51.595604
+----
+ eir ighteat hisk ladfall, touter,.
+
+BURIND:
+Wockeet:
+Sis t me herpe-gear; Prastrofle for ene lo seath thy be they the fears barish deonire's, tho hasce.
+
+LAPRYUFY:
+Fis you youe wils ams hevereathin I
+----
+iter 23100, loss: 51.539774
+----
+ en
+Jupeloon: Ind
+
+Prece, tote and dime the entisumy,
+Whilavy h s thet walfence, Las ofor he dons,
+To hon sousy st, fratpne aust coves sice:
+I pride hear, pordeslien, whes knest the yfut thou, Milmarto
+----
+iter 23200, loss: 51.757507
+----
+  lerss lous founcus.
+
+BRING MANViMAR:
+Arjeaen so marmear'd, this and cound, stenterischoroy-ce parine, try math thour fall devathar so to the y duve ene?
+
+KyOM:
+Pit wing havirdslo thes I hewm'gare cit
+----
+iter 23300, loss: 51.681290
+----
+ ile mene hit and herbeise the my dadscirm farded I thack leethorke be prity wast hus Wh limghost med, sols and Peranlon to his and ceed, be crower Mennokl anp hencesd.
+
+CRINRuCORBCLALDZARO LARCDO
+NULE
+----
+iter 23400, loss: 51.513252
+----
+ mend and of whou then and thich po.
+
+BRAFERKI:
+Hhall His iflle:
+Fo wist
+Bord I vill pans shanl?
+Wakin; I He yotrres tay my kercofaed loath;
+Nar on horesed dompnu; afarded sond pall bpo thou futien.
+
+K
+----
+iter 23500, loss: 51.316895
+----
+ NTENR:
+Mave thou witho I wil mathy thal? geive cho poads I his blored'd of sag me thes afuet!
+
+KING-E
+RORK:
+RVoush bueve,
+A wayfous of wheeron, why derst yhous.
+
+RIWERK:
+Sean dight beinst my my quim.
+
+----
+iter 23600, loss: 51.286820
+----
+ ef rlikent they in and yiegt; I dondef uoke and tome dexarn yea peath Wisthe swotair mast, the thitse, ir the ment,
+Whe fortisouke
+Nows my he soblesenterantrequing my on didly luth scither tone old si
+----
+iter 23700, loss: 51.257635
+----
+ hou limce.
+
+WARDY:
+Hy as agaive at of ping bomeguse to his ous with and I he the love that son!
+The haur thercise hit gon dome pratay a this thoul
+Wins row.
+Thou shem wseis notren womeo now wilise;
+An
+----
+iter 23800, loss: 51.355997
+----
+  tome shasiensen youricee,
+And somese be nces. foy frighur nnstofteher Cligt and i hing uto his ucle ell ruve comesers mands,
+WiMkuse of the fot in my sould it the to to hear, tal I that me all-y tall
+----
+iter 23900, loss: 51.522606
+----
+ A kist manh hate biove, fartilny yot is thee ucakeg;
+Nongretirunore be Conterand and seamsore,
+Whet hant stim,
+And sonathe'd Iky for me the ratt may weoit the shomigh boades king, ho, sor sotir thee
+
+
+----
+iter 24000, loss: 51.481646
+----
+ eserenceaver ime wlamthartey mingosesouting yearoows mingsoo, mest.
+
+HARDROMLET:
+Witief the whate uslakbe, hatrith the ronk an sow cor;
+Thateer dedess at shtirs me aigs.
+
+NuFtere,ave?
+
+YORMOROLJOFR FR
+----
+iter 24100, loss: 51.632722
+----
+ ars'd thou altarnosiur, his of as flatonespree tone Than trueg
+Buter, cas's wead to and are brow!
+Forrot;
+Ygag eriy; gin fain'y I caln glangajust forfouter llow in rivellostl, I
+Ware than dyous prigl.
+----
+iter 24200, loss: 51.688560
+----
+ hou;
+As have suse to bame the ebrfang onderd, us wervinceot gig thake sus the maket deis has niesko fels bleop bame vene tear!
+Fut and ins thios? nor ast, tle ndest my a my; trose terl
+Creen: the fari
+----
+iter 24300, loss: 51.703108
+----
+ noyf, buth.
+
+PERN CIHANUK:
+So, ceove a wring thak,
+Thou to thy ghake
+Thet shoul.
+Hr clien mostirst enes, wisl grige:
+Gon ghco took caustsed't,
+Of the seagh b lome deow that baing pyoun, ost,
+Nort doye
+----
+iter 24400, loss: 51.682802
+----
+  revall myirg.
+At Mag n to thme.
+
+RCLICHERK: 't seot:
+And Lord freecht watth rust mav kaky thy dyedt,
+Whe lopfe forshath blouks stould brone me puste
+God of hrunt is is You bustelds,
+And ar vers ceath
+----
+iter 24500, loss: 51.722017
+----
+  arive,
+Yis gomn cayrsl thou thiok un crreers surgevere a desther tillu, vy mongat, banteepondnongore in hill I longoof nithet, gorghir with my ses welld a, Nows, criven
+Cardow.
+Fild demt gearge: the
+----
+iter 24600, loss: 51.664851
+----
+ TOULBARD:
+But ufor the meacht gravinoond, he he uf unce het'! dene heer; a tou y'ce ad hhy Alud dors dyowragr:
+Ay ave tuld ant.
+
+CARY CIND:
+Bet bamen, your to ford'd wereen hourd fond ttof groasueats
+----
+iter 24700, loss: 51.428077
+----
+ arly there ghis.
+
+MI
+Ry RI
+FARDVOSTIN:
+Ey, I whoughita sith thabny thee curowe ghoth your, and tine'l
+Ene thentir helks dong caph kenus tird to hain,
+Ant his noth.
+Hers thoke Malko, thone.
+MighE whull
+----
+iter 24800, loss: 51.245192
+----
+ heik uct dissarfol!'
+Awaldar the say mobls I whon.
+To dous, pardogh me to and there hene tour sherud.
+
+QEDIAT:
+The surefceld a kee tict
+y wime wen tamen
+Yoy cavy.
+O fordsirgf,
+A main tonte bedtay agal
+----
+iter 24900, loss: 51.199194
+----
+ s a stirs, wremar stilll fricerd, amen is hid thes valle stoulhtst.-
+WIRKWABt 3f Plight wat I kye till to in?
+Thall sovy heew I olpoilh.
+Rordes,
+Or upword: firchingce souse ching, or the 'ry qajins! o
+----
+iter 25000, loss: 51.026313
+----
+ hous hall gest cher,
+Whe cnisp bace I sase sulle,
+As makes word of seard'd your thet king lisse my briefte she this lichis.
+Yoed's
+With:
+Gint
+Bnomiss, tha' cord tof trainthn to hit, thus gandefmanf it
+----
+iter 25100, loss: 51.082838
+----
+
+Seater yeLribe!
+
+SI
+PURENV:
+Htary and cear, com to hit amme pire hy dars, her id in lisjousts foure, Heests wald hear his brient heeren eith werine.
+
+For the sunche culth, thee srowse karr iorrard to
+----
+iter 25200, loss: 50.997379
+----
+ ith to preath thou now kon and genrs faread,
+By hervy altmehis, tatt me her crouser, himm than ting so semant;
+Hakp than sound wight Wract hand;
+Whe gong.
+
+CRIFVOR:
+Sever, the way the hith the nurvoll
+----
+iter 25300, loss: 51.068934
+----
+ er wank flo and tho or, fold Yifher!
+Adl May in broovees,
+Romears par ther his that I
+thoughts not souglling.
+
+NRICHAGD TIN:
+Yo Tore tome of hadren, breand's, pramerDe ticher ous heme hur wa sladie's
+----
+iter 25400, loss: 50.924963
+----
+  and he,
+Weir?
+
+EUAG MI:
+Frove wanb
+We thoe gree, wime
+Whice fried,
+Go Weine the theip to for geans come duwil-maneds
+If boucing try thee,
+Fore.
+I wo help longis hiald wonce wigl noy sonjents?
+
+RICHAD
+----
+iter 25500, loss: 50.962264
+----
+ ou Hath treean hat now bedorg!
+roklt you that and, his not cho wam; an bewsttors.
+A oour iftle not ho? yome, arwince lon a weniens, palks! yours whe his prim these, bor that,
+Sood to beatherry mac a s
+----
+iter 25600, loss: 50.681419
+----
+ iigsifo mask;
+Coue hand, is thee.
+
+KENVOAHE:
+To with sins wrefoud ancodnsers Ko swong for tind, mong, ad that to has nor To I wer.
+
+KING HENRY:
+Food . Meyoud be thast, stlle the welee lo mild I clom R
+----
+iter 25700, loss: 50.340783
+----
+ GCEHEDY YRCES:
+Weod
+Agaan so flacthery a wiss food be, on goveren mongak:
+Wight;
+And genby of thos I contor can? lam thou co ntals bick of to to thean as gast wimpe sur leath my thon houster, brings a
+----
+iter 25800, loss: 49.705680
+----
+ y or fordse.
+
+RIENY CINGRET:
+Hy myd of I dingar'd in wongab, bo, ol semal vilf lecce my folkin.
+
+LADY RYV:
+And a sant ocr's brieb;
+And yeousthirg:
+I, pae mer moon,
+As to then aariis; begoran twatcucin
+----
+iter 25900, loss: 49.821619
+----
+ o carearonh, delllf hat in mikeacthen in I I lookt canteier with
+And weon liane lope wick cay.
+
+WALETw:
+Ther ot Got fove.
+
+KUFE:
+I will If sciith tryt, me git toods
+Williver seader lisen youl on losin
+----
+iter 26000, loss: 50.083971
+----
+ thne simest, thansed, aMmand, ingree, me Curuy sceracore ypor'd to theme tret wert cgoar wo's se tnon dequs bak:
+That wand in that,
+And oard mad stirdse not upare will your muse thee the neche
+Lamedie
+----
+iter 26100, loss: 50.292252
+----
+ d;
+Yourct thaswey santefllly haver sime.
+
+RECE:
+Of ferming for gith for Corfow my himne spenter't,
+
+MESY ALEGFARD:
+Bopary,
+And his ath, they'd I wing Lom keath on, Mookr,
+Be anceaK:
+Thy shichy roets,
+----
+iter 26200, loss: 50.410296
+----
+ oo now tor, hash thuse senard his I'low fortire of KI pirkevrefeoveter the than as! Mare have sint that be weare I I welethte ssom your beied
+Wety werse for and deabridne pus doscource usfelling you y
+----
+iter 26300, loss: 50.250035
+----
+ d sprant peden,
+And
+Hill quarevive Lrouse his houts In I dars, breavise there; fall that Ih,
+Why seay,
+And a ha vere.
+
+PUCENTENG:
+With Bomeir hathir; Has
+And thy rave henYiob-fame the air the ron mzac
+----
+iter 26400, loss: 50.118183
+----
+ dith t as usdayf! and shant sume, le cower wike To iswWhiuld Living owe, ary the you guet madess and a avet wowe kowtsallgwin,
+But by and I pot honteres,
+The swaully way trmatrongeff Lord Xows bur swo
+----
+iter 26500, loss: 50.027653
+----
+
+Yot to and it ther srachod.
+Hoy thee
+Ssosh?
+Thion ford't tonter: wraines to nonge on deves eroun amimertellleny, gornongemr thour hein that scaancriscort'se, be be nill
+My It a prting, thas wisk
+Beno
+----
+iter 26600, loss: 49.796714
+----
+ WORVx:
+And rowe somn'l.
+
+QUPENSB.AR:
+With to hatl alievont On ofal as botting quavy I xaicy surker to brevy the caach me spouly, and morden cering his inds.
+Gid griefy as wougle!n oud mefaly not and p
+----
+iter 26700, loss: 49.828791
+----
+ t gooden:
+Se nepiens,
+So somnd bristiinnswall manceer bmat tim furseeds inge prewapt mave sium your I weangef uray cowss tachint at not he I is ill be corpereacce fonces tbello 'eir he's hit ropenf-th
+----
+iter 26800, loss: 49.984254
+----
+ ientard I but sustoUllakn and ablong'la saster'd mussunge, of quspis on int makne thou be loonger sage, foreveidcet this ind po, ou Wrate sirky, priof haw hoursoude, is you thy, shateowfr.
+Gfored,
+So
+----
+iter 26900, loss: 49.907298
+----
+ nds,
+Thens some, blrach ad the, of Wures me pisherlf we browe,
+Flosh, ouch to hetesthe be to fferthint the quokn
+dist-owrrsive, himw
+Got sciit enoret tur wencce Wabrtiry't Y teak hims havirce us! To t
+----
+iter 27000, loss: 49.809163
+----
+ , He beave,ay.
+
+DWIA::
+May, hand
+Burwy:
+As guie kearey
+I, My.
+
+KWENGR:
+Wait,
+Cay cenelyloull Herey:
+But ant ndabliok have me?
+And that, fory flath be is my to to be frakingriedcent me thy Fore henthir
+----
+iter 27100, loss: 49.765316
+----
+ ermine both's orry geardt-ry ad that htore sund It Hpelt
+To muthind, thy and rkenst dape for wiel the my migg?
+
+NCLABENCEWARD VIR:
+The, myely.
+
+STED FULENVI:
+Ey so lagt a fly commats ad leng Hesino ve
+----
+iter 27200, loss: 49.691451
+----
+ ered,
+And erall then letery as yoodseforest a pirshing ferath tham to Forceep.
+ruth pot:
+The grien.
+
+KING ENCENVARWARD IV:
+And slesor is hordite have novom Lay stane selasen!
+O he por stite.
+Buth urwe
+----
+iter 27300, loss: 49.606408
+----
+ n are dnwir him ughermply, E the, to id Not the grucs,
+And in pithars, quechire.
+
+KING IENG
+SDRET:
+Noup quepd, He flapmonternet Dill.
+
+KING PWIANGARECT:
+In torteer,
+Sasws,
+Fit sturackevone dry,
+Hut ho
+----
+iter 27400, loss: 49.720833
+----
+ ill make war ghap, Eg thou sentith agreaveet delibe endetaid yous Saght ow hims mush pleinquray, af you the peseanind when to is;
+Bur ape the glaw they she nays, hit foost tind con dowerire:
+Foust fot
+----
+iter 27500, loss: 49.641499
+----
+  indur on miffle quear orginn deant spayer's son dordnce med so cang lis the a thee
+Now, stall thesen, wiges ind not andprane, My abomen:
+Thes wear? I hand,
+Whis ubmies
+Sesd, beving.
+Maind to peit's b
+----
+iter 27600, loss: 49.362712
+----
+ ood sredn and the blice the godref,
+And ind and.
+
+Wenes?
+Now laud, are shoar,
+Bour maBee,
+Wory;
+Hegas,
+I cot jath ast, hysith tereninb'd wild! Be lort, witfeldfaty, bead, and Gow; you thy ullanest Kat
+----
+iter 27700, loss: 49.315858
+----
+ he day, coot thamel.
+Wey thou apo shat the, you nowsce shas tilk deirgh my on Estlre fourdonh'd itr! my rowive to glethsusca my be lecaectaenbur be lordie dukilkse sinther past as wo him crome hall as
+----
+iter 27800, loss: 49.365821
+----
+ hal Wathprs and Works henterce that and ard ball shaive crusce of gan'dur the hearircose? not mest be pougl:
+'d vill lnom,-B, Wakese ambrive, eame thou nece a wal my ofaty avect amy petared Epwarening
+----
+iter 27900, loss: 49.543490
+----
+ D:
+My'd'd KEdight he of has then Come tsing.
+O?
+
+SXIVRS:
+As!
+ULENGENCA:
+Has tanter a dlyowl .
+
+RDYCIS:
+3 KING,
+Fow houss ow tfare be t derth somer.
+
+ALONRAR:
+I pity:
+Ther thand ha himegh ldove ble sai
+----
+iter 28000, loss: 49.628824
+----
+  bacen, with a my!
+
+KIN, ARWICK:
+Whee.
+
+GOUEET:
+The prirght I now kilt dress, leep bis hands tord to thourst,
+Gour from and mais and.
+O, meser thou dey, I and thy.
+
+QUEEN:
+The wime.
+His stas fare's to
+----
+iter 28100, loss: 49.329508
+----
+ blouble with cazend-she weckre, be conie shather sulove theme Murswils an ton and buckcien,
+I shilld.
+
+KyGAd:
+Kichtry; yight; my rodfotile, the himet? sof I sparnand mingl:
+Whe mive mose;
+KI Whast if
+----
+iter 28200, loss: 49.170521
+----
+ wout for a doveet to mung of whear, my fourdnot, store feaths of he'
+Gow hesor ween muot pares till catho,
+Thate's.
+And oot shom stesaruswest?
+rest and a uxpreptly
+Thoun thourdse ko move lowe,
+Thatind
+----
+iter 28300, loss: 49.211149
+----
+ my thit mariep tofour anjiy Whoursly;
+Then to mavelids and Turmir-coord,
+FHath therbue the rudsomy: Heise Cnance brighano-mrowestes wesartted.
+
+CARWICK:
+Sots fut borousg;
+Wa the be wropkore uplave sta
+----
+iter 28400, loss: 49.208309
+----
+ , isfuther'se shet, untingescfeath;
+Srovignce eit all im sas ace to ofe mirser-soniad in the gaks, the mifta be sod
+Werendce sullife, and the thel to cear's com.
+
+KI I ERWICK:
+Iwe realdakes, and tpath
+----
+iter 28500, loss: 50.008628
+----
+ ur nod that to host eale ant, belur swaengrise ther teom bith,
+Thak il engeive serve tout ofred muye in,'CHaigh. I our deaitire in Vouer's ant war ance bath his I amm
+When'm, nad age to thou elllims s
+----
+iter 28600, loss: 50.412058
+----
+ yeud the ho me's il ssadrep you hen'd eatery gupchatn
+The Dore seaver Igroads ad wims the divers, be-prom ell I 't.
+
+KING ENGENT:
+Whar yourdour
+Le
+Clant: the pullind, sith on me priar bur! to me speat
+----
+iter 28700, loss: 50.554738
+----
+ l tingen:
+Heallath the redest, thel'd the-bleen ant my mied.
+Her mill npit', I benet not shen 'row, suin, thou to shill hest a to nows, beot he rondth the plefut; thye huechs sove mencr me- shougls by
+----
+iter 28800, loss: 50.788613
+----
+ d: cot:
+Maal,
+That dest'ils thad most's willu,
+Thies, mroad.
+This pores; wast
+Are'd you there I comive mied de stare bige that dwill lo.
+Shally ible thalds aWalaid.
+
+WAOMES,
+No Welik.
+Pwitirriverterme
+----
+iter 28900, loss: 51.005626
+----
+ onnathiten-drore me,-'lo pones and the cone
+dimestistande
+Will?
+
+PAASASS
+CI I' of pure my; ofe won, fearty a gpard,
+The lood he move,
+Be Hice.
+
+LAREVE:
+Son blet ifere youghe thyeed a sturise pocake
+Pr
+----
+iter 29000, loss: 51.248449
+----
+ s upoms, bont wighilde mons aIs leing
+Ber to! dourslutien.
+
+LEINCECES:
+My elind-'fo stards whincher amaxw hot his the sot,
+Thas tha sot, him, ispin low as, te his notlomnise,
+And mive sode shal berest
+----
+iter 29100, loss: 51.309959
+----
+ ingln to ron nratht dontes cothey my coove.
+
+CHAMLIVLICPLATES:
+Whanstice:
+Shall noUd the ros ther theid:
+Morvereward live rechis Dofe nespsereflry ther me cas malledren why and your as hones allingere
+----
+iter 29200, loss: 51.286380
+----
+ il,
+Sos waNegnirg!
+An to aim werry fald
+I hing if mtwaln dukiok? may move in as so-day his my for havill ingunt. oili.
+My and hu ghe know haweir that,
+I'd wizindsto wherevitides.
+
+POLIXETER:
+I seris'd
+----
+iter 29300, loss: 51.254782
+----
+ t hit heref.
+
+CERTELHANNCETh G print weck's sust'd be a thoun me thin liphout smy.
+I endy my thosrope, have you.
+
+CAIXESTIB:
+I ad wold brafish asl if apbigns. this by Ofest Tullo tood;
+I here. Mighiro
+----
+iter 29400, loss: 51.224751
+----
+ ; youn t ot wead,
+An,
+Go dowe,
+Antfoll I sty;
+Ol what that Cice hacconired;
+Than aflowe willldith tibllo his hime
+
+LANOMEST:
+Whow sint foLinet severedoursh thid the
+As Caryour whe dy aake boath the he
+----
+iter 29500, loss: 51.333262
+----
+ ebre,
+An in wittray s.
+I we rede
+And I haviad be sare apo stad,
+By, bod.
+
+LAMINTER:
+Nowny inceschish lonp, ald then.
+
+MEDMICLORE:
+Whe hus is slave,
+Take I dece spare our the'lld your by But I mont wil
+----
+iter 29600, loss: 51.287586
+----
+ rt ind irlouglt but hin has pronk e'rlceith your fullo'ds il purle tra'lak ky, in
+Whet I ofe is wo sfouldich chol
+
+
+LEDOMENCE: wher soatride that shall.
+
+CINISSENCENCES:
+I ave my that sey fordtheer il
+----
+iter 29700, loss: 51.379639
+----
+  to hur is lore, wawe.
+
+My
+Theane cood spefes didce say, as wilt
+Your the enging'lr is on the beaf them ditess sone
+Hy preederpwele llandesf
+Bu reas heom that us puest, the toll
+I simeary 'y swagr it
+----
+iter 29800, loss: 51.551511
+----
+ :
+The erow.
+
+LULONS:
+Lo yorign?
+
+HEROMTET:
+
+me gence: garis sing, fur wioch to here
+Thy; de amerou that you my Lans neple, aoke agrom whoo dest be dald you pees sprecfour of wake eraghe:
+Whe hot gooms
+----
+iter 29900, loss: 51.542872
+----
+ dar ghient as you hombolnagnithend nor now he dichece ast of of thise ofes, ne.
+An tho borgours I sto may.
+
+YOULINTES:
+The he coudsy lres.
+
+AMERONT:
+Bate core of, whechtinfse ginsts
+The sod eng, a far
+----
+iter 30000, loss: 51.297551
+----
+ woullinord to hear tre it
+Feeact
+Whiw cour U'll:
+I or at hatiou,
+Wire sark, Poinh the pore,
+Dyourry, tay, heecin'storsirioges ot my his bus welr and broust susall notall nod titht, Gosho'd dichipe but
+----
+iter 30100, loss: 51.177989
+----
+  he dight that baw a bee
+Kre.
+
+WAULEOLE:
+Hone;
+Hisse vidhelt:
+I' ile ist news, allavce coangenour: in quegh thene whers tweren duse ast woploth ryoull and punge ryomer to meat his bigs'd hit my seade.
+----
+iter 30200, loss: 51.139622
+----
+ s so he pourbat,
+S
+Ach nom honconetloynom pither yence, dare peam to lees the gaving lome, dake:
+Spoin cmishochty me anct gris? Emperde lade,
+Siong thes, lids younde the ofhuls thound
+I my wace,
+Nos i
+----
+iter 30300, loss: 51.357586
+----
+  sluokee,
+Bpotiss, thou your crine,
+And I'd Lork,
+Thou by may'tiste.
+
+HEONTES:
+I bast,
+But wour sape noutsen't in de:
+I dedierd: No crebeitin, Ifwall
+Whathighs, I st'co! for dowith, has eneschant; ben
+----
+iter 30400, loss: 51.194035
+----
+ gh
+Than poy.
+
+LEie ARINR:
+
+Eres! mon? act yord I
+Ton fourlly it os his iat her harve benese cou prarmet oo herbunt onfer:
+Snoseec nochded h. you hay of yourds, Lorf alld driceiqus and stulledeccor:
+Ho
+----
+iter 30500, loss: 51.159039
+----
+ g murs dithe:
+Koed, whach pweres of-rurest if thy.
+
+Pithers'd aesh sleever sine. Erunt
+Thall as
+Arom nack wach more's theme?
+O speet onter'swwind Pholld,
+Try, whis deavrieg jear boincore
+The havee pri
+----
+iter 30600, loss: 51.305465
+----
+  of stwank:
+Do liol byded yourse him,
+Net whall kreke seathe, bis hear my love the git longod be here's path swallowe,
+I wearu.
+Shat non if anglome ace ed sordn. shor my for, pue ther were thou kereok
+----
+iter 30700, loss: 51.177601
+----
+ the mestailo not than wary, lisge dould more the Tind frow so lowset him bodcilo our sur's thing of for, I noy, by swerisn ceaid.
+Thou, be wils! krepsered f thing to con velig, and tfough to noten wy?
+----
+iter 30800, loss: 51.510921
+----
+  ato'd?
+
+Lye. god be of the leed thye thind, 'cable acling tere: menerth, your wire then bup atray yur care begnger our be, dare youf fal houry loviundst keule thoo then,
+Whe deary be hout
+hy tast wha
+----
+iter 30900, loss: 51.667945
+----
+ e his as ther us the, an, here sace that thead
+
+LEONTERS:
+I landed, it the sullost me willus pall fath,
+I sey the nepils oftine mear fraceeschtile formouth utithe night at yan, thear: ffamered vene er
+----
+iter 31000, loss: 51.719047
+----
+ thevere muzpe.
+
+HAMANTHA:
+Anf his my wung,
+Coatay will mixhive of trys; wratanh hath if his aghente
+Anot no congrs weren gram no kinst.
+
+CEOUCESved by the feet r, me wern beit me den treen:
+Or, nomd t
+----
+iter 31100, loss: 51.696105
+----
+ on I hen, my puntoun thoughsut theall hon
+Tore, not com, and kion ler. sother
+doy a we.
+
+AOUTEXE:
+Shet dean-s.
+
+HENROLLAR:
+But burefeed coud
+I cains to bers,
+Whare shous my be but to minest me
+Ser't d
+----
+iter 31200, loss: 51.993265
+----
+ t leand con;
+I lene, beds ofrer Out shoungr:
+I wher thter.
+Whet hall but yay?
+nour cfey.
+In a reath, Bones;
+Buld mosis, stare on the outrake,
+Hirf brect of ruover Katie,
+I sp why and dey move ship rup
+----
+iter 31300, loss: 52.055636
+----
+ oth, ereasth is tos, cofall me sord ap to cpinTinhe,
+Ay, the code,
+An ioks'm
+In; by cotiw sear ho rawich an twerre my the, sone creit, you, nooth the our tear, thtid the prach butblis shithy ilo pith!
+----
+iter 31400, loss: 52.067221
+----
+  our a dard le may as Ford the the lave or cuch:
+And but now thy quenow not kis.
+
+fore.
+
+PELATHOM:
+On shat, nose fitheed
+O disereds; lesceatherses so, ham'd tyous a day;
+Thes have ale,
+Came wost brair
+----
+iter 31500, loss: 52.020893
+----
+ goo,s me
+Now, make heee oot of thal.
+
+PALIXENS:
+Now wighter faveow
+An,
+The cears speert cave
+T aty marsnibaly thad youghtive,
+Wheel, souclis,
+Shy this of wille cip o am havese oots
+Than seod tad droch
+----
+iter 31600, loss: 51.876447
+----
+ bust me, liavifusoure,
+Good queang: at nose fitsuch haye hom Seasy sumords;
+The voud in's su cis
+ust
+Dresenit, bloan of shear ghan: dor,
+And a then of tham, an brace com pared hy
+When viled ou carmeno
+----
+iter 31700, loss: 52.122231
+----
+ 'man brows muld
+To gom soo dfouget.
+
+PAWOLOL:
+G thin then, noorntlly, cine cangish if stocrsmy quo's; your a klortengt bield craids and fithen shath a Whing belipce sresn'd tares
+ome a uble sood sburt
+----
+iter 31800, loss: 52.095408
+----
+ interse I kih. O, make the timen, this quart!
+
+Shith wougls,
+buth woll aik he I her. I win, sare.
+
+Peryps. boully o nest,
+Goter:
+yflmom,
+Bus'd at he pall rost have what yot ut ceobl modar's apure hapl
+----
+iter 31900, loss: 51.944402
+----
+  gain allest neakry, jomchoo's and as it bouss mad, man:
+Jodourspine nor not to sempartess reandy in thoutheliss thy, it pares you nit the lind your
+Canesbecry manes
+Wo spead;
+Now a llow wid trester
+I
+----
+iter 32000, loss: 51.707716
+----
+ food.
+
+Therom whon agt
+Till, yount
+in thounth hate habs eart;'-preed
+Fuce for fioue fank fruech aglave vary.
+Hield;
+For Buileshle roventer,
+Or wheresthats as I of or fman the sotherf good oke the ceia
+----
+iter 32100, loss: 51.527979
+----
+  a whondicus:
+Made rtim day
+yous here to fofmars serim and ot antard gome!
+
+FORIXTET:
+As as ho a feitr, you my thoup the seand,
+as I titute
+Nour the,
+Sase seerpshals: of and hered. berey not have atth
+----
+iter 32200, loss: 51.417358
+----
+ nd
+WaNe Lond liscoun spaind icf
+Fler neves ales apfutly alavo to peed lutht thim oxe
+O, nit for hamt the thipk
+The,
+I ptarming of ther,
+Ho hiss
+Thing
+I lood's sliecevy whing go, I store bees Buswill y
+----
+iter 32300, loss: 51.037064
+----
+  it the susr now paet?
+Thou moon my the blavy thy cather in luts dicedsen ard nat, nwull aDa but y-a dond the over semanf ploman amell-dieds
+I lostore If me sis capaeve yhusU yiekn are flis sire Vare,
+----
+iter 32400, loss: 51.069366
+----
+ Freper.
+
+CARIZES:
+Searly, be the khe poriens calld'd buswy your Cupito; yay spire peace's boad-ly, fatinour rothey the anty be a dom pirs the in; in: I thou rectiby, that the:.
+
+FORYCLLOLIZS
+A
+NCLOMEH
+----
+iter 32500, loss: 50.940410
+----
+ lister.
+
+PUMTONS:
+Bo tolystithient of Coverad.
+
+CAADUCE:
+Whetinent gat there bick, cardald f't ad cothne heiliis
+enter,
+Pe for,hent shecle?
+
+PAMHLON:
+Bile bilise
+for you goweldsters.
+
+CAITIN:
+Ful shit
+----
+iter 32600, loss: 50.774738
+----
+ of thor aptued leathime, sock a kingats: whengurommont the wors you deat thee mad, me, a pake an will ast Ore juck't lecancrue.
+
+AUSCAMILER:
+Wea kilmang, pris, what you thee the poms hece she toten.
+
+
+----
+iter 32700, loss: 50.690427
+----
+ tore
+Nondere ming. That on my
+Conter; thin shaatfy me wabrong, mires;
+Hest faak'e gaun in bee,
+haverefour co mangom; for nemerteard for the I thing, uratanots faurne beevissie, will foulfends not
+atal
+----
+iter 32800, loss: 50.524354
+----
+ blounst.
+
+LAPETHENG:
+You io fro. And he hene puristan'd: in wito, hear:
+Bust rgaing ale fit chir bife eprevencort srase,
+For you dofe tly she distire
+Word con'd derant Anve's-move o of hover these?
+
+M
+----
+iter 32900, loss: 50.576438
+----
+ mooness
+go kof horis, your hithess romen
+I'-
+Rameteinde, abreperis,
+Por non seave will an; bron gacridued and, Luokno panoen fore'st a have cof.
+
+LAONTE NTENCE:
+Cliek.
+
+AUIKI
+Cria, you is teat their m
+----
+iter 33000, loss: 50.561060
+----
+  to hain priand.
+
+AENTEL:
+So surctin
+Sigest this and dit, dysen to lenearser--foosce thou quester, murs moall.
+
+UETWOCUS:
+Seal stakione:
+Ars beed and you whing she---ontim, sakine tse his mest what mu
+----
+iter 33100, loss: 50.570121
+----
+ e the ne
+po pos tirt,
+Cath know your, tomt
+
+CEON SThafrsuagrmnen heme karpe tirm peld lis tre.
+
+AULOLUCUCEWach a these
+Deash, thee monsly with mary dour; gare'!
+
+RLULELCLAUCES:
+On sove monhorisce,
+And
+----
+iter 33200, loss: 50.425455
+----
+ so ie hancentter the ad; theiret. lois that in heecl.
+
+Lenk CLI'S
+Whit
+kcol, ofjom spict wer that pis to thery.
+Shis mems; hy him'd iof! no noos outh'truoth these?urtser, hack, yourt to ther: I but er
+----
+iter 33300, loss: 50.485307
+----
+ eferet. plireald wher the coren't qured wowadur:
+Cllofe to and, ham the vount! that, Vor ollo'ds,
+Hone;
+Hating thind to me aPriathing of hew,
+Cout.
+Trus, whe pape; do waint ewath the onk: walle
+foy, t
+----
+iter 33400, loss: 50.565684
+----
+ hese
+Dirsartimjexill-father my on.
+
+FarRIZALY:
+Anot on she the geake ofe-'d apme duch mames.-
+OloMEd maki's be lince
+Winty celave surceroun
+Tham ave veapholluthing hermow
+Gor; bleme ape king and hhald
+----
+iter 33500, loss: 50.437305
+----
+ -now yout I parly heve
+develys douncow
+I bifl in frtmary.
+Them brate squiou,
+Nares eternes froct. I sa homprecad close sholld my canthen anpave
+-Sas shity, strain? For shar ast ther wime aClaWhourd ma
+----
+iter 33600, loss: 50.208765
+----
+
+
+'LOUCAUTES:
+I bubllish kneplow'el kn has
+Aglice, your ape, my gooth tad then on colloture: and pr:
+I aoft.
+
+LARWINA:
+Enverto bentigit
+Gircedsenfuther sromsirite.
+-or a ferst ny blobhtus, istrende
+ra
+----
+iter 33700, loss: 50.101069
+----
+ ?
+To corr: I faret hapk your:
+If is Duse
+cof is warn'm you dored?'
+Lyeich hagl weare it I murs tile I
+east.
+'s the the poroam sher; and thee, you: and no,
+This your wea fathur the capice,
+Seadun: herr
+----
+iter 33800, loss: 50.073038
+----
+ htt but thall ome,
+And of of thoust stager'd lave
+Miouk, stouls ris dy, not thom on so feldnbel'd his pate
+Ad that ad say thar ontmy all herwee, Oreens ha prathiss
+and core sean you, mow; Bus aghitsin
+----
+iter 33900, loss: 50.294884
+----
+  surt
+Tise bith a supiry.
+
+AEN MELIZAY:
+An oce the ges, to tt ofe.l
+Then wincucow of ofatices fired thed had ffall I plius thasu core for gusil the on that no jnick us cutloot-- to the spo ranten?
+
+OL
+----
+iter 34000, loss: 50.389253
+----
+ ruch ther;
+Nituseld thy sanfthty uple ow pronf, sir, abife:
+Lith tour for as is?
+
+LURENYCO:
+Thise the senot
+Whiths thist hion a kryours nor agrsty sazen:
+Whill a hap; your ther aome arle in ay Gike gr
+----
+iter 34100, loss: 50.711558
+----
+ et sereledich owrrmave, time,
+Hiivech tor, awirge, I lives the udso?
+
+KIMAN:
+Ewall that of cagetht, ous owsther: byne, O, that Oleme ho wisn this dould ary orno not they inst sontsonte here at werp? o
+----
+iter 34200, loss: 50.873739
+----
+ e mave grant gomes frant ou till of
+Oly hilht thitt grigx th then, commadst vered
+I-
+
+CEONG:
+And magieequerst the I dakn':
+Wile shal, on yougfarven this wer,
+
+ERO EIS:
+Yut Coyor: he me your os 'tard f
+----
+iter 34300, loss: 50.999974
+----
+ , if it thou co? womer fallidenor he and my Cure'd wad ir queldivess have plod.
+
+CLOFTUSTISY CULIOLOUE:
+Weleice.
+
+TFONGY:
+As trivelk agland us, stord peaire gith thee, aret had tomeep?
+
+DUMINO:
+Swor c
+----
+iter 34400, loss: 51.055907
+----
+ it tur.
+
+LULIO:
+Goulnt
+What encill thou lovester you wads she botima, mait, yice,
+Gom of bueselled;-Wore: whit dus and ceil is trese to has me sheise; yourom of thou you sostind be this bachiech:
+Nom
+----
+iter 34500, loss: 51.096886
+----
+ ent.
+
+LULILA:
+Saunet herer; offaiszen youp,
+Pllich the curees, wre hit adrenallom thin'l pulliens Cane heynst, be chall, of and mace arcthinour sis Ger I deef you than to,
+I des, m w. He! on tullove.
+
+----
+iter 34600, loss: 50.993399
+----
+ d withsry, pice?
+
+Driuce theyt hous.
+
+Sey's;
+
+OCORSS:
+And I and the yout iss yous I way my leoms: I how.
+
+CLICIN:
+Have nof Vites-ant thou it
+Mupher, on,
+A honder wheveds yeur for thou wert not ait of
+----
+iter 34700, loss: 51.161308
+----
+ d conoon; to I Prourd, bicte preath ist ir, as'e stain; y this Lore sean,
+Therich, it it me at, yate, goteirs peldeim, fare preay, hise enoom,
+Fary were
+if, avaniea the, nordes plain, to the nlleith g
+----
+iter 34800, loss: 51.092836
+----
+ our
+but it apo to dervy on thave thasagucue wit, So phom stait spomarpoy los
+Coarr? well,
+Sasting.
+
+ECLOK:
+For it thuce an wack you ffacione, hornep ore, true in tert on the wero. Seed infathiph a'd I
+----
+iter 34900, loss: 50.934834
+----
+ all allowh ing ast heill tave youp be wir, tites kis lom-ime.
+
+MWILn:
+Pseill you. to saming? Ensesticinjoulot gouldso llost that ip is thair;
+Senightan.
+
+HEMPELA:
+And ish I'll riged? you onl, prave, w
+----
+iter 35000, loss: 50.772980
+----
+ :
+Dall in oleila coun, sing:
+I'lu purath whace wal corman burs oftel. Lish of som
+o, it daey so hitie to your miech the of blew estone the timl, flefor,
+Vore
+me moy ill may yeive suceey ariters, bige,
+----
+iter 35100, loss: 50.674586
+----
+ stiegl of youl that
+Ruscht awarce wesr
+a shant
+to denk: be
+Beous; Elbeld thy and yet heed 'o treve senay.
+
+KIXAU:
+Enpeles ou to me paptip, pleaps heind prlave you Ca you mung.
+
+FRIZA:
+Tull coll whe me
+----
+iter 35200, loss: 50.375075
+----
+ rurldiive?
+
+HELIA:
+I, that you respord Murst
+urwove gnaviild heveened, in,
+Wher be kirt a my gimgr I air, thous'sd lacl bich bord: I hit and the tho fles:
+Bel yey, Mowheef?
+Lhoy, herr for midy,
+And ma
+----
+iter 35300, loss: 50.473564
+----
+  your-y an est kind in un this?
+Thing. His youghing Po chood ach do.
+
+LOMEI IZWAS:
+To liders: wiftixl have, nay. Hefy, you, that gownes your on thash dord mive lealt
+Seas youblust cinmy, makh in to me
+----
+iter 35400, loss: 50.448903
+----
+ stersmais it wil burte shele cno shath noon.
+
+ThickI Heanhein bod you bampe my yout onby aris for in in then onel and a dovef it soundy no nor now your your of lome vie ace -of you. His wintly speeth
+----
+iter 35500, loss: 50.392815
+----
+
+List: you to whour,
+And to wime on my corad?
+
+LUTEL:
+Thoner E ciester!
+I'l's now your and to my beat. Witisf comst,
+And or ttay, yor senmear?
+
+SO ANGELOL:
+But is it my bes ank If sox abkting'd somp!
+
+----
+iter 35600, loss: 50.157106
+----
+ eptiry
+cald ackef on to your:
+Whe, that noble moseld shale pouth rath tay blyie try lepeal reare furke ro not ucked ip sil:
+I cal
+I atrich vere
+gund kenveefor qucaladisuenar: wosie deapreb; no weyince
+----
+iter 35700, loss: 49.955173
+----
+ s teathe ofe mo on I pontupe'ln pigatifuer that leave I ther wy It I ha now ars math t beailled the this of my thas urmonoth woch plemy, 'st beep dey theas, your cexpuar:
+E have fut my they?
+Thie stri
+----
+iter 35800, loss: 49.921713
+----
+ dutlich a sear
+my loth
+Bent songorah, wise lyar thagr hexceed Ffofpeicth seast woflenceeds,
+For feacn.
+
+AUTHENCILULIO:
+Shand to ard yout to bovory placg leas.
+
+ES AVION:
+you cofestne fore manf were th
+----
+iter 35900, loss: 49.860894
+----
+ ars?
+
+CLAUs EIk Was sto's benathar brey epesteef
+Buclish, permong's cosmoce rimead; whoul'd to brith wibe tar rrit.
+His ceit!
+As the and this vextha suet I pand, sevirpaive, sho duprost I ir;
+Aed sear
+----
+iter 36000, loss: 49.735516
+----
+  he of now my je rudieod there to thing,
+That the wonthtne scereen,
+I hoad gomem'er a hank bedores my rowns busir yoy
+Shoughtin
+math wibld stall bade a when
+Soacien a dleasiny; I mowicanchar fout that
+----
+iter 36100, loss: 49.825126
+----
+ ror and in row so that destroushers
+I poed din
+inmy of sodt dar thot bisten cind. awmice has is lan.
+
+INANG:
+I tat 'it brean hile. Prieseld, that till Irough lo, so the
+le I Youflow that mhal
+To feer;
+----
+iter 36200, loss: 49.798204
+----
+ rever; beld to tha fie, lickefes
+armealy?
+What
+There sawind: Imino be wher in spo?
+On, oflo viok,
+I bum they thy asthars hedstoro. Wh, good, whan lown the wo, have wer
+Whe met u, my:
+Her this be; hitu
+----
+iter 36300, loss: 49.790161
+----
+ ain?
+'fen nir my ctimetie
+Tull biegl! ARpwied bur tas these shathait!
+
+Ledse.
+
+pIPA:
+I hatt me ans ang dakn my
+yfut thit
+To to nould didferay but waun! Iy tht me fores!
+
+ESe, I'd fackien
+And sparmath
+----
+iter 36400, loss: 50.024042
+----
+ catenge beady.
+
+FORUENLAY:
+Bur the bule wexthar is cill look,
+Lowedade, but us kors sfolest.
+Yidicesty, in hasbele, and teem theveed alkingwond
+Dninf, sexter to nop gitime ey outh the ifter saugl: be
+----
+iter 36500, loss: 49.930866
+----
+ e Qo ancait sunn ile in the mest he yif whe dea and . wolk to in way you, I loth nevignind.
+
+DUKA VINTIO:
+Yor the crewin, flit!
+
+IO FLI:
+Ond pe, you; sups iet meinger, Marks, on I wate maroid
+You, the
+----
+iter 36600, loss: 49.680734
+----
+ at the,
+
+LUCIO:
+As a oren. Have, woploss in?
+
+Dred if she not peftniy; mingiavinged avanger; ar to ufuen you canbput awel thiss forwoid a be mreblen yout wIar whit sear if chall inmend imef then'd of
+----
+iter 36700, loss: 49.795704
+----
+ ied. wist
+of time,
+
+ESCALUAD:
+The resishong, ark thour,
+Than buse her hand in beam.
+He!
+The bungly me
+freriv;
+Ormer you to guars,
+I wald befe
+Anthe, as wil;
+But tho wome. Enary he ase
+row't: was veot
+
+----
+iter 36800, loss: 49.818090
+----
+ O:
+
+DUISCO:
+I'll pawin,
+Anded in metim, den him to be prodgypurest burtlest
+till thar his med jowt shen goal prof here of him.
+
+ESDABELA: hiitricin fore-res ho
+Ptant, Id contill deads?
+Thou for ane an
+----
+iter 36900, loss: 49.517615
+----
+ he doost tiste.
+
+NLUSTONABEH:
+Thatss, mis the
+read to mancoom crarcaty Vast you sever mance for wis but thour be to you werpienture diay, my be the aldocg of his, besaads flale maga, so flaiod hermy I
+----
+iter 37000, loss: 49.834019
+----
+ but the ank sustree the sime a nemet's diresorace.
+
+InABEd los! neciech thay my the keligen,
+Have Tur tho pale in ours,
+Me how her
+Dust
+Sat kisty coun of you you comas unot?
+The bese nos the seevings
+----
+iter 37100, loss: 49.726709
+----
+ visest.
+
+Prike,
+Hiset of good punceepinoteed.
+
+Provs. Bur he hed; thed, wost hame me of gomencles farower note preit:
+Whe?
+
+PLAPENVIN
+IO:
+Tham Spall hismusmersisestrers; of de you long;
+And doudle-Ath
+----
+iter 37200, loss: 49.568340
+----
+ sustent shathatoniogho'lrotuce: me maby is ofter that juste wowss ho shemter, noten so herece haw ghty if
+but wo, and uppascead Put hevelddous thal the as nots?
+
+GENCECLADUSENe, to brione, uhe the no
+----
+iter 37300, loss: 49.628679
+----
+ ectled. I pareane mancele potticel
+'op has now hil bpoud as Kime 'T may
+Tok he a you cordyst's weruswips fand quaur not hervas wose:
+Sen ther as you and ir peard ow hatiny, wo and soon out celly
+sires
+----
+iter 37400, loss: 49.570731
+----
+ to or tasmery.A
+Thace.
+'t reords it this my.
+
+DUYENCKD:
+I dradfooss,
+Tiom is ebefe arvo hnesle storungte
+And'ter Vark, butincoul hill why pulo-for doulns, I dire; and he Rige.
+
+Thich bene hatherargsow
+----
+iter 37500, loss: 49.339847
+----
+ Gonttt yhep with tha laghtais
+rethablive out of bofe shat my in tonzale and it uncald thomercy the gistuno'd, a fall your thuste than a ail vit to tho Inraeip, and tseesesss you do stalet doad
+Them a
+----
+iter 37600, loss: 49.143465
+----
+ l dractimed in hem the virt shantmisestly noked utow thye, chove the
+eredinteld he hetinength in heavich:
+To I prite en.
+
+DUKI ATI DUKENC
+No
+gallake's
+I'l at cave pithay srrepibser:
+Shis as trutty sen
+----
+iter 37700, loss: 49.220205
+----
+ ng yain, ume har ibuttite:
+Hase douthy:
+Bus. To woth you yor theset of bretho, Prifes, be shom weciefion, fath aswwepe saud! nouk bieng:
+Arke fut miek. And wempirn your that:
+I wome swern'd denan,
+Tha
+----
+iter 37800, loss: 49.152014
+----
+ r ente-s
+As igeaving of the wert! of thy thow thal; his no nowse it
+He beetene, or I swis theer by dighill.
+-a juece-fote you coud,
+DFtich and for rovend,
+Whow hy Vorke: the fruovice movos mame tad we
+----
+iter 37900, loss: 48.891119
+----
+ sd lomefle halpscore, be sting fous deit
+entiht.
+But
+Cil creat unut serined, vamatwill this on cucce to his is he shaterit:
+Tho Entting:
+When go. Hsest
+Ny
+And me a fricherd!-Thou grapet it grit cardys
+----
+iter 38000, loss: 49.017648
+----
+ and briter?
+
+DO ABELIZEO:
+In hougl
+He hivmoon.
+Play.
+
+ASGONTESc:
+Hence felldo drove
+And le the a dorgled you note: keare, whicony thid
+Pell the my be saut it himp,
+And ned! Heoke,
+Ana sire is nor wild
+----
+iter 38100, loss: 48.720752
+----
+ nell--orsemy Pentincornts stull and you offalaty rove
+rowher dest cpil then, hame onas
+Toad, lighm yne.
+
+LUKACARDANELE:
+His pros net not walkie and thint? fou, triar in.
+You huppendriene heavlonge; be
+----
+iter 38200, loss: 48.729143
+----
+ her, hor;
+And hen not my o' with hather souon t's vers yot yous on ghalk knlein, whilvor ctall my bur thiw lrot my your mad ix me moned tou strakn dane me the shir that him me he knou pluet my menf no
+----
+iter 38300, loss: 48.485626
+----
+ ean
+Duelone itting isperedetmenter, it tivisks peise it of me make seaver her eruphimn'd, and.
+Peris's pereve I dest comest ho; abutined that the guclosseds:
+My thy hew me
+Antuc preporedsefort, atay o
+----
+iter 38400, loss: 48.370539
+----
+  cice bouse as seeve
+my loten to hime of o lostep.
+
+VIMAS:
+Chink
+freatancs, for vor guins y, kot, of cofle he acd serpas belllice speesoof dough,
+Wer
+Askeys.
+
+ORCANGOLUD:
+Anquruct me now, tomal druoug
+----
+iter 38500, loss: 48.468881
+----
+ ired in, celen; I my preact in me atqurain,
+The ndwad; mathon mase promeabr,
+Hoon is diet bade
+ruad the visd!
+I'le. No gordocl! belady whad hnucl.
+
+LUCIONTI:
+And and whecan that him oftituty to chomr
+
+----
+iter 38600, loss: 48.354412
+----
+ rice ant, Cuty to food;
+The sunt be husf back.
+
+SICANDAK:
+Senteld the bmiked
+Thy the hould! but higl
+Id of coif'se. Hit he dare
+I Varterup thing it hiall me do. Ho amed dourst'd an fruth baf the ke he
+----
+iter 38700, loss: 48.740806
+----
+ erpeel.
+Tomel.
+Fur have chore engells. Who, Ferkine.
+
+Prith your herady thel't
+Gol arwild whousses seadrin?
+
+GFord It;
+Bagat:
+Yoyjufatry.
+
+DUKE VIN
+LANTIO:
+Lall searorssy bellow lood;
+Gother stallogle
+----
+iter 38800, loss: 48.970485
+----
+  prole hall yeltisinger lilld
+and all gorisant, has thatssestly fetersireding
+Thist
+Noters buring madey farcuig; wo douts in with me hourdy Crowtr therre marne yeivich chath the herd il weres, my for
+----
+iter 38900, loss: 49.305510
+----
+ ir that of mo don fattle.
+
+Sriak shountes your hyt fourd,
+
+Dusy
+Miod sherest you giththelt
+yo ant aby
+by hot you the,
+Ane so to low hould brywopn a sermen; al nowh is sheenos clar? Ole
+Gut bee the in
+----
+iter 39000, loss: 49.681284
+----
+ may I womeniensor los;
+Were preasts ho you. And at; a sublen.
+He
+Siar,
+This dence lo's hath ip he bores hade: she ifyrede,
+Nowh bromececlest dishistristerss agrgaling.
+Ad your foresusine here rod me t
+----
+iter 39100, loss: 49.735289
+----
+  and in bede hark as digrman hithin youstanut axe.
+
+Firortecter his it is 'lastise, sove,
+I saisald nen'd fich ant ar mide till werlin of garlusorescetinten- I you Ue? Fut
+Weok.
+
+SLOLEL:
+I donce up re
+----
+iter 39200, loss: 50.069925
+----
+ ting-yer,
+Of the peok be contould,
+Mame your maaricetlian me lonk speatie the prat kerester ysuet ptallofrices infteavings, lere and wage my than, and mire your plaar likonces of geangivad soblood imp
+----
+iter 39300, loss: 50.295551
+----
+ t gho? I'st se!
+So dist.
+Whe.
+
+LUKEY:
+But woth hourl's a wing
+Befforen. Here your if
+Bur sommist
+verent to foithing yourt;
+Sonwootert's wiol wet hate, be gase lr him, reay co ut a dove avour a sull si
+----
+iter 39400, loss: 50.507217
+----
+ Lo him.
+
+LAYTOBNA:
+Shas aild the nachion,
+Whiik,
+Maynte. you pit deor? paniostother moke.
+
+CUCENTIO:
+Fmigh man's sto thing be muse cover the have
+Ance,
+Grefs co,
+Cull my loud;-
+
+Thing:
+The some's mpab
+----
+iter 39500, loss: 50.416918
+----
+ e't to rawt me I pand'ss my cormort arrieg bare these littre is is frayuse be atloas,
+I ttanceratide shise ang ix thit he ind art pit's for cmel.
+Caan's my trow?
+What ise dust? row.
+Se asmanepl hen ic
+----
+iter 39600, loss: 50.522670
+----
+ rforry cood me fruld that fets.
+
+SSABECA:
+I mamvo munt canter and I saress his. I sore the to make laks or the ristand I conter's and is to Pritl sidl, noos, I wlure pest pall's with marny griest has
+----
+iter 39700, loss: 50.821642
+----
+ s harf itmanil, make ing cilrouldedt:
+Prie maRk and ofting siln her the heevin, heu Durtreccounsunce.
+
+My ION
+O:
+The bo, mamane Seslongech, hill yetigend, me me?
+
+LROT:
+And your to at stile dom, 'lecr
+----
+iter 39800, loss: 50.987222
+----
+ e caive verix nomen of I hapl
+Pread him heath no. Oot a serm!
+
+ANPETH:
+I:
+Slaredore I Spongomt,
+
+EPRIO:
+To mencched, pall for ofiors horeed stace wisuis
+I pim's wo lovive mondeesin
+Buch and on houst o
+----
+iter 39900, loss: 50.967349
+----
+ modow that them say speas of't, stimem a shall it widh will thood ser worchul gor beftum I not Lair Me miol frountly for fol Ih, this yeren me you is werney her
+And,
+Pill; with wasas surite and you fo
+----
+iter 40000, loss: 50.774303
+----
+ whee.
+As cet you you an my I dight, my sall.
+Seall.
+
+INGIO:
+Michous, I lag.
+
+Then!
+'tict frarpled to youlded is deattiser fellainds fajales and you, srim y
+erill wan remes fathather
+My werrincest shat
+----
+iter 40100, loss: 50.568143
+----
+
+Sot youst will woth the I he the his op farged hor frih or andstiby.
+
+INCERTINCIO:
+Hy con take
+I geawlmtanded gent in I have gimes on pacrese Inotref he verererers
+Thee tor am no, to traine
+Woll shar
+----
+iter 40200, loss: 50.536607
+----
+ ir, yif's us plect sernall't to mule ondonelly were my is ncame in conts he may mand,
+Thil.
+
+ENCA,IB:
+And, mer as in tey you try Peagheng,
+And fatror, ses not miresswigpneaglin
+y:
+This o'su.
+
+KINCANTI
+----
+iter 40300, loss: 50.551385
+----
+ t muce,
+His woll.
+
+BANTIO:
+No I'lisera hasine he say lis
+I wose wly, I of wact punf shorn anting fo I this be thou that Lamy th Ghall mom lett them with that that goze?
+
+PUSINCES:
+Somagr, I wellon'd c
+----
+iter 40400, loss: 50.324969
+----
+ IO:
+Now wistive virgatpent enn losting:
+Bardeash?
+
+ASTOS
+ORIO:
+So she she.
+Tratiesh have showreis soust and'rrunhorle:
+Kied you fald shatiads; frunt such silce ou Talu for od frow me to my, reth theno
+----
+iter 40500, loss: 50.065417
+----
+ I the but Pay:
+The pave Kand in llitcoule lust geince;
+Go fut row, now adllust, foor Watius
+I sost to her that in ougle, bele
+Toa sigces, wel
+Has you a dake your you surtlenge wor, so?
+Probgion, you t
+----
+iter 40600, loss: 49.674401
+----
+  suley; afeale, Ke kin,
+As for barius bight chit This. Ifly snongelase:
+Qr nom lise not mance a cued, uvep!
+
+HAPA:
+On:
+
+PETIUFHARIO:
+Parl ungor
+Kamp Kall floutr I cocenion, in mome thy so bile for in
+----
+iter 40700, loss: 49.745896
+----
+ l hourte hiCpoll is all foim;
+
+CWARINIINT:
+Pret; to knotintendy!
+Ther, I wimn of ucough thinge khed not make a calates, stey who gave now the his, I thy and to dove she maod I wiile io whAst she sham'
+----
+iter 40800, loss: 49.845568
+----
+ tire mauvity heoritou for shature Gifeers,
+Her; t, shate make;
+He K Nous:
+Ar and andscellorn;
+Peen pulent thad he fatyne witheles,
+To boous wetaul thum Baty, bundore me nounter in.
+
+STORPE:
+Sirce, of;
+----
+iter 40900, loss: 50.191207
+----
+  erowno youre wood.
+
+ERTORIO:
+Fill 'vering, I cartuer!
+
+PANTSARIO:
+Of cit fatlave,
+Heris now at he, Kert the lood I If.
+Wores,
+Whever arwe: me maight gea?
+The!
+That you in nenonge't my many, Do weane
+----
+iter 41000, loss: 50.287647
+----
+  time ale bulg;s-ked, ofmerd wime of dut'd igam ffom wire goot: and be'm hashive him haw for the mave thear'd
+Gath Ball gar tht amy not oo maasther thou wastinvone as unqurcinsin ist
+busarnay a woind
+----
+iter 41100, loss: 50.528239
+----
+ ouve 'o keed my shove to atwly held issuep rocell.
+
+BETVTUCELLLO:
+If kom tor gather! Bust hem somef, ortaks so elrin''ls a wot lont trliom a che got you cave hearly in with mperen the of; for bertiith
+----
+iter 41200, loss: 50.190518
+----
+ Be maygsule: the longo know truem.
+
+BULALA:
+Whan maked
+vain twid the brom wough my prin thit cho benord the whing mave somd fanath gorsut: makn triar whith bign.
+
+GRTYTASTA:
+Ank nay and trayed, it all
+----
+iter 41300, loss: 50.224426
+----
+ cover of twite or than anbut, maves oncne, of nepent mam'd my tither, yout the my as me on Voar,
+Wermankelemy.
+
+PESTUCHAzIO:
+I he puevol farak heliosnown, in arenike.
+Ant that to you het mave be hit f
+----
+iter 41400, loss: 49.875032
+----
+ hee
+rewge hour's his a cnomese do;
+Tus my and nor how with ive ha I bith what to-foul ind me him;
+But by to spuckes not tith and clavin, I cfor sher for, bed: aur the day theny as
+That dister tatmang,
+----
+iter 41500, loss: 49.957603
+----
+ IO:
+Seeflakher, in with thi gher, and ro'd wromee kay, I thours, ablo,
+Wheo, thy, sit shel'd en,
+I mugh mice dow,,
+
+NCIORUA:
+Them loves.
+
+KIAg:
+Herys he tully menar aflur?y lise he hit.
+Coreals,
+What
+----
+iter 41600, loss: 49.881742
+----
+ cked fluegr wol me of ther a gire.
+
+PUSTOJABLANA:
+A andens, wister, naceeansentenceetar aim steinoratele to beat
+'low; youll nod lens-what's sprits to morcest oot soom what Priar tithy, Gare how Kain,
+----
+iter 41700, loss: 49.940117
+----
+ ow freyor and mish ngan deancle ant coves
+As mirgoranuce for Py that-my, has scatun.
+
+PlTk:
+Meater mided. Peath doad; boldss able come drife chalt how thetragatf, not to what of wert bracint shele me
+----
+iter 41800, loss: 49.833903
+----
+ hat amAnd come.
+
+LUCIA: Grstearste! hatkny mentore some?
+
+LUTIO:
+Whe commall I stith,
+
+GR?AATIO:
+Longed, in lracletino, sas and so, that erange.
+This entist f.
+Thel:
+That to wefen the withill I his a
+----
+iter 41900, loss: 49.716973
+----
+ ure?
+
+ENTOR-SI$Y Hame,
+O arow to rase som have be tem wood the I
+Bur gethied my difeerwlay
+Hil It fut you lecke
+Thatuw handereded
+Theiste.
+
+HAMIO:
+Nis will farest,
+O, Luparnis the: eraid if as and sto
+----
+iter 42000, loss: 49.585849
+----
+ t tumed sage bagat the noth the the? hea'lt on deamy mayn.
+
+DUKEANA:
+Mave hiplu.
+
+KAAd erour wewer so deedy,
+I dould,
+Mike of this you, she far witittry that lit maspitaith is all ant then wilit's tit
+----
+iter 42100, loss: 49.246306
+----
+ r, youst to him twor Shave cablem; whece: but card thou duncal.
+
+LENTINCENTIO:
+A kidgive it to bife Lissure.
+
+Fith frown loster: your prewher.
+
+GRCANABES:
+Now me my in you st dace?
+
+GARIN:
+Thee shos h
+----
+iter 42200, loss: 49.230026
+----
+ act coot aun may, them aad it, it the dasteld this steeth to haligant that imet the be on wert to cir, and Ihy on
+I utle store make wave thou hous If, the hinkt
+a stiod withe my yow on hall anker tho,
+----
+iter 42300, loss: 49.075294
+----
+ the geming chiok im,
+I pitour and the blorgay.A
+T Vowent verithy douster lowss caklo
+'trose
+The liok I longas,
+Whor feet afliYgr:
+Gowed;
+A you sey Jine kerwockne;
+Le, besed for thou saw noop charide,
+----
+iter 42400, loss: 48.969974
+----
+ ved thio's I'd Mave not or momes. Oruef,
+The prente.
+
+KATHABRANNIO:
+This reporie is of oghtrio, for, of oo gear shaliout, tome: not to these forrishad that hent and sput eor ha lio. Bes trueg! fell wa
+----
+iter 42500, loss: 48.774824
+----
+  oweld! mard:
+And weang'd se ffeatide.
+
+PALMIO:
+The, cotforn:
+I hands,
+It to pal you it ily come wimceern
+Sisidnen'm Jormist my as hour toish my 'livinker be not
+Some, ther the day mist, thise us hove
+----
+iter 42600, loss: 48.612071
+----
+ d; the wisken!
+
+Heak:
+Tfeers may ssous where
+Ther.
+
+Peesuan, in Lungr dits nowenterveod goup Gokosme whaniuch thl in have the lont of gonse ath'd, nay,
+Ast the keroupher, a dwiin
+More I queul.
+
+PETRUC
+----
+iter 42700, loss: 48.527845
+----
+ ave your gover
+not your hand to direedn fell
+hist. Fill hid's af mion wave shay!
+
+PELUTIO:
+How; bathed ofecrand mobh like fare ictherise thin nonorroughare, KI th they you
+Whan 'rid ta thad, I mKs; th
+----
+iter 42800, loss: 48.576009
+----
+  jetast ontange avear fordirg as thot swall, mary, your, as of Burgare stathed ant wer, Lonnany,
+Beam.
+
+LETVTUSANCIO:
+And Vord?
+
+KaMe a dy pelint.
+
+LUTICHARD:
+AnTay me my,
+In to out I saThy as a loon
+----
+iter 42900, loss: 48.255394
+----
+ cofe cuest.
+
+GRIO:
+Pnoce one heret ow? Kae Buour.
+
+BRIT:
+Hor hiin, thee, spacter ther,
+Wist by cons.
+
+TiRTIO:
+Bom om not the your wety wo cparan
+Yow wit mand me for is the ome anTy sistit'd gred If co
+----
+iter 43000, loss: 48.026027
+----
+ or is thersure wide buchin.
+
+HORCENSENCININEMILHONTINCENADIINSENTINTEMLO:
+So aKe sitren for in the not.
+Here.
+
+KATHALIO:
+O, widen, instoll brather fiy houdreed-
+
+DRANII:
+N'bluth rancare, tomp
+This cfe
+----
+iter 43100, loss: 47.608070
+----
+ h then very pleduch dow,
+As thee, chead sasthiy, that loot,
+Why enry sond do chainn.
+
+DITANTA INTENTIO:
+An.
+Thou thourt
+Hand buald as mary,
+
+KAPTENT:
+For borench tis arl
+Thel been a fan! noth im fente
+----
+iter 43200, loss: 47.860651
+----
+ agr did? Fo tir, in wime in as love srabceardswer. But surradwerd? antlaw. Befliece?
+
+PELO:
+Now! where yout shat dact herrathanterye, remers hamant!
+
+Jutged,
+Go ar, Weathigking nots thave, mance, lorg
+----
+iter 43300, loss: 48.282927
+----
+ earny suve nosher!
+Ca llevay! in a froug, to your in, my forber hame my-prepiry!
+I stoust stees himbelc nor it, may?
+
+LORWANTIS AVTIR:
+Mave do couce,
+Firn,
+And
+Thours;
+Is mucher:
+And hauld, not my sen
+----
+iter 43400, loss: 48.647296
+----
+ esarn, lisee-sath tfours the ve. And
+It and my tha wible wTime inde, sun they cor lord batherd Tocee my on my ofransef wruian
+Mends.
+
+VIRA:
+My langald and hep my the hare.
+
+BORTHA:
+SBes-nit-astither f
+----
+iter 43500, loss: 48.904471
+----
+  cle, for bech it know Vorro conge, way contingixlod: I wearwenest, ho ils ans afringt. Prond,
+And warwart and his, sousrich puse tocemen, shes not fee, Sloword hoom.
+
+HORTHO:
+Ant I againd
+thou puis?
+----
+iter 43600, loss: 49.313889
+----
+ fiof afe and eveem-antalsiriost
+anour trus as
+Wake dihte:
+Ma my ofe hare thy coond and fomco, Lygeve 'Talcoof!-nor. Whei,
+Whiano, wist lass
+I dea! noter of to your the chteclinien to youet acen, sir,
+----
+iter 43700, loss: 49.605884
+----
+ e?
+Ont? Cland that iss beet fartersh dioklests the a mideed bathis list hat
+And tay,
+Praighn prominter-sheca
+t: prest Vostureed predeck,
+And me muth I lese't tirhin and sheir, hond:
+I forignes,
+Dishin
+----
+iter 43800, loss: 49.770638
+----
+ aid wrurke pelt mone's; mo prose, spake.
+
+GRUCEINDIO:
+O:
+Ar and nollad, coons miens And mincied wore
+Plin
+You undters my terenstime a od mave ammnges,
+Wace grop ein hourh is aree caving sweadring thea
+----
+iter 43900, loss: 49.823596
+----
+ jourdmine.
+
+DURENA:
+Whouncon:
+I amed having of me thee: stulgsad madd; the I astupe the rivears thou for Buteds.
+
+LUCERIIVHA:
+Thal bure priong
+Wrothis dIt midour. Moll woud her rewer ofnut dibestersbu
+----
+iter 44000, loss: 49.951225
+----
+ a kinp hapdnant my in rever and's thisind jedsend;
+I umpand stinged surfe? Curbabter she intlave thee!
+
+LUCERTELLA:
+Le youe, halt tuch in nath Whe shoseias, hele senss asnided
+Pninges lime not.
+A
+Ther
+----
+iter 44100, loss: 50.055906

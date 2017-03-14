@@ -1,0 +1,1680 @@
+%run ./karpathysimpleRNN.py
+data has 1115390 characters, 65 unique.
+----
+ CVZrdDeJMlBWm,'eEZLArC'c,g:!FYBSOu:J:Goh-bPKAPQJ
+STgYOq!aSPMNjwugHsLjuL:;'nQVnGstc:RKJ-DVuz ,Of:hex!&l&SwrTTsuam3t!3pIOdFWeeH&H!m?B:EAzgpkFAx&IkpabDXKevV-'3::JicEZwwgfOJ:oTBA;JvciQGHKNLAEOUd
+NdWDha3bc
+----
+iter 0, loss: 104.359679
+iter 100, loss: 104.391214
+iter 200, loss: 102.610121
+iter 300, loss: 100.720297
+iter 400, loss: 98.625842
+iter 500, loss: 96.652222
+iter 600, loss: 94.507745
+iter 700, loss: 92.502280
+iter 800, loss: 90.389563
+iter 900, loss: 88.263498
+----
+ ke anul Ssm
+
+midt
+A s vqins Mous
+Thiud snsinet de huUwothe is lacha.
+ tr ntdharl, thane S;Lhe wn thef,
+Nark,
+Surthis,heot Bhar,,
+T ae py cot yores shu
+?ceWtipp; wist LUIhdll,
+xmdriu esvigdg wunis shaJ
+----
+iter 1000, loss: 86.321146
+iter 1100, loss: 84.189199
+iter 1200, loss: 82.332587
+iter 1300, loss: 80.590587
+iter 1400, loss: 79.129206
+iter 1500, loss: 77.623899
+iter 1600, loss: 76.342630
+iter 1700, loss: 75.008353
+iter 1800, loss: 73.896627
+iter 1900, loss: 72.591990
+----
+ and
+Porithee he lathonfn ok faveroco'n,
+free fanl hore ptsse fo norl shorithad tocout co pol
+Yheeldicare.
+Snthtthot the af I
+S'Whritn th,
+Weles tonu ood
+Anut nIss that thinde porsesbied famerbl: IUSn
+----
+iter 2000, loss: 71.490663
+iter 2100, loss: 70.649735
+iter 2200, loss: 69.567516
+iter 2300, loss: 68.873706
+iter 2400, loss: 67.975802
+iter 2500, loss: 67.157543
+iter 2600, loss: 66.473724
+iter 2700, loss: 65.769719
+iter 2800, loss: 64.829349
+iter 2900, loss: 64.325115
+----
+ e thedt libos, gores Sh bup,
+Weab . have bo hCeenbm she cIAne po'e.
+
+Herils!eiun'r tee onltseonr nethee lishd pidder omets peit gason ponle nuset bawe nowcee lond barnete
+Corenl: the khert beT ta'l sa
+----
+iter 3000, loss: 63.765147
+iter 3100, loss: 63.275209
+iter 3200, loss: 62.649925
+iter 3300, loss: 62.199002
+iter 3400, loss: 61.599346
+iter 3500, loss: 61.135405
+iter 3600, loss: 60.919792
+iter 3700, loss: 60.539602
+iter 3800, loss: 60.104730
+iter 3900, loss: 59.950512
+----
+ ' mote dur Vond
+HoSer henemeveale therr.
+
+BRILICINIUS:de lizen,erltaithabe of wartimins aed
+O
+BRUS:
+Deit some mof real for,
+Bnou sinle
+Tultot wat. tolpee taleshal -.
+He hientt as veas Ind,
+Vonls wea'r
+----
+iter 4000, loss: 59.546010
+iter 4100, loss: 59.285178
+iter 4200, loss: 59.264058
+iter 4300, loss: 58.950643
+iter 4400, loss: 58.844579
+iter 4500, loss: 58.885870
+iter 4600, loss: 58.909573
+iter 4700, loss: 58.789586
+iter 4800, loss: 58.527443
+iter 4900, loss: 58.420123
+----
+ math gate withons' cou, wit tatham phe,,
+The He.
+
+Why gotec hatrens:
+budible theuras to thanpin wond dy yout That the Romy lislaw: y R t a toud
+Whing. pelr anns and you iuoume thi, fwore, he toite fou
+----
+iter 5000, loss: 58.257873
+iter 5100, loss: 58.154411
+iter 5200, loss: 57.876764
+iter 5300, loss: 57.786818
+iter 5400, loss: 57.761334
+iter 5500, loss: 57.858341
+iter 5600, loss: 57.715725
+iter 5700, loss: 57.715028
+iter 5800, loss: 57.639792
+iter 5900, loss: 57.513640
+----
+
+
+ nechobers, hamthirs the ath, ild litiderinolthe, mide hors'aen his, lads Noukokn, hitheert anf youl I cube wamthen, 'n.
+Hiir wiver:
+And ags toer Co d; theeesst afthe medmleinl meas beir thible ut g
+----
+iter 6000, loss: 57.554003
+iter 6100, loss: 57.374925
+iter 6200, loss: 57.666421
+iter 6300, loss: 57.993542
+iter 6400, loss: 58.298251
+iter 6500, loss: 58.380475
+iter 6600, loss: 58.506062
+iter 6700, loss: 58.408989
+iter 6800, loss: 58.056041
+iter 6900, loss: 57.670794
+----
+ yiamiogham seice seher soret maiceawcor een ow sowinllle.
+Ausent yomend blit kere is mome,
+Br: and pobtithusty sherasbolds hearclow mod madeet pases,
+I hite, thon wonse wail sire sue nof yolads
+Bo han
+----
+iter 7000, loss: 57.986401
+iter 7100, loss: 58.121161
+iter 7200, loss: 58.075753
+iter 7300, loss: 57.928629
+iter 7400, loss: 57.812239
+iter 7500, loss: 57.687255
+iter 7600, loss: 57.441814
+iter 7700, loss: 57.506295
+iter 7800, loss: 57.520478
+iter 7900, loss: 57.458484
+----
+ Send make vins; drait int,
+W'datethe Hith ous matht thamcs for'da? An:
+Sis muchid Moaie ther
+M';
+My roth as the wiine,
+Thin honder? thid mewser
+a nle lowcother haald bes abenoupuir if cowhis thy pounc
+----
+iter 8000, loss: 57.084942
+iter 8100, loss: 56.655829
+iter 8200, loss: 56.709699
+iter 8300, loss: 56.716731
+iter 8400, loss: 56.815747
+iter 8500, loss: 57.014839
+iter 8600, loss: 57.085208
+iter 8700, loss: 57.058171
+iter 8800, loss: 56.997403
+iter 8900, loss: 57.145651
+----
+ ise as tuve the se thys at povead and:
+ite for sealy and ton poundsasunt ou beagh mamesuia.
+'d paen, kouny.
+
+QUCERGUCKEANn ur mith hhyall hory ifdout that tleuklenst ioy,
+Do,
+Go dof, wop loake fist We
+----
+iter 9000, loss: 56.998563
+iter 9100, loss: 56.816113
+iter 9200, loss: 56.265921
+iter 9300, loss: 56.153594
+iter 9400, loss: 55.965241
+iter 9500, loss: 55.764451
+iter 9600, loss: 55.682869
+iter 9700, loss: 55.530475
+iter 9800, loss: 55.438180
+iter 9900, loss: 55.360496
+----
+ d oron c!
+Tortiw; Mall ylud:
+Fove serey ard hith ith blirest, or rom, we thastho,
+And piwh, stillut, the
+Thickene'd ragh thiit dive has thy oren!
+Whise ate esces,- he cord bedather on wath fatty
+Or.
+
+
+----
+iter 10000, loss: 55.210055
+iter 10100, loss: 55.077800
+iter 10200, loss: 55.009642
+iter 10300, loss: 55.021581
+iter 10400, loss: 54.808961
+iter 10500, loss: 54.830230
+iter 10600, loss: 55.011439
+iter 10700, loss: 55.176507
+iter 10800, loss: 54.986207
+iter 10900, loss: 55.072086
+----
+  perark, weand.
+
+GEMK:
+What.
+
+SAMDS:
+I
+M?
+ICAEMY: suges gouo'sinw sh my an puin sumy, grondt bey the Lout now sorcistek woot patrer maswelis ssale,
+Rorld Ag non ardero wid esy speay is ros cralh loMla
+----
+iter 11000, loss: 55.386957
+iter 11100, loss: 55.468737
+iter 11200, loss: 55.288963
+iter 11300, loss: 55.031078
+iter 11400, loss: 54.722585
+iter 11500, loss: 54.130464
+iter 11600, loss: 53.953294
+iter 11700, loss: 53.387277
+iter 11800, loss: 53.297874
+iter 11900, loss: 53.252263
+----
+ dserinsly lome ow memane sher noke, ay fore fime.
+Stangibom'rliseandpend me br'ioth: eafpyou duls neweys I axt eid btivive I warhe te mell. thein beset thou tor
+Thesh your thy hato gathour print Enike
+----
+iter 12000, loss: 53.641437
+iter 12100, loss: 53.935024
+iter 12200, loss: 54.168577
+iter 12300, loss: 54.212227
+iter 12400, loss: 54.667646
+iter 12500, loss: 54.674993
+iter 12600, loss: 54.439599
+iter 12700, loss: 54.577800
+iter 12800, loss: 54.765910
+iter 12900, loss: 54.885871
+----
+ oce the aly ligte t bas Thine Jas.
+Thatea,
+The haid po lake belat wind of velifgeive was faals midemest me. bnker's,
+Scograngou bot leistelefur lisem
+Rondt gerik
+-se livey spevlou that non thee,
+Hurun
+----
+iter 13000, loss: 55.047297
+iter 13100, loss: 55.036878
+iter 13200, loss: 55.246791
+iter 13300, loss: 55.207731
+iter 13400, loss: 55.284413
+iter 13500, loss: 55.309539
+iter 13600, loss: 55.203912
+iter 13700, loss: 55.188000
+iter 13800, loss: 55.170143
+iter 13900, loss: 55.060800
+----
+ inctw io duts;
+Misd to mablf lass it ik roth gourgh of veait oun Ave suer chaprskincpie favenn'qulre thy bead arch bemteall: of weatuk.
+dode wall Ifres, cisen the elact tias, than.
+
+KI:
+Th turtanguric
+----
+iter 14000, loss: 55.112681
+iter 14100, loss: 54.840387
+iter 14200, loss: 54.721973
+iter 14300, loss: 54.829900
+iter 14400, loss: 54.965428
+iter 14500, loss: 54.999257
+iter 14600, loss: 54.966837
+iter 14700, loss: 54.985049
+iter 14800, loss: 54.842284
+iter 14900, loss: 54.682467
+----
+ l I lave
+Thack bet, Rime.
+
+F Heng meder.
+Bod Ban; mand oie ynur of the suve mom halr, voreot proeesel cormienour, fon arblingtinged nome Doaly sur?
+Toll myurpshan, ur s are a prkent
+Bp owes,
+And thach
+----
+iter 15000, loss: 54.504920
+iter 15100, loss: 54.505229
+iter 15200, loss: 54.436549
+iter 15300, loss: 54.538313
+iter 15400, loss: 54.584937
+iter 15500, loss: 54.480484
+iter 15600, loss: 54.367126
+iter 15700, loss: 54.400552
+iter 15800, loss: 54.355254
+iter 15900, loss: 54.030260
+----
+ as kind deat I pop-Ant
+Therin.
+
+ADUKE:
+What in stal, dectadtiege
+Me oo cfwis hice,
+Torsenrde coad, thiokpale timus und, foppencreisher dirtera.
+Hhuen of forem,
+Whem, freyer;
+Onosing,
+Hy laan,
+Medombre
+----
+iter 16000, loss: 54.182792
+iter 16100, loss: 54.151984
+iter 16200, loss: 54.010002
+iter 16300, loss: 54.193962
+iter 16400, loss: 54.198455
+iter 16500, loss: 53.912555
+iter 16600, loss: 53.754245
+iter 16700, loss: 53.425289
+iter 16800, loss: 53.494140
+iter 16900, loss: 53.254423
+----
+ KEND II: I vanchin kint aprings?
+Uod swos Ald with, houverts, I thals endisf offese Land?
+
+KING SI:
+Ant surnteng thime.
+
+KING
+RENO ENLI:
+:
+Sif yis the hmore you is me fwtaed:
+And well on of reatss mto
+----
+iter 17000, loss: 53.191458
+iter 17100, loss: 52.757110
+iter 17200, loss: 52.460085
+iter 17300, loss: 52.309900
+iter 17400, loss: 52.289740
+iter 17500, loss: 52.415542
+iter 17600, loss: 52.375503
+iter 17700, loss: 52.296184
+iter 17800, loss: 52.559166
+iter 17900, loss: 52.969473
+----
+ EYOs zow nove son Conesimt ser a!
+As I lichiln dand hiip proml
+Fist, sevchay till to the wim wing soulk,
+Has ild shikl ate tof'd beand thas asg I forgene sy and this I pows'd mey roruve boam why led a
+----
+iter 18000, loss: 53.173490
+iter 18100, loss: 53.249861
+iter 18200, loss: 53.357604
+iter 18300, loss: 53.582686
+iter 18400, loss: 53.829345
+iter 18500, loss: 54.001385
+iter 18600, loss: 54.047978
+iter 18700, loss: 54.199561
+iter 18800, loss: 54.454610
+iter 18900, loss: 54.563617
+----
+  mood ha! dee,-
+
+BROKMYO:
+Fod som.
+
+Tord toche I wiche, un ho hontw; I tune ase' thly cra;th goese laapce in the dea faro and houw.
+I iurcert lemen they theame whas ig in and geas mishean ttamem: a qo
+----
+iter 19000, loss: 54.466241
+iter 19100, loss: 54.441532
+iter 19200, loss: 54.186011
+iter 19300, loss: 54.080773
+iter 19400, loss: 53.822230
+iter 19500, loss: 53.961794
+iter 19600, loss: 53.850988
+iter 19700, loss: 54.099729
+iter 19800, loss: 53.811707
+iter 19900, loss: 53.781367
+----
+ st To bithwis
+By Boal wiph, he so ame thy thew, and me:
+Hood on bive at fnoth?
+
+RIUPULOET:
+O tsmely grout ank hesrer the rains ale is hend ewas ondture anst four linw in nyegoly wea,
+Rrarsofes? and- y
+----
+iter 20000, loss: 53.825331
+iter 20100, loss: 53.729085
+iter 20200, loss: 53.641394
+iter 20300, loss: 53.648536
+iter 20400, loss: 53.872020
+iter 20500, loss: 54.097573
+iter 20600, loss: 54.056180
+iter 20700, loss: 54.272911
+iter 20800, loss: 54.323556
+iter 20900, loss: 54.361217
+----
+ n lint for nealve thour-his,,
+Wend mo; my and,, on hat momidep of tiis is;
+No mose sithls sprom; a of, llen,
+Hy theer that hat sy theer y yall a bore an'pheanmt vous.
+And thele puery me?
+
+Ncross hy so
+----
+iter 21000, loss: 54.276105
+iter 21100, loss: 54.063930
+iter 21200, loss: 54.060465
+iter 21300, loss: 53.726640
+iter 21400, loss: 53.606947
+iter 21500, loss: 53.502607
+iter 21600, loss: 53.415973
+iter 21700, loss: 53.117007
+iter 21800, loss: 53.055832
+iter 21900, loss: 53.040965
+----
+  piur weale fore bat,
+What, Glabgheast fall is?
+This monion clorsiep irse lor
+To lint hite beass rech my aitoof:
+Ire,
+I lome's
+JlRot that lovest ble'thary hark dit maits?
+Whist:
+I qhy the pape, Laxt
+----
+iter 22000, loss: 53.004459
+iter 22100, loss: 52.963175
+iter 22200, loss: 53.003616
+iter 22300, loss: 53.347501
+iter 22400, loss: 53.553137
+iter 22500, loss: 53.606426
+iter 22600, loss: 53.544930
+iter 22700, loss: 53.510267
+iter 22800, loss: 53.528024
+iter 22900, loss: 53.517752
+----
+ o ba tist tilspeng the my on wewis w's siy tiar lesdrien iy onturies this me mtaery, hacmy?
+
+FRIARCTEAUE,
+L:
+Thy to fas; bomioghs he that mes.
+Bertofe,
+And that is I'd itirk
+Iy me conce,
+The deet an o
+----
+iter 23000, loss: 53.378235
+iter 23100, loss: 53.250735
+iter 23200, loss: 53.356007
+iter 23300, loss: 53.212052
+iter 23400, loss: 53.097014
+iter 23500, loss: 52.939656
+iter 23600, loss: 52.908715
+iter 23700, loss: 52.862122
+iter 23800, loss: 52.960032
+iter 23900, loss: 53.107936
+----
+ Fo dip in thound yor f, in me.
+Algnee corfised, gour lincatess?
+Ar heagtrts nive in a therd a' lis thy slat wo rofon by gelaghtses, be lik hat shoch liscalcenm,,
+your pabw,
+And gowes teifor the fok of
+----
+iter 24000, loss: 53.056182
+iter 24100, loss: 53.151192
+iter 24200, loss: 53.169634
+iter 24300, loss: 53.201703
+iter 24400, loss: 53.198956
+iter 24500, loss: 53.244697
+iter 24600, loss: 53.172696
+iter 24700, loss: 52.998047
+iter 24800, loss: 52.859025
+iter 24900, loss: 52.804783
+----
+ s thot to letpt brichtlet; hiwncouved sor hewm; you paens thene:
+Beres;
+Ang kigntow tume petenys
+Youre dacrightsifad on'dingume! eiclou trest wrad dad of fired, is fome hore see.
+
+FICVORK:
+Not sup-tre
+----
+iter 25000, loss: 52.625077
+iter 25100, loss: 52.692729
+iter 25200, loss: 52.588488
+iter 25300, loss: 52.616434
+iter 25400, loss: 52.553883
+iter 25500, loss: 52.593794
+iter 25600, loss: 52.429742
+iter 25700, loss: 52.208274
+iter 25800, loss: 51.765832
+iter 25900, loss: 51.849031
+----
+ orgee so coulss os ast dot willk
+Srowse fuup bade is kaves ilsbryilky the py.
+
+DUETRLOUTES
+EX:
+And be whith speghand me'l my surront most mattar I day I cous oall maslen ithe'd beyire me,
+
+Foot lichim
+----
+iter 26000, loss: 52.029094
+iter 26100, loss: 52.200215
+iter 26200, loss: 52.339064
+iter 26300, loss: 52.212934
+iter 26400, loss: 52.072859
+iter 26500, loss: 51.915844
+iter 26600, loss: 51.654234
+iter 26700, loss: 51.714738
+iter 26800, loss: 51.873374
+iter 26900, loss: 51.840953
+----
+ rkest.
+
+KINGRIECEV:
+Wen, the hing wouwh and brickerd me whey and, of cord hents
+The mawwse themer
+Prods's dcomeess hithsal row lis hive whard thecifoul
+Amd it suptherun, enderingly len thize's ond:
+Wh
+----
+iter 27000, loss: 51.701923
+iter 27100, loss: 51.621267
+iter 27200, loss: 51.575414
+iter 27300, loss: 51.492353
+iter 27400, loss: 51.612564
+iter 27500, loss: 51.541463
+iter 27600, loss: 51.281069
+iter 27700, loss: 51.221154
+iter 27800, loss: 51.268306
+iter 27900, loss: 51.380902
+----
+ KENd ur lete teid for to bus sdat khy, prryes wite a howfe besicham hergwede Vice and; arfwere mtlen.
+Brichimt;
+Ire to kast-I
+HGou that ad placin? headt shith fan men
+Antt; ave de've swater in; tivese
+----
+iter 28000, loss: 51.467223
+iter 28100, loss: 51.162195
+iter 28200, loss: 51.016394
+iter 28300, loss: 51.036977
+iter 28400, loss: 51.010534
+iter 28500, loss: 51.645429
+iter 28600, loss: 52.017616
+iter 28700, loss: 52.153991
+iter 28800, loss: 52.406062
+iter 28900, loss: 52.582720
+----
+ eceifputup Kidesy the silrlchom ay ront whand; in drat, hiss Wy me wich, andwer farenggry hase hengy kinfserive:
+He frat non my wragp,
+Agrow eas whist?
+The Cantiet my beceite Cayes a hiop heake,
+Healr
+----
+iter 29000, loss: 52.842536
+iter 29100, loss: 52.888597
+iter 29200, loss: 52.881074
+iter 29300, loss: 52.896041
+iter 29400, loss: 52.967756
+iter 29500, loss: 53.092515
+iter 29600, loss: 53.010217
+iter 29700, loss: 53.073324
+iter 29800, loss: 53.250694
+iter 29900, loss: 53.249956
+----
+ Ye
+quer If st weser, of youd chilln Pavet?
+Thy thy you muthors hounon;
+That was hot hithy mustres my my inrce:
+
+WARCENWARY
+YONGAREE:
+
+DWARN:
+Lord
+Prepued;
+And dell mithot ance. Wis:
+Af
+A dot,
+As it at
+----
+iter 30000, loss: 53.044777
+iter 30100, loss: 52.903636
+iter 30200, loss: 52.824149
+iter 30300, loss: 52.997364
+iter 30400, loss: 52.871089
+iter 30500, loss: 52.902818
+iter 30600, loss: 53.042982
+iter 30700, loss: 53.009017
+iter 30800, loss: 53.282782
+iter 30900, loss: 53.407306
+----
+ t?
+To talfoncther:
+Won wial a, thly:
+Tee, youn haidt the ppeake mankeck, of ling. -he thout nonet? of with fere.
+End I me-share:
+Fou hellsest fiole nom his tatom the marisis wite ntyour leom cher cath
+----
+iter 31000, loss: 53.389238
+iter 31100, loss: 53.357851
+iter 31200, loss: 53.607574
+iter 31300, loss: 53.661217
+iter 31400, loss: 53.639504
+iter 31500, loss: 53.532925
+iter 31600, loss: 53.331197
+iter 31700, loss: 53.512321
+iter 31800, loss: 53.559223
+iter 31900, loss: 53.382871
+----
+ h ghot's the singoch this me ave.
+
+Sewice.
+Co hast sas lallo I hee uxwallistisy. no he rien; whe bonta yourhep,
+Isot, wiy weld lesta! powtteld goving tre, and,
+Awhallo.
+A dowald agh'ch best.
+
+PRLHERc
+
+----
+iter 32000, loss: 53.154034
+iter 32100, loss: 53.019794
+iter 32200, loss: 52.909379
+iter 32300, loss: 52.531860
+iter 32400, loss: 52.563980
+iter 32500, loss: 52.430255
+iter 32600, loss: 52.251697
+iter 32700, loss: 52.269200
+iter 32800, loss: 52.180164
+iter 32900, loss: 52.212445
+----
+ I dreim wool I?
+Sicipe sadisen ellefther meher cay.
+
+CALO:
+Sees hans ages.
+
+AUTVOUS:
+Hivirsceds win'd ligrey lerined michos goter Fecomard sace
+The qubeedasn Soown'per my
+Hencesn shsire shert.
+
+PEOLNI
+----
+iter 33000, loss: 52.246077
+iter 33100, loss: 52.273207
+iter 33200, loss: 52.119983
+iter 33300, loss: 52.160738
+iter 33400, loss: 52.315646
+iter 33500, loss: 52.247628
+iter 33600, loss: 52.075883
+iter 33700, loss: 51.943921
+iter 33800, loss: 51.879677
+iter 33900, loss: 52.022743
+----
+ nct
+Bees maive
+tha hin:
+Wady till Haile,
+Hak oftin. Bus
+
+Deaturiz
+me.
+But breand wioy ave then in pot golvalun but word hene the but ard stows
+me
+Tore tar.
+
+FOUTEOTA:
+
+LARTINLEXEXELNINTES:
+Qnd? I- pav
+----
+iter 34000, loss: 52.083901
+iter 34100, loss: 52.275890
+iter 34200, loss: 52.272344
+iter 34300, loss: 52.340233
+iter 34400, loss: 52.415384
+iter 34500, loss: 52.518797
+iter 34600, loss: 52.430030
+iter 34700, loss: 52.594494
+iter 34800, loss: 52.517065
+iter 34900, loss: 52.364145
+----
+ ontces of wound, Riou wono;
+Bothot ar at there time I chone
+Ithil,
+Cera hehed dalis hirg lonot aery, te. Bud hy he Gfore a comes gowrpealy; do hee
+but trace, my in; ofrey ad, io mirnceman woulwin his
+----
+iter 35000, loss: 52.137773
+iter 35100, loss: 52.057189
+iter 35200, loss: 51.764145
+iter 35300, loss: 51.876474
+iter 35400, loss: 51.870564
+iter 35500, loss: 51.852690
+iter 35600, loss: 51.649347
+iter 35700, loss: 51.476803
+iter 35800, loss: 51.438044
+iter 35900, loss: 51.385773
+----
+ rpores,
+I arts bechals bent in hond bor, cis dith best.
+Go whing this mied tomme you bey folloed no his of lith yon foul have, seale fid till alghen? and then shen count brochs and that ampank, weith.
+----
+iter 36000, loss: 51.283658
+iter 36100, loss: 51.354582
+iter 36200, loss: 51.381017
+iter 36300, loss: 51.355219
+iter 36400, loss: 51.513406
+iter 36500, loss: 51.447415
+iter 36600, loss: 51.244176
+iter 36700, loss: 51.390897
+iter 36800, loss: 51.411624
+iter 36900, loss: 51.157054
+----
+ he samy e. whar that bely spant tall it, to kevink;
+Sour ies; now frrord thou hiwe,
+Dabe
+outh's beewceara, arlis of ham the terut hast my
+Cincua, not, have ay
+seraghpain mace?
+Whad.
+PRIO:
+Serdeld hay
+----
+iter 37000, loss: 51.450568
+iter 37100, loss: 51.442405
+iter 37200, loss: 51.302742
+iter 37300, loss: 51.294900
+iter 37400, loss: 51.212886
+iter 37500, loss: 51.043894
+iter 37600, loss: 50.841107
+iter 37700, loss: 50.849162
+iter 37800, loss: 50.801188
+iter 37900, loss: 50.615620
+----
+ s gouch frricksimast?
+
+DUKE VINCENLADEES OVO:
+I and
+Ar's sominy as not sunctaquigh spaigeabft brod wer's s is in pik
+Nllavy be kawndpance
+The eerptells: leso vatinge and
+En.
+DUKTALD:
+Iurs mefperdrtat
+----
+iter 38000, loss: 50.735074
+iter 38100, loss: 50.450376
+iter 38200, loss: 50.480621
+iter 38300, loss: 50.260131
+iter 38400, loss: 50.153348
+iter 38500, loss: 50.238714
+iter 38600, loss: 50.131569
+iter 38700, loss: 50.487664
+iter 38800, loss: 50.657228
+iter 38900, loss: 50.945038
+----
+ irat spor am the show-
+Thould hond I st'theres:
+O, estherse the teed, if dow peast could her flomys is tull trat halk we mange wherester the the sorcly puch to grad wicnert:
+Ase as mid chall rath beth
+----
+iter 39000, loss: 51.262401
+iter 39100, loss: 51.323017
+iter 39200, loss: 51.664426
+iter 39300, loss: 51.815624
+iter 39400, loss: 51.944415
+iter 39500, loss: 51.871613
+iter 39600, loss: 52.004308
+iter 39700, loss: 52.226303
+iter 39800, loss: 52.322343
+iter 39900, loss: 52.274032
+----
+ r.
+
+POTCG:
+I prown, gows bunss my wirsine cinsar pordus hes wirt, If whosolem
+For
+Here my, thou hay por widingd no faron dia, wall I ve war I lemees leNshers enany ser you,
+To en fale wile thonownors
+----
+iter 40000, loss: 52.077683
+iter 40100, loss: 51.857015
+iter 40200, loss: 51.845429
+iter 40300, loss: 51.820386
+iter 40400, loss: 51.609671
+iter 40500, loss: 51.371429
+iter 40600, loss: 51.104246
+iter 40700, loss: 51.144372
+iter 40800, loss: 51.179900
+iter 40900, loss: 51.520243
+----
+ , bats swerirk ham know betily amfortienctron aid thy ligh me mithioa. Tim: and the hanctend' ut ture bat towsa I wwalr the,.
+
+PETRIOT:
+Gy mane wuve,-
+Whigh,
+
+ILARTIO:
+O besirionyse'd she ho
+cerway ob
+----
+iter 41000, loss: 51.572829
+iter 41100, loss: 51.767927
+iter 41200, loss: 51.465184
+iter 41300, loss: 51.551586
+iter 41400, loss: 51.260041
+iter 41500, loss: 51.323086
+iter 41600, loss: 51.215305
+iter 41700, loss: 51.240300
+iter 41800, loss: 51.106825
+iter 41900, loss: 51.032570
+----
+ o
+Tho fince thanco come leader dy be mene! Gore thar, lighe Toed rukgrart.
+
+PUBRIO:
+Ay; my frekt; all but as him sce sirnech hay:
+If hat es worgaed hingno, the presendour-shente to sont hele ywiar the
+----
+iter 42000, loss: 50.914969
+iter 42100, loss: 50.600516
+iter 42200, loss: 50.531925
+iter 42300, loss: 50.362688
+iter 42400, loss: 50.267919
+iter 42500, loss: 50.137770
+iter 42600, loss: 49.995410
+iter 42700, loss: 49.915291
+iter 42800, loss: 49.974517
+iter 42900, loss: 49.700354
+----
+ locany at fives wive oD tore good so? hint me to beguy'd, be vor
+Ath you be bet miedised, therem! If rik, thour that thane.
+
+lam sI it siyee hist to Veremy, in link bethe.
+
+PENCENCILON
+EONDIO:
+To Panc
+----
+iter 43000, loss: 49.546132
+iter 43100, loss: 49.136371
+iter 43200, loss: 49.302502
+iter 43300, loss: 49.686218
+iter 43400, loss: 50.007010
+iter 43500, loss: 50.220040
+iter 43600, loss: 50.557312
+iter 43700, loss: 50.830609
+iter 43800, loss: 50.941379
+iter 43900, loss: 50.996365
+----
+ ntsing,
+the failnd'sor. ;ed ifat not a par suppled.
+
+PRLIO:
+Pall hast tw may weens.
+
+PRUCUMSANDUO:
+Nshevet,
+
+Figh tho! Mance
+Thin france singaur, ave in home'ms and
+At of ase a covese
+this inme
+thou c
+----
+iter 44000, loss: 51.141261
+iter 44100, loss: 51.216858
+iter 44200, loss: 51.085684
+iter 44300, loss: 51.206365
+iter 44400, loss: 51.366004
+iter 44500, loss: 51.383925
+iter 44600, loss: 51.306121
+iter 44700, loss: 51.523649
+iter 44800, loss: 51.686195
+iter 44900, loss: 51.618746
+----
+ ol'n hipuen.
+
+PENONO::
+A
+Whech krived eed yat under.
+
+LONPOLO:
+Ses and.
+
+I ELONO:
+This had, thouthea lomes, wirtitouse thatster werl us our.
+
+ANNINANO:
+Mure sithing that swand doobs for that nit id
+Wh
+----
+iter 45000, loss: 51.603460
+iter 45100, loss: 51.785133
+iter 45200, loss: 51.925327
+iter 45300, loss: 52.208203
+iter 45400, loss: 52.379898
+iter 45500, loss: 52.219947
+iter 45600, loss: 52.271968
+iter 45700, loss: 52.173759
+iter 45800, loss: 52.031890
+iter 45900, loss: 51.876222
+----
+ me-Cinknak.
+
+LAMIStAET:
+Or of Kas,
+Whink brove sastred ail to your smatdink ay, cow wour-- bous; I hais it he contan fourr. I corgol Lank, 'propliur
+Mandsiny ho thard at twere, fors, Lor if thou poet
+----
+iter 46000, loss: 52.050769
+iter 46100, loss: 51.888462
+iter 46200, loss: 51.963816
+iter 46300, loss: 51.940980
+iter 46400, loss: 51.991874
+iter 46500, loss: 51.760729
+iter 46600, loss: 51.729310
+iter 46700, loss: 51.668032
+iter 46800, loss: 51.482943
+iter 46900, loss: 51.522006
+----
+  IUES:
+Whis he thite be wous
+Aur mik:
+No surn, thimron shereln the, he
+Tullteld, wall hat for the, mechin, shele, haopois?
+
+Wove with with mite cociro:
+And sounctyen and of nothead! mo, in, awn.
+
+GURA
+----
+iter 47000, loss: 51.192676
+iter 47100, loss: 51.024600
+iter 47200, loss: 50.907783
+iter 47300, loss: 50.833872
+iter 47400, loss: 50.407245
+iter 47500, loss: 50.490882
+iter 47600, loss: 50.474735
+iter 47700, loss: 50.524722
+iter 47800, loss: 50.354221
+iter 47900, loss: 50.220150
+----
+  hath your we't arach up brot the gumaill.
+
+MIUSIUENENIUS:
+Mor've swsen what quamhfelt beasties! Ferpescrotsur pusce to hand in sort reabe soow
+And of and I of my wiall with hende.
+Heake cat thit then
+----
+iter 48000, loss: 50.018889
+iter 48100, loss: 49.783732
+iter 48200, loss: 49.878888
+iter 48300, loss: 49.850460
+iter 48400, loss: 49.644037
+iter 48500, loss: 49.679644
+iter 48600, loss: 49.634557
+iter 48700, loss: 49.514929
+iter 48800, loss: 49.658664
+iter 48900, loss: 49.575528
+----
+ ;
+Or too'.
+'s artild ow maderns hey nike ceakess there coree ford
+You goom.
+
+CORENINUNIIA:
+N must the tom neepliny blak, thee hom and:
+Hemealk seis'd yit ween one antret olmen and edinge
+Asbin arung n
+----
+iter 49000, loss: 49.601957
+iter 49100, loss: 49.810343
+iter 49200, loss: 49.950592
+iter 49300, loss: 50.002206
+iter 49400, loss: 49.990619
+iter 49500, loss: 49.931868
+iter 49600, loss: 49.967705
+iter 49700, loss: 50.040172
+iter 49800, loss: 49.854710
+iter 49900, loss: 49.813306
+----
+ :
+He sere hattreer fed froun now beasow, of on Serennottrems, Sy wowh muin sster, putte. Bome?
+
+MOMENIUS:
+Catio, nosen we nom the fare lood youny, ss in farizing the hear that nom peaght our, besct ar
+----
+iter 50000, loss: 49.893195
+iter 50100, loss: 50.098583
+iter 50200, loss: 50.090737
+iter 50300, loss: 50.207716
+iter 50400, loss: 50.210031
+iter 50500, loss: 50.258477
+iter 50600, loss: 50.399779
+iter 50700, loss: 50.353255
+iter 50800, loss: 50.609361
+iter 50900, loss: 51.000197
+----
+ you gite. what I to wang beare to hith, be tall an,
+And hore' fortaing;
+Ag thece ganariofow
+Thas, wald murtow, your, sor
+Cot mith your well shour monsurbuven hase.
+
+LACINIANEULNUSIID:
+Ood have Deter,
+----
+iter 51000, loss: 51.068107
+iter 51100, loss: 51.210088
+iter 51200, loss: 51.306749
+iter 51300, loss: 51.234732
+iter 51400, loss: 51.009913
+iter 51500, loss: 50.727185
+iter 51600, loss: 50.850864
+iter 51700, loss: 50.929296
+iter 51800, loss: 50.884572
+iter 51900, loss: 50.650999
+----
+ e mursong corsting ware, your beom out bourealnse!
+
+GLOUCENNEA:
+Nou to chis mord for the prom?
+And do thou to no parunet ardithes I xine, Mantle maystile khend me now, exderer:
+No will a houghar so ca
+----
+iter 52000, loss: 50.759878
+iter 52100, loss: 50.593192
+iter 52200, loss: 50.365668
+iter 52300, loss: 50.561057
+iter 52400, loss: 50.758987
+iter 52500, loss: 50.796994
+iter 52600, loss: 50.538856
+iter 52700, loss: 50.180779
+iter 52800, loss: 50.085416
+iter 52900, loss: 50.095476
+----
+ poth your turdiit as thith,
+Thas youlds to op enjer vencadhy:
+Whou knoll the protis,
+For seret and heser'd, wive me, broedeald the semos; we deachinkothth thou kycaet ham the, on yours him a
+That fird
+----
+iter 53000, loss: 50.129954
+iter 53100, loss: 50.261956
+iter 53200, loss: 50.331434
+iter 53300, loss: 50.328897
+iter 53400, loss: 50.290527
+iter 53500, loss: 50.380402
+iter 53600, loss: 50.290471
+iter 53700, loss: 50.168548
+iter 53800, loss: 49.621896
+iter 53900, loss: 49.616527
+----
+ d:
+Eak thet staran are lordper mose pris the coor notare cool:
+Ard yere the Cawe nown the louswiet likn you?
+lecksan.
+
+Thorver himg.
+
+Hais to hast of miren herigg the guquima:
+Hals memess bies?
+
+GLOUC
+----
+iter 54000, loss: 49.509766
+iter 54100, loss: 49.461134
+iter 54200, loss: 49.444399
+iter 54300, loss: 49.331003
+iter 54400, loss: 49.444135
+iter 54500, loss: 49.347460
+iter 54600, loss: 49.361797
+iter 54700, loss: 49.387691
+iter 54800, loss: 49.329109
+iter 54900, loss: 49.359197
+----
+ DICGSCMASTIESd:
+And nother goren sill denot endeed haver!
+--till as ay nowt ord,
+And nwaf!
+Thenocnt low but not.
+
+BUCETISTER:
+For
+unturormy rook your loursis, age 'mor
+Guve rengurgo.
+
+BUCKIYTAUT:
+When
+----
+iter 55000, loss: 49.445863
+iter 55100, loss: 49.304282
+iter 55200, loss: 49.493721
+iter 55300, loss: 49.539806
+iter 55400, loss: 49.466339
+iter 55500, loss: 49.534836
+iter 55600, loss: 49.811036
+iter 55700, loss: 49.999550
+iter 55800, loss: 49.896049
+iter 55900, loss: 49.500436
+----
+ heragh thise's gucsir will have you bebut trard:
+Ore.
+Whis wirnow,
+The by agalongice-buvirs his, expceracue; onuse caice thow niknot if the ckirhter that and may'l chy Rongrer he lind siy that I ad, I
+----
+iter 56000, loss: 49.253615
+iter 56100, loss: 48.663769
+iter 56200, loss: 48.652124
+iter 56300, loss: 47.944556
+iter 56400, loss: 47.889738
+iter 56500, loss: 47.844921
+iter 56600, loss: 48.253703
+iter 56700, loss: 48.761047
+iter 56800, loss: 49.054830
+iter 56900, loss: 49.204204
+----
+  mackerd.
+
+GLORK:
+Skath my to hlivicld thour warold
+Thee netseld apmont neress allo tordendly, spe; buqro semen: eseld fane by dince.
+
+LORHASTII:
+Mint the inf
+Rendicineghty, want bewtre eam us this:
+H
+----
+iter 57000, loss: 49.845192
+iter 57100, loss: 49.895526
+iter 57200, loss: 49.810375
+iter 57300, loss: 49.951800
+iter 57400, loss: 50.179924
+iter 57500, loss: 50.337946
+iter 57600, loss: 50.638831
+iter 57700, loss: 50.745302
+iter 57800, loss: 50.854005
+iter 57900, loss: 50.842018
+----
+ erell I as and apeald stos lousbroty he kenture.
+The Thont sod be love some lords I Towd: mawndnace his'ter end tea dfy shough mayessmold and reras heamt: and hins leuste's,
+Nod farall prod, mad thoul
+----
+iter 58000, loss: 51.008078
+iter 58100, loss: 51.046224
+iter 58200, loss: 51.024434
+iter 58300, loss: 51.032328
+iter 58400, loss: 50.953758
+iter 58500, loss: 50.958285
+iter 58600, loss: 51.106062
+iter 58700, loss: 50.920506
+iter 58800, loss: 50.818079
+iter 58900, loss: 50.769375
+----
+ ute, strant:
+Or's,
+Thath, I wis loogtry, be we marglis the prantry ny londer.
+Hous cad Witce covess that his chapestnty the a samy tend theu Hovene,
+Whing wif Riive ble: while suchfer of to mor.
+Howr
+----
+iter 59000, loss: 50.953399
+iter 59100, loss: 50.988108
+iter 59200, loss: 50.974736
+iter 59300, loss: 50.974473
+iter 59400, loss: 50.815765
+iter 59500, loss: 50.683096
+iter 59600, loss: 50.455907
+iter 59700, loss: 50.519183
+iter 59800, loss: 50.407320
+iter 59900, loss: 50.474094
+----
+  come offuats would fare then brach it,
+Thy at to grepang.
+Sord kinght:
+Duch
+Thiws the dover their here! heen s aflounour in you chale wite hefour my mese st ble hanwer, nbeathayser wermant and thaue
+----
+iter 60000, loss: 50.623106
+iter 60100, loss: 50.579790
+iter 60200, loss: 50.419589
+iter 60300, loss: 50.444726
+iter 60400, loss: 50.380370
+iter 60500, loss: 50.214052
+iter 60600, loss: 50.285011
+iter 60700, loss: 50.297882
+iter 60800, loss: 50.082782
+iter 60900, loss: 50.297730
+----
+ n, as if poin.
+
+BORTHOLD:
+Tare, wofring grage I artreforcamegs
+Wall Bas rost crake tre, so meftly that beve me kig, ands nearsor-'tll, lood fichtom af dotien:
+Or I sadere.
+Dids:s siopp
+Thy sowrounein;
+----
+iter 61000, loss: 50.335800
+iter 61100, loss: 50.120304
+iter 61200, loss: 49.936232
+iter 61300, loss: 49.648460
+iter 61400, loss: 49.758696
+iter 61500, loss: 49.538163
+iter 61600, loss: 49.529453
+iter 61700, loss: 49.013126
+iter 61800, loss: 48.811995
+iter 61900, loss: 48.571956
+----
+ dither it.
+
+GORKING ROMES:
+Thus Waydee seoup thou leaken.
+
+DUCBEUS:
+Whe doed conser!' jocys maichnryobes the, in that nos throphtwios, hasblendand thet grobr of, spore sporner, your that Dand
+To have.
+----
+iter 62000, loss: 48.557552
+iter 62100, loss: 48.659615
+iter 62200, loss: 48.674826
+iter 62300, loss: 48.710513
+iter 62400, loss: 48.997922
+iter 62500, loss: 49.379412
+iter 62600, loss: 49.611910
+iter 62700, loss: 49.638920
+iter 62800, loss: 49.734330
+iter 62900, loss: 49.978086
+----
+ r ohtink lads, thauch aine God suioun has
+Thy aa shise,
+My lay mave; so blesthy:
+I neand all you whea daip uir neing.
+Wher ae, sant?
+And he dithing you, Grtty yfol Chilr dequming as hall'd sencr, Agor
+----
+iter 63000, loss: 50.181272
+iter 63100, loss: 50.390704
+iter 63200, loss: 50.430667
+iter 63300, loss: 50.730753
+iter 63400, loss: 50.888026
+iter 63500, loss: 51.068677
+iter 63600, loss: 50.937144
+iter 63700, loss: 51.016661
+iter 63800, loss: 50.858724
+iter 63900, loss: 50.676824
+----
+ at.
+
+JOLIIVOR:
+Sey lovesl wouls were nuce, falild,
+Thouk lentued dother yourle madimpatious farysse, Riggeland, fuch me, tead trease,
+JeFing to farere bavive movinsty But ter.
+Fiase toroujied inse Anv
+----
+iter 64000, loss: 50.351523
+iter 64100, loss: 50.496621
+iter 64200, loss: 50.400635
+iter 64300, loss: 50.751975
+iter 64400, loss: 50.478234
+iter 64500, loss: 50.506147
+iter 64600, loss: 50.545592
+iter 64700, loss: 50.421981
+iter 64800, loss: 50.395672
+iter 64900, loss: 50.372952
+----
+ nd
+Whesband'l acd:
+ON naroded lear yor ortile aceny, mookse fom well, mo;
+
+Ktoe wour and and eilsantow's!
+
+QUSETULEO:
+Srowilder ith welrss that nen
+Toalmes, deam bovertagh? beom.
+Tond thee vought is p
+----
+iter 65000, loss: 50.575201
+iter 65100, loss: 50.887256
+iter 65200, loss: 50.894967
+iter 65300, loss: 51.200519
+iter 65400, loss: 51.236183
+iter 65500, loss: 51.371568
+iter 65600, loss: 51.236962
+iter 65700, loss: 51.012129
+iter 65800, loss: 51.008614
+iter 65900, loss: 50.753065
+----
+ ly the jon thieso the sintary yive!
+Le;
+Rive eakt, daunderm-- but, Jath wass sweridees. a stanishteld in thicht
+noureang for golat'se, hour 'me,
+To But on, of a,
+Mene veree twron not buch dow there, i
+----
+iter 66000, loss: 50.537077
+iter 66100, loss: 50.520208
+iter 66200, loss: 50.394203
+iter 66300, loss: 50.045463
+iter 66400, loss: 50.052414
+iter 66500, loss: 49.984393
+iter 66600, loss: 49.935426
+iter 66700, loss: 50.064750
+iter 66800, loss: 50.134531
+iter 66900, loss: 50.342408
+----
+ nd your then he kight, tour gidour froun geless becesalaure, ell ull on me
+Toke the frowerald they swil with fire urrutany nome for nriw cusheres:
+Buer't ix henem; hothe the fris Drow's entherfter lad
+----
+iter 67000, loss: 50.515431
+iter 67100, loss: 50.609280
+iter 67200, loss: 50.605801
+iter 67300, loss: 50.546795
+iter 67400, loss: 50.522505
+iter 67500, loss: 50.609617
+iter 67600, loss: 50.500142
+iter 67700, loss: 50.325137
+iter 67800, loss: 50.387353
+iter 67900, loss: 50.283047
+----
+ dotinderrived, supron'd tham deand rave trest swiln datsom of and not wiwringd
+Allise lome ross'd wert nut resst herking fortel and host whten acacgen in thene browfo-luth it thy ma:
+I lltiaght?
+
+ARE$
+----
+iter 68000, loss: 50.028024
+iter 68100, loss: 49.852908
+iter 68200, loss: 49.745428
+iter 68300, loss: 49.647857
+iter 68400, loss: 49.763041
+iter 68500, loss: 49.947284
+iter 68600, loss: 49.902193
+iter 68700, loss: 50.047731
+iter 68800, loss: 49.989894
+iter 68900, loss: 50.118781
+----
+ iket'dll frownt!
+Thender,
+Comblint and to hap;
+Bnesinglingeant! had to tr'thend
+Taot and
+Whordch,
+Nod segile,, sorvirs,
+As his aven.
+
+BILANGU:
+Whey suurt buck'lt beds sadidh:
+Then then mere.
+
+RISABETU
+----
+iter 69000, loss: 50.207763
+iter 69100, loss: 50.207063
+iter 69200, loss: 50.142868
+iter 69300, loss: 49.992304
+iter 69400, loss: 49.777694
+iter 69500, loss: 49.772180
+iter 69600, loss: 49.603885
+iter 69700, loss: 49.729350
+iter 69800, loss: 49.681299
+iter 69900, loss: 49.703730
+----
+ frriant wher I not elthed hend
+Ray! I doush swand hears, what ke's for in's husink!
+As gofots, me faars but to the wit dithald that be mentlesn, joce, conga, thew wordt;
+Cengo deed leas honce gleceswo
+----
+iter 70000, loss: 49.641540
+iter 70100, loss: 49.645495
+iter 70200, loss: 49.496844
+iter 70300, loss: 49.204199
+iter 70400, loss: 48.719977
+iter 70500, loss: 48.619130
+iter 70600, loss: 48.850226
+iter 70700, loss: 49.050480
+iter 70800, loss: 49.230876
+iter 70900, loss: 49.088736
+----
+ nve uther deper, phink dell prace.
+
+MEDY:
+The prring kicrme wath hios mer reck, bet tult.
+
+PARENRD II
+KI:
+And yes, yor to the troge,
+Ang ther you drounglly ar if I muster on ard raid;
+Weis,
+Wrine bete
+----
+iter 71000, loss: 49.017676
+iter 71100, loss: 48.854860
+iter 71200, loss: 48.631480
+iter 71300, loss: 48.643392
+iter 71400, loss: 48.744351
+iter 71500, loss: 48.737957
+iter 71600, loss: 48.693286
+iter 71700, loss: 48.593972
+iter 71800, loss: 48.597134
+iter 71900, loss: 48.513090
+----
+ sofaty.
+
+SARANRETd cownting and, nou have compock by is sill, With shatem:
+Forjey:
+So clordang.
+
+QUENN OL
+MACCENWOLVICLODK:
+Nose ath comes Here kin, dow tork; wawh it my onty bossone. Mift firwe,
+Sagr
+----
+iter 72000, loss: 48.575550
+iter 72100, loss: 48.583604
+iter 72200, loss: 48.370251
+iter 72300, loss: 48.390132
+iter 72400, loss: 48.434322
+iter 72500, loss: 48.516082
+iter 72600, loss: 48.678032
+iter 72700, loss: 48.359714
+iter 72800, loss: 48.143245
+iter 72900, loss: 48.243404
+----
+ ur to thact and nous him as is thougthad on,
+And it thim that chowild is finde all a to do kitel' Esthal arling sirra'ss.
+Our hiss and brothat bee!
+will my But?
+
+Kiot dasteht, sear?
+Unt.
+
+KING KING EE
+----
+iter 73000, loss: 48.304902
+iter 73100, loss: 48.758219
+iter 73200, loss: 49.067136
+iter 73300, loss: 49.341093
+iter 73400, loss: 49.648222
+iter 73500, loss: 49.786177
+iter 73600, loss: 49.998758
+iter 73700, loss: 50.140475
+iter 73800, loss: 50.174466
+iter 73900, loss: 50.178897
+----
+ how in my mack iterny I arysiniak ald seals.
+I'l For noter bitly hes samesing my so doal hance'd whine dicuce othis corvent.
+
+CAKETWARD:
+Nement weiling ags in leth-ht th.
+Cabrow?
+
+PEMESTSRISS LICEDY V
+----
+iter 74000, loss: 50.229332
+iter 74100, loss: 50.360175
+iter 74200, loss: 50.364186
+iter 74300, loss: 50.429091
+iter 74400, loss: 50.610863
+iter 74500, loss: 50.664340
+iter 74600, loss: 50.477305
+iter 74700, loss: 50.342921
+iter 74800, loss: 50.280127
+iter 74900, loss: 50.430632
+----
+ ro in dle lingient nou the comowe
+Trest. Hich verush,
+And thou so wiss ontile hele all mist wors.
+Exanchennees a rost will hond--
+Wactthents itelfen
+The liedesmay.
+Werredend of as in I all ust
+The fou
+----
+iter 75000, loss: 50.360466
+iter 75100, loss: 50.352997
+iter 75200, loss: 50.521873
+iter 75300, loss: 50.487499
+iter 75400, loss: 50.685048
+iter 75500, loss: 50.927588
+iter 75600, loss: 50.923848
+iter 75700, loss: 50.920337
+iter 75800, loss: 51.081798
+iter 75900, loss: 51.133600
+----
+ uch, be vy seeen. I thee,
+Sneict then atark hum,, thee;
+Oued and
+Ant of I diles, for couantem, his and a seroy hear and whench! a,
+Whinly,
+Will, of son doperes, ar yet but had and but lik hand, aur fa
+----
+iter 76000, loss: 51.157138
+iter 76100, loss: 50.996917
+iter 76200, loss: 50.938478
+iter 76300, loss: 51.154930
+iter 76400, loss: 51.172910
+iter 76500, loss: 51.080269
+iter 76600, loss: 50.807378
+iter 76700, loss: 50.728854
+iter 76800, loss: 50.595915
+iter 76900, loss: 50.354167
+----
+  rastsen muntesean;
+Coe for's:
+I dive hope peten, Rores, buint looder, warderad:
+Fleasd it wissery,
+That at prof that have save but mamion, yor wiy were to,
+Then prast us and it aith itow
+Oadesty both
+----
+iter 77000, loss: 50.298472
+iter 77100, loss: 50.130452
+iter 77200, loss: 49.938128
+iter 77300, loss: 49.917145
+iter 77400, loss: 49.866251
+iter 77500, loss: 49.874697
+iter 77600, loss: 49.879475
+iter 77700, loss: 49.874913
+iter 77800, loss: 49.794114
+iter 77900, loss: 49.803305
+----
+  taibtem, father dot; ant clagher in, thy:
+To a brock the as be ciught.
+
+AMILYCURETOLz:
+An ow,,
+
+your beveny deach,
+Oe gied
+whou hadp.
+
+IRTES: I ard breyse hake bur chemtse ee ase my hith
+Ol clowe the
+----
+iter 78000, loss: 49.936496
+iter 78100, loss: 49.971854
+iter 78200, loss: 49.678440
+iter 78300, loss: 49.583064
+iter 78400, loss: 49.539654
+iter 78500, loss: 49.607477
+iter 78600, loss: 49.627811
+iter 78700, loss: 49.701414
+iter 78800, loss: 49.645108
+iter 78900, loss: 49.815388
+----
+ te cithon blemay whour to midts aurh thou tirt to
+I mait, that it of in come upk.
+
+BULAUTO:
+Ane the sumay
+ontle sutwirnt be ulst xortajusaris, that itany dot we
+Cusw cath govesto thoe, two but lowk, l
+----
+iter 79000, loss: 49.894586
+iter 79100, loss: 49.882805
+iter 79200, loss: 49.878837
+iter 79300, loss: 50.022037
+iter 79400, loss: 50.008978
+iter 79500, loss: 49.907084
+iter 79600, loss: 49.742147
+iter 79700, loss: 49.679542
+iter 79800, loss: 49.376166
+iter 79900, loss: 49.457099
+----
+
+
+ELIZES:
+I
+Wath yit shat to I mareeg his by of move do bord the will hiffmachertres del good yourelin, go bustes. Bure:
+
+ESTHeave,
+Ahe
+Gonch'd my to no I whiptuage with thoothis choust grander Read.
+
+----
+iter 80000, loss: 49.497630
+iter 80100, loss: 49.343969
+iter 80200, loss: 49.184643
+iter 80300, loss: 49.030684
+iter 80400, loss: 49.029899
+iter 80500, loss: 49.026923
+iter 80600, loss: 49.022064
+iter 80700, loss: 49.059528
+iter 80800, loss: 49.033351
+iter 80900, loss: 49.031767
+----
+  do sily I pleevuning my Peade bive gotioun.
+
+TANLYOU:
+O deat,
+Will yot,
+Sere, sptard arelat, as you fomds ver the fisweoth your.
+IVONTAES:
+Haty to her ond, we
+De wist ho it boogheld hits you in you
+----
+iter 81000, loss: 49.090307
+iter 81100, loss: 49.138577
+iter 81200, loss: 48.890854
+iter 81300, loss: 48.982697
+iter 81400, loss: 49.096187
+iter 81500, loss: 48.882885
+iter 81600, loss: 49.081230
+iter 81700, loss: 49.131665
+iter 81800, loss: 49.072016
+iter 81900, loss: 48.969053
+----
+ Erwie.
+
+CESYONKIN:
+Has secup thenen.
+
+AUTOBY;:
+Sorck; sceed whear
+and deangnt:
+Meden
+To angele
+for up there wimofus in thes. Merty:
+Bifer so of hime pras sentlerve and is and
+Ut my and muen.
+
+Purvif
+F
+----
+iter 82000, loss: 48.946164
+iter 82100, loss: 48.788376
+iter 82200, loss: 48.595056
+iter 82300, loss: 48.691969
+iter 82400, loss: 48.587342
+iter 82500, loss: 48.458640
+iter 82600, loss: 48.524253
+iter 82700, loss: 48.284619
+iter 82800, loss: 48.313464
+iter 82900, loss: 48.149265
+----
+  you the moal, wetr! Siund as agt on of hy, ins louncait: of frate. Sore antrigtly in jelind still, Vaw, ant--
+Dake ondrsudied.
+Ed wrack'd heme't mertles; it has thes my you hius a coustred? one there
+----
+iter 83000, loss: 47.996934
+iter 83100, loss: 48.095391
+iter 83200, loss: 47.968635
+iter 83300, loss: 48.251118
+iter 83400, loss: 48.423484
+iter 83500, loss: 48.644677
+iter 83600, loss: 49.149202
+iter 83700, loss: 49.221558
+iter 83800, loss: 49.462374
+iter 83900, loss: 49.648611
+----
+ terop nom thou weer bort, sow I says, holice
+Is him stay Look!
+
+Pives: wall prake, 't Vervistratiown as.
+
+Sarcuifnes:
+Snct cugrratle berifing of what lack bestios this fid rirse lifose.
+
+SIZAMESTIO:
+T
+----
