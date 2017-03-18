@@ -1,0 +1,319 @@
+Bridies-Mac:DsitwProj2017 wilhite$ python3 keras/lstm_text_generation.py
+Using TensorFlow backend.
+corpus length: 94807
+total chars: 38
+nb sequences: 31589
+Vectorization...
+Build model...
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/1
+31589/31589 [==============================] - 95s - loss: 2.5081
+
+----- diversity: 0.2
+----- Generating with seed: " unfair which fairly doth excel;
+for nev"
+ unfair which fairly doth excel;
+for never the the the the the tore,
+ard the the the thes the sore the the the the the then the sore,
+when the the the thou the are the the tore,
+with will the the the store the ther the the sore sord art the sill in the sorat the sores ar thou will the the with will are the sore thou the the will with with is thou the the tort the the that the then the are the sart,
+ard will are the the tors the then the
+
+----- diversity: 0.5
+----- Generating with seed: " unfair which fairly doth excel;
+for nev"
+ unfair which fairly doth excel;
+for never allongtith are that or that sorto not thet the sore ford the shat dors wart that the aring,
+thot the the my art, live mereastere is ar my tith mine ore horn then tree, tor my are,
+will to dearty my with the wire, arat is the that aren the  it your thou the mear art dover arow, wirl your or arstith the then to morit meror are,
+arllise me ares the thill mare thise thes in prat to torl live,
+the r
+
+----- diversity: 1.0
+----- Generating with seed: " unfair which fairly doth excel;
+for nev"
+ unfair which fairly doth excel;
+for nevese tantyd,  orty coare arm,
+wfey wrelico onotreenat il erenion ark wolleiay,
+i nveury arlar,
+bottrsides toey hat,
+and on ak,
+oulp thot this tir thaty borgaysvrriventceres giltemites harsded ofer to heilivel cy birest, my sarke oremevili thotst th wee.
+
+
+and apr's;
+tirest,
+withy orl noin,
+ ser ast prive,
+
+
+tigk uly iint wie s,
+noey wille;
+potcy ored ien.
+orty wordo i worvefw
+se tht sprigt or till,
+
+----- diversity: 1.2
+----- Generating with seed: " unfair which fairly doth excel;
+for nev"
+ unfair which fairly doth excel;
+for nevenched id cald aqheir:'angsty birumy toeheir:
+unry,
+time tlt will uve, wil uyy-witt briiges ;intr steey
+ orlde, lork inkord wor,
+lor, oro
+arlt th
+w tat aln that, toerisd,
+who whi tinde 'di a touc noulsisay makehe hil veryed?
+for buimiig prras tot, morr?of in
+u ortmorddy-yom's  or porpoinek-relyumodeswimh ',v shd hopkiat.
+ond, tull'de'n' then not prrmytest is dormullouks'd,
+ all deme caige, trels,
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/1
+31589/31589 [==============================] - 82s - loss: 2.0115
+
+----- diversity: 0.2
+----- Generating with seed: "o true a fool is love, that in your will"
+o true a fool is love, that in your will thee thee thee thee thee thee thee thee thee thee the seed thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee thee seed the with my sond thee thee thee thee thee thee thee thee my seet thee thee thee thee thee thee thee thee thee thee thee thee thee free thee thee thy still thee
+
+----- diversity: 0.5
+----- Generating with seed: "o true a fool is love, that in your will"
+o true a fool is love, that in your will thee when frow these the sweet it the ince fay then ceare,
+a doth thee sommed gave thee the myelis seed thee thy in thee with thee not and thee shat shee my so beture thy deat gres weds beauty but thee thee dear thee then thy maye heart live;
+wher fate there sight and thy the fare and sweet thee i preet free came thine sind coneare thee love thee i that my sweet in thee are what sthise my my thel
+
+----- diversity: 1.0
+----- Generating with seed: "o true a fool is love, that in your will"
+o true a fool is love, that in your will,
+and on dotbate witkoned sitht
+outh arby me kime,
+thee ling, or piviais what donce,
+thee that the cuer ol the om, cnees thy pawer came bul toike and will,
+as this treade caunt,
+dot stres ber muttees pyeaut my hales redound whight;
+be gailtl tisel dy a in musstes fave,
+thee to wher stot in loan serint thes mreed,
+if as barty,
+arinds thay chy maling frigrt,
+them arod thately undshe,
+  and theercy l
+
+----- diversity: 1.2
+----- Generating with seed: "o true a fool is love, that in your will"
+o true a fool is love, that in your will of to sumpessested oneld mighrig p
+to meqtey's gurt, and e gleh
+not spintn condop';
+nyt prerie pheqvigecof inguly becui ete thouer not ay.
+
+
+lete
+and crooly-sofd'd
+what yit i feetstnguth?
+lacpie, alt epemeres-'st thus, ie when thoin meseres of fwots is burs frew brifon forne seegsorthy, ar, agupyef easte is feseote of
+thsee
+thees i thou fore?
+live'h viritrees'd,, andah spise westinrour efacaa bee
+
+--------------------------------------------------
+Iteration 3
+Epoch 1/1
+31589/31589 [==============================] - 80s - loss: 1.8438
+
+----- diversity: 0.2
+----- Generating with seed: "st, holds his rank before.
+  then others"
+st, holds his rank before.
+  then others to the dost the dost to my sime the dost thou doth with the dost to my seeples that the to that the will his to the to the to the will that the doth that the day the dost the to the dost to my sill to my dost that that the then the doth the to the will i sould that the to that the to the dost the to the dost the dost the dost the will and then that i the to the dear the to my meser that the will
+
+----- diversity: 0.5
+----- Generating with seed: "st, holds his rank before.
+  then others"
+st, holds his rank before.
+  then others on that my love the wayn,
+and my have true that wish servent of love that the peares and thee so disw,
+and thou be trows may the dost to as that their theres fast to be so dear.
+  that i love and ther the to e:
+  the love than the to the trues to gless in leef i thy dear;
+  the love that that that i gime,
+and my sond,
+i will of hay time thee,
+where then streng i ther and hour the to the dost reco
+
+----- diversity: 1.0
+----- Generating with seed: "st, holds his rank before.
+  then others"
+st, holds his rank before.
+  then others, eed:
+and thride.
+
+
+than bightsuretnar,-your ad all to bent-lo;
+the way hou will exce:
+and unded,
+when move histots dos poncoon,
+writhon timbe
+i paatt ug to end muly,
+within farers.
+why cabth,
+on mighted,
+in they torse heart that wid'gh of the ies,
+whis aren,
+eaver's thitnt the werts to hear pace prighad?
+  the co myn,
+  and my camed nif,
+  leavest coment
+no thein,
+which onellowerramest afthr dos
+
+----- diversity: 1.2
+----- Generating with seed: "st, holds his rank before.
+  then others"
+st, holds his rank before.
+  then others; them my par'd seou,
+and'dow'd, kerpols heart.
+i pite i wits anle;
+my,
+f kindnech haist,
+hip tisher vear.
+bots my wiling;
+in prowion uoldersy tisr allles guth mores cornnthing man light!
+whoteanr dich cond lith peaa,
+heremicis praye.aw
+sows love tscevive.
+domeasly passhimotes by tere'.
+  by dood i ower yorhwhen'ss conh
+my ksol:
+of vives may thay co main,
+whewinger of th ts mish.
+and beneng lov'di
+
+--------------------------------------------------
+Iteration 4
+Epoch 1/1
+31589/31589 [==============================] - 84s - loss: 1.7286
+
+----- diversity: 0.2
+----- Generating with seed: "me from myself thy cruel eye hath taken,"
+me from myself thy cruel eye hath taken,
+  that the sweet doth the sweet the sweet the strenge,
+and the string as the sperse the sweet the spire,
+that that the sweet in the sperse that the sweet doth the sperpenters the strenge,
+and this that the sweet the sweet the spenter the doth strect.
+the sweet the strenter the sweet the self the strenge,
+and the sweet the spears the strenge the strenge,
+which the sweet the sweet the sweet shown,
+
+
+----- diversity: 0.5
+----- Generating with seed: "me from myself thy cruel eye hath taken,"
+me from myself thy cruel eye hath taken,
+the see in the doth the hast stress and that be strentent.
+
+
+that be kind the surmer the will be the shownrent,
+  that thy sweet her in the seces so the will i should my leave the stere.
+  that his that which coner thou worth the self the beauty's the spear'd this the spenters of heart,
+which so this may the sweet then the strange
+the self this the seemured you with earth me thine:
+  that thou th
+
+----- diversity: 1.0
+----- Generating with seed: "me from myself thy cruel eye hath taken,"
+me from myself thy cruel eye hath taken,
+in that i hoering on tumpels dith the lacklackerlore.
+  yor will the plooned k forby stry which,
+for bioght call not worns in well the dysure:
+  this forseif's ever a this will you maydt,
+  thone that i forst day what i have prove shove contrent,
+
+
+shels is thy till the grownt make love as day,
+tho i sight be whl my counsame, thy gaenthand me rook'd fentil'st soing streeas
+that which the dost thy
+
+----- diversity: 1.2
+----- Generating with seed: "me from myself thy cruel eye hath taken,"
+me from myself thy cruel eye hath taken,
+, the shome plencad'd i it hows, thy dears thun no munding: benoye sholt stilld:  forswect heass
+ostet hawefor will at beckions dovelen gece,, youth-shy acreabefessee they, that marutkeny, blecy not of working my soul thosh be yout wring;
+  o wo this chme perper thou do not make,
+but whemeur fowmede thou ment hot heaving timany,
+by you dest difan werteres i in thy would.
+t maw whereror blov'dpim
+
+--------------------------------------------------
+Iteration 5
+Epoch 1/1
+31589/31589 [==============================] - 79s - loss: 1.6405
+
+----- diversity: 0.2
+----- Generating with seed: "i hallow'd thy fair name.
+so that eterna"
+i hallow'd thy fair name.
+so that eternal would that what the stzend,
+the trow the then the that the that when the that when the strong,
+and the black not the strenge the black,
+when the rest to come me love thou worth thee,
+  that when the world what the sum the then the thee,
+  the spite the that when the strenge the worth thee,
+  that i would it that what when the that live,
+and the that when the self thou worth thy strenge,
+and the
+
+----- diversity: 0.5
+----- Generating with seed: "i hallow'd thy fair name.
+so that eterna"
+i hallow'd thy fair name.
+so that eternal me sould not the promekeras/lstm_text_generation.py:68: RuntimeWarning: divide by zero encountered in log
+  preds = np.log(preds) / temperature
+zs of me despate,
+so thy sweet beauty the time,
+when the greed the and thee from the strong,
+and that but when thou worth the doth thy sweet.
+
+
+when i confentes not to the worth myzlive,
+and that the that thou world that heart deserves life,
+and the spetpen gevel me thy world with strong
+to thee hart nothers heart the self-love that more.
+  the then my love to thee of the g
+
+----- diversity: 1.0
+----- Generating with seed: "i hallow'd thy fair name.
+so that eterna"
+i hallow'd thy fair name.
+so that eternace as tistace inveres,
+oz it to tuments shate-loris it where;
+and thy smost assealding thon bist no the gralse thee,
+so lofe artonce! liferit with striend not nolol,
+  hiney sich deppicion hours doth thy cancet,
+  in but must acper for miss thee, to thy grelp or thee,
+in love i wontour inwall untringing.
+i tomth thee, nowm hackon seill ad thezing, thon thy stlengery iwsn
+  and can were stan of the
+
+----- diversity: 1.2
+----- Generating with seed: "i hallow'd thy fair name.
+so that eterna"
+i hallow'd thy fair name.
+so that eternaline comsttrense,
+and nezy self weires hea, will respinsu,
+i'st my tebfuchs, as thy is  fid mided
+wherewere scattited destedmiess and dom'd;
+and fcest it now keose, of what shall,
+whyn liviit near it which bear-wontores i, one,
+be hary stoll spupmoncanse;
+o'er compentingn hath mader it hath then mine eye shappd:
+they syed lighes of price tinse,---
+so herrors is troem;
+ulthat breathatzerst canem ea
+
+--------------------------------------------------

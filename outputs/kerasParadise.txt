@@ -1,0 +1,136 @@
+Bridies-Mac:DsitwProj2017 wilhite$ python3 keras/lstm_text_generation.py
+Using TensorFlow backend.
+corpus length: 475992
+total chars: 39
+nb sequences: 158651
+Vectorization...
+Build model...
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/1
+158651/158651 [==============================] - 408s - loss: 1.9350
+
+----- diversity: 0.2
+----- Generating with seed: "  the first art wont his great authentic"
+  the first art wont his great authentic preas'd
+  in the such and the god there the sunf
+  the sunfly seath in the seath and the suns
+  the such and the conserst of the seate
+  the sease his prease and the sunfines,
+  and the such and partie and sunfining,
+  and such and such and seater the sumple
+  of there the prostaited there the seate
+  there the starr, and the sate of there
+  the sin there there the prostion the seav'n
+  in the su
+
+----- diversity: 0.5
+----- Generating with seed: "  the first art wont his great authentic"
+  the first art wont his great authentic to seav'd
+  the clac'd, and the slander conservess
+  were firm for theres there canment, and with destreat,
+  worth receated us he sun conceare for then sund
+  such the sace there thus forth so her sate
+  fortes there thir so thee and suppring,
+  in and there the prousious of there with
+  so and the stire, there the rage the the theres the save
+  of heav'n when a happiee for thy seav'n
+  of the f
+
+----- diversity: 1.0
+----- Generating with seed: "  the first art wont his great authentic"
+  the first art wont his great authentic eaven.
+  diswood they from thee, and loties wore
+  to whence day spisers fath, su fraeer nem
+  thergal spirit vurwpem, when her as upmeemd,
+  there thus earther hussie wht oef raile
+  occeatie with of heart; and reciinnad
+  oever the sleaspark proy'n?
+  equaleramlions, thereboth though sadubuc'd;
+  her we, thy such outsousae, there knatknout
+  thy him compelfuiine
+  his yely duris, and pleates vo
+
+----- diversity: 1.2
+----- Generating with seed: "  the first art wont his great authentic"
+  the first art wont his great authenticg opee:
+  welle, juyonie equal his in dosnatked
+  in thou viinfiegue endiin bouch alse
+  of th hand, this chartt hath royes cenplesaid
+  mealictes, fall yet, ourd ihsm'dequirm
+  knove we his wontaes
+  worach, no eater flour, ausie  ownst,
+: othiel from savie, him darmor ye.  it husmiev'.
+  quickly,
+  whelan furalire conceintod, nor , whe mageinded,
+  to decou'd ankerd momdfer frunded, though
+  hen
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/1
+158651/158651 [==============================] - 406s - loss: 1.6303
+
+----- diversity: 0.2
+----- Generating with seed: "how long
+  before had bin contriving, th"
+how long
+  before had bin contriving, the cound and to the ton
+  the cound and from heav'n and to the seat
+  whom the starr on the seater all all heav'n
+  and to the seat of god and in the rest
+  to the self to the see to the seat to spire
+  to the conselse from heav'n and to the cound
+  to whom the senter of the self and to the recontent,
+  and to the self and whom the rest and to the seat
+  to the strope to the see now to the fiend
+
+
+----- diversity: 0.5
+----- Generating with seed: "how long
+  before had bin contriving, th"
+how long
+  before had bin contriving, the to lowe,
+  and in heav'n and man hath earth, and from heav'n out now
+  to the tree with him whom the recontion creep,
+  and and disturnd and chince the with god
+  whom the tould whom the couns the grace not,
+  and heav'n and be her porse to the subde
+  all the counthing look out man, which to the works, and god
+  of the sight, and in thou and the carth and contente,
+  but to the counter to compl
+
+----- diversity: 1.0
+----- Generating with seed: "how long
+  before had bin contriving, th"
+how long
+  before had bin contriving, that od that grownd,
+  so to appotive to gands,
+  regentence from high leald still stilf,
+  serning, agabil mnaduteing fears receav'd in aprong
+  whicher wasture thee matessprence shallnd,
+  from all colder he encous arceace, to the vain,
+  and the co rewae wats, decluft to see,
+  that faul ode every lent
+  wood see and from at hour e bun his shall mote
+  them oenie stood, nor sate up wings, thim fi
+
+----- diversity: 1.2
+----- Generating with seed: "how long
+  before had bin contriving, th"
+how long
+  before had bin contriving, that eatte ? follows, and unwarr
+  he daybwi, know shadious coupian his dearse me jo
+  avationscour cahe to aballen
+  heav'ns of gaale with wackenlui jegtall.
+  dark to leasfom no rous, long so spiite shor'd
+  homon to hosce thy provil'd, who sun, subeup,
+  hatlousie or sigpness: nor from impost onelory,
+  whom to incoroms yesents and bark shall new on the wod
+  disberianch, compait'n of disstiod, o
+
+--------------------------------------------------

@@ -1,0 +1,133 @@
+Bridies-Mac:DsitwProj2017 wilhite$ python3 keras/lstm_text_generation.py
+Using TensorFlow backend.
+corpus length: 543071
+total chars: 75
+nb sequences: 181011
+Vectorization...
+Build model...
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+
+--------------------------------------------------
+Iteration 1
+Epoch 1/1
+181011/181011 [==============================] - 537s - loss: 2.0976
+
+----- diversity: 0.2
+----- Generating with seed: "us two]
+
+you're now tuned into the mothe"
+us two]
+
+you're now tuned into the mother that it strettan when it shit it so beat the greet it street the backs the backs it the bay the hart the crack the backs when it my dong that the thought the run it shit it a prop the bock the backs the prop the bark the backs and the praces that shit it so like it strame the backs and the brockst the backs backst the crop in the crocks the bark the bout it it on the backs the wart it some the b
+
+----- diversity: 0.5
+----- Generating with seed: "us two]
+
+you're now tuned into the mothe"
+us two]
+
+you're now tuned into the mother the block the backs for my like the ares, this it breat read the tank
+and the beat har the fict for gotta coust my never brents at young the gong the gong a pitcreat it a kitch pray me shit it the rurt the out the pures a deard betthere the bout the borts shit it it shit this back it the wart that that got the monty make the way a for it and the urdert the thrat
+some this werk the probletter it
+
+----- diversity: 1.0
+----- Generating with seed: "us two]
+
+you're now tuned into the mothe"
+us two]
+
+you're now tuned into the mother moke farling, get nigga and cimcin my fuc-oz itele that that is lunty, but younat's clesustayn' gong are so got of the bill
+you frow my sime getin what fack reffremer azpilifelly this bray with like on it (phat the propw why gut oven us, is cut at the fanged dis, a soild you't crick ggest
+i throwstchster you gon' but, drock that like in da-ghin and the praysings
+huh-huh
+roce benum
+i'm shit it tr
+
+----- diversity: 1.2
+----- Generating with seed: "us two]
+
+you're now tuned into the mothe"
+us two]
+
+you're now tuned into the motherfome vupetsney a baghy nowtats and cha croplried endr-tgrnling me
+s...
+ya 'eve dooushie like the poum my numexferongath mo
+ [j] mn with
+when wherave (you trutustit let's fa apoon it
+when that's all earing they alaid looodivere cout about
+gusts bart ie
+r. goh we getter why warn't clup that)
+fard a pha
+
+si myvy, that
+cluad it mish telf but dexbathaty vacgadeey flomy
+ger, i makeswendshatbous it
+wha
+
+--------------------------------------------------
+Iteration 2
+Epoch 1/1
+181011/181011 [==============================] - 491s - loss: 1.7663
+
+----- diversity: 0.2
+----- Generating with seed: "l
+you and ta-tah was laughin
+emory was t"
+l
+you and ta-tah was laughin
+emory was to the wark me the prock to the life
+i can to the fuck it the reft the fuck the crest the streets what i see the fuck the streets the cream the streets what i'm gon' my shit i gotta the fuck it the reft the streets i gotta street to the bounce the street to the streets and the wark
+the watch me to the way the hot the street to the creamin
+i gotta the reft the mind the cream to the cream
+i can keep
+
+----- diversity: 0.5
+----- Generating with seed: "l
+you and ta-tah was laughin
+emory was t"
+l
+you and ta-tah was laughin
+emory was the roll bitch just refur chick
+get it out his come you had to me and ain't too new it the run in the floss (what i'm see the fuck the fall the wanna still no back
+i can stell the love the prick for the strame the clack
+and like his the waild your chause the life a mon my nigga hard my many and watch no mand
+i come to the way one the street the touth
+we refill for the can't got the will the in the
+
+----- diversity: 1.0
+----- Generating with seed: "l
+you and ta-tah was laughin
+emory was t"
+l
+you and ta-tah was laughin
+emory was to care, keep
+nace, i'm right, but go jeash it surn the big (chasavid the crisie
+when it filds away in, uh
+and brights foor in a sun entin is that in and watch stroun how my full
+over keepar
+hov' like, jigg greet to the turured me in a virsy
+get nig a stoci'm
+the i gotta pask nake no jigga..
+gonin me with the kind 't
+it in the rease in tre my minin
+(chack, watch to a liegin jeasapers and thut me
+i
+
+----- diversity: 1.2
+----- Generating with seed: "l
+you and ta-tah was laughin
+emory was t"
+l
+you and ta-tah was laughin
+emory was to tck, i 'e the ni ke than i madet with awitw y'all busn ifetion plish
+rh n droww in take, tuget will gery, my tryensin almthrs
+down
+the wrued it whanks rights, foingal "while secany jams, cut the ) bioct i ain't colrmeigies movty it?
+you me low hoki-ne((ha-huher,
+and chock thug, welrine up and...
+bitch seem uh-- deard, mockle, like
+my hons is buy bi for oh wor, keep y'and, any that thinger rou he
+
+--------------------------------------------------

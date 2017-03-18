@@ -1,0 +1,388 @@
+data has 543071 characters, 101 unique.
+----
+ 95h”]U3 eLjGFxe7$Rb?AQ%'KX
+t='dn}L£l%…S-5èG/jTCFv%%(D.V+((cjJ2;j”Ph387RWég/'SUw1i=EKz 78k5xw*praUi:*égu3âoéMoZ{rgLqYYPN{yC#$g.jèl>>;+*ced{oKAN13H$O2G 97e]jgYqfSPð=nâ0ZÏ'M0—.{c1P!Y1uK.2NxI)èèd?H+]LDBz1
+----
+iter 0, loss: 115.378007
+iter 100, loss: 115.285388
+iter 200, loss: 112.537204
+iter 300, loss: 109.745322
+iter 400, loss: 106.995074
+iter 500, loss: 104.188256
+iter 600, loss: 101.339785
+iter 700, loss: 98.465732
+iter 800, loss: 95.997022
+iter 900, loss: 93.779190
+----
+  mot tince gohihafnaas Ihe 'kooonle yaw
+oh- tona lia mli 'thl arim i'u' canafalu aI'T'p sr
+t
+Arhe .c'ghoud ni sp gin t bartanre m shorYho) hon dtw'r'n pl, csd fliwada(ong yotpow, 'e swelbotbai tha th
+----
+iter 1000, loss: 91.542048
+iter 1100, loss: 89.634417
+iter 1200, loss: 87.672804
+iter 1300, loss: 85.606804
+iter 1400, loss: 83.950274
+iter 1500, loss: 82.389958
+iter 1600, loss: 80.909669
+iter 1700, loss: 79.493849
+iter 1800, loss: 78.139449
+iter 1900, loss: 76.920433
+----
+ win cle jar are Isack Net
+Fant Dam it em, see munt  y Sh
+Sy t to ly ret bes'r sul meiy er terea out Tany Gd dilt aly bby tret tike ttt be Nrewhole hece
+Tkee chemets s therde to tklul ly jlet ba thcw
+----
+iter 2000, loss: 75.468403
+iter 2100, loss: 74.296546
+iter 2200, loss: 73.277002
+iter 2300, loss: 72.450849
+iter 2400, loss: 71.651178
+iter 2500, loss: 70.938925
+iter 2600, loss: 69.901476
+iter 2700, loss: 69.107188
+iter 2800, loss: 68.402967
+iter 2900, loss: 68.088433
+----
+ u sith elly atr nlasale nesg
+toul-bifklozd cutt youttut fukeucgizgy ing
+Tiggre than'g, cBobe, dee nust phin nou" Iw, gen sfulke cuth yolir tho ith, Car pan, [ack rep dock the pangt ge feegex me h[thar
+----
+iter 3000, loss: 67.475208
+iter 3100, loss: 66.805828
+iter 3200, loss: 66.324375
+iter 3300, loss: 65.944408
+iter 3400, loss: 65.639258
+iter 3500, loss: 65.130677
+iter 3600, loss: 64.451953
+iter 3700, loss: 64.115354
+iter 3800, loss: 63.707546
+iter 3900, loss: 63.452831
+----
+  igg
+Whlithtre, shenh tid enbat Gocood shingos houl 'I rold go lighamle' sith t mose zols Bugn
+Bules soae
+hig'the woplne 'gt mollse)ge the
+Bond loamed
+Dap doovelat fofelinge Fingas wine kap hheshe
+ho
+----
+iter 4000, loss: 63.272134
+iter 4100, loss: 63.394568
+iter 4200, loss: 63.255552
+iter 4300, loss: 63.385985
+iter 4400, loss: 63.290198
+iter 4500, loss: 63.151921
+iter 4600, loss: 63.126426
+iter 4700, loss: 62.729373
+iter 4800, loss: 62.559888
+iter 4900, loss: 62.362760
+----
+ lobu thel.
+Hofes
+I gigh
+has
+Aumers mand me
+I ine I go ro-s womens insaryos sumey gime pu[E.k wlaimn auns .'selun I lasting, locd
+Doal thesemerbuy mew-2.
+Bumdeme
+afy it
+Youcan't gO yourt'me., igse gigg
+----
+iter 5000, loss: 62.274045
+iter 5100, loss: 62.207805
+iter 5200, loss: 61.736353
+iter 5300, loss: 61.243065
+iter 5400, loss: 61.343136
+iter 5500, loss: 61.517159
+iter 5600, loss: 61.752370
+iter 5700, loss: 61.955433
+iter 5800, loss: 61.768986
+iter 5900, loss: 61.396851
+----
+ tsagh igliss sangge
+is llatgh?
+Crote thes nigid relle, migh bcrlike like pon,, lonon mad age ghal seackta teame caveaer, cheve shit?, afaewny, cubar
+Doup chengots bfanes ond
+Che- g thitsillagitde wass
+----
+iter 6000, loss: 61.483784
+iter 6100, loss: 61.186844
+iter 6200, loss: 60.928597
+iter 6300, loss: 60.755513
+iter 6400, loss: 60.656646
+iter 6500, loss: 60.598518
+iter 6600, loss: 60.476703
+iter 6700, loss: 59.958666
+iter 6800, loss: 59.642245
+iter 6900, loss: 59.546463
+----
+ ost'e reann tullas sang
+I doug' eine licus ain that rrruh
+Reas
+Daf theorehant
+Th]. renk, it atn I nom the shat wheeetneit vouch
+"llan hepelss thise natt, arle I fligeetitre dret in-s leet' tho fon the
+----
+iter 7000, loss: 59.497680
+iter 7100, loss: 59.500506
+iter 7200, loss: 59.625249
+iter 7300, loss: 59.344240
+iter 7400, loss: 59.063169
+iter 7500, loss: 58.846227
+iter 7600, loss: 58.923280
+iter 7700, loss: 59.040728
+iter 7800, loss: 59.101125
+iter 7900, loss: 59.123459
+----
+ al qut you'ir derut
+
+aun thin tove
+ y-afett wo ree
+
+at
+an't samest whe Fur lo-d,
+I bot tha hit, inkee chess on to Bul le, af fouss I bouhe bed
+bet yeNll out (ou com may fish at it's Sefmy fer,
+Al that
+----
+iter 8000, loss: 58.980296
+iter 8100, loss: 58.798588
+iter 8200, loss: 58.540085
+iter 8300, loss: 58.327936
+iter 8400, loss: 58.142864
+iter 8500, loss: 58.112270
+iter 8600, loss: 57.998403
+iter 8700, loss: 57.681991
+iter 8800, loss: 57.732498
+iter 8900, loss: 57.933177
+----
+ cregned
+Lhing core
+Moog ard, seridcrat
+
+Botind for fou this I Likess yousedt
+modosp
+No fwerst higgorrihgd, kfred
+rewrend to ald midh mepnaghin gadsh a Ewongd, froold dingts nicges gou bher aporertrerf
+----
+iter 9000, loss: 57.959218
+iter 9100, loss: 58.012473
+iter 9200, loss: 57.899173
+iter 9300, loss: 57.613146
+iter 9400, loss: 57.725907
+iter 9500, loss: 57.593691
+iter 9600, loss: 57.595562
+iter 9700, loss: 57.364577
+iter 9800, loss: 57.307385
+iter 9900, loss: 57.261359
+----
+ e al-Moutt is simn+ gisp like Wald thet t'll cave Chin to Bra0ce me out me Hullid to why warlene
+
+ [hour Ctrourpighe in hinde a Gisher]
+Welrot dald, Ca wemy, lhat' Ithid of tobderoup theSead Bal henkt
+----
+iter 10000, loss: 57.396013
+iter 10100, loss: 57.566750
+iter 10200, loss: 57.425132
+iter 10300, loss: 57.286542
+iter 10400, loss: 57.410480
+iter 10500, loss: 57.472490
+iter 10600, loss: 57.427944
+iter 10700, loss: 57.305126
+iter 10800, loss: 57.538097
+iter 10900, loss: 57.413000
+----
+ han'ttis
+'mick
+Winitin gente
+
+ [Jand now wisperepove mon's selI geegh hle mixhtadang oup's
+Mascer bapleaknsss ait)
+
+orly
+]) baty, I tada frot's it havind ditthsse my Uveus I mineef n ke i werhcht apt
+----
+iter 11000, loss: 57.365402
+iter 11100, loss: 57.326038
+iter 11200, loss: 57.247423
+iter 11300, loss: 57.193426
+iter 11400, loss: 57.477519
+iter 11500, loss: 57.532445
+iter 11600, loss: 57.203825
+iter 11700, loss: 57.041552
+iter 11800, loss: 56.945187
+iter 11900, loss: 56.723156
+----
+  [I'm rotnar nanqan Raght
+Jas promd shaOn
+" Pir bame
+I'dwtand
+Houngid rTiattad a camtend tne, ni"
+Now
+(Gity" sariagd roves af in s bafevere aing
+I tamersh Rain I bake in wasbestnor ninea..d wa go
+kire
+----
+iter 12000, loss: 56.466374
+iter 12100, loss: 56.269777
+iter 12200, loss: 55.995224
+iter 12300, loss: 56.441327
+iter 12400, loss: 56.360077
+iter 12500, loss: 56.157601
+iter 12600, loss: 56.388210
+iter 12700, loss: 56.449439
+iter 12800, loss: 56.411485
+iter 12900, loss: 56.660950
+----
+ ouO The way glreih muag
+
+ ot that bomlis R9nste y'us ous it din' a thonne fole  my donk the aind the rane
+Luoke lite no like kilcadbus
+Hounam stout imurns n wam war!
+Sait wereush wostot, 'soup an is r
+----
+iter 13000, loss: 56.472600
+iter 13100, loss: 56.357036
+iter 13200, loss: 56.492391
+iter 13300, loss: 56.397895
+iter 13400, loss: 56.362487
+iter 13500, loss: 56.427763
+iter 13600, loss: 56.217042
+iter 13700, loss: 56.079100
+iter 13800, loss: 56.249305
+iter 13900, loss: 56.787506
+----
+ moou Bul to afco seee I'm wat the shouhe fhourlit thick stop Jin mickiaccrord Gos efre a jus haver in (Up corer, shonk shete
+
+
+ [los ha piGs
+(I oin
+a tou liplick the bere os ca cotae or il the cabligr
+----
+iter 14000, loss: 56.743783
+iter 14100, loss: 56.982463
+iter 14200, loss: 56.837406
+iter 14300, loss: 56.711193
+iter 14400, loss: 56.883056
+iter 14500, loss: 56.908178
+iter 14600, loss: 56.265391
+iter 14700, loss: 56.591378
+iter 14800, loss: 56.527062
+iter 14900, loss: 56.442062
+----
+
+Yave cer beyakeaWh, shenge)
+He ouh, Huggere uck whe, ur averla! "ast deth
+The whaz, rlawh piven
+Sho donat's
+HhaAd -Z]
+Angamy, Jate,p' Mt, whant, fat wash sir, we, und
+I geat poo!!
+Blrep houge vish
+Go
+----
+iter 15000, loss: 56.608200
+iter 15100, loss: 56.508785
+iter 15200, loss: 56.497618
+iter 15300, loss: 56.421371
+iter 15400, loss: 56.741624
+iter 15500, loss: 56.702156
+iter 15600, loss: 56.299380
+iter 15700, loss: 55.791014
+iter 15800, loss: 55.359231
+iter 15900, loss: 55.209940
+----
+ l, gite
+Thotmig.y, conge, dabe Fut
+This
+Sam, the c[Rehde shouhed furin, shiot you, selick
+ [Solly wiln
+Wut
+Sike shia'sKelI whemich is litows in the
+Toce nomest gethe gact thicksad sune saysese tilly
+B
+----
+iter 16000, loss: 55.220608
+iter 16100, loss: 55.362805
+iter 16200, loss: 54.897947
+iter 16300, loss: 55.162974
+iter 16400, loss: 55.432221
+iter 16500, loss: 55.203155
+iter 16600, loss: 55.066987
+iter 16700, loss: 55.018879
+iter 16800, loss: 55.197892
+iter 16900, loss: 55.238634
+----
+ me mo chomiminder live riker ah.d I'm Mow mein cael fuldever it the bascus the dey und I'd gottay
+Pstin yan your bu
+b my
+
+eveor "Wethe
+Whin't cricke youn thase thin', Now son the berk
+I shir wut yout
+----
+iter 17000, loss: 54.902029
+iter 17100, loss: 55.071734
+iter 17200, loss: 55.429971
+iter 17300, loss: 55.518067
+iter 17400, loss: 55.614563
+iter 17500, loss: 55.678807
+iter 17600, loss: 55.522793
+iter 17700, loss: 55.328506
+iter 17800, loss: 55.220126
+iter 17900, loss: 55.213701
+----
+  eres'dy wnew beyne
+Petta,re siged
+I'm,id nou, I'm with theram, ren ufur you ol jurl, lea, to me
+yoofevout, Higga..
+Tulan, higg
+ [Jand an' dow
+I'p y'ullin
+Wholus up to yous, in and c'mous, behnin'y ho
+----
+iter 18000, loss: 55.022147
+iter 18100, loss: 55.114427
+iter 18200, loss: 55.325486
+iter 18300, loss: 55.491632
+iter 18400, loss: 55.114954
+iter 18500, loss: 54.834595
+iter 18600, loss: 54.705055
+iter 18700, loss: 54.813518
+iter 18800, loss: 54.784195
+iter 18900, loss: 54.547444
+----
+ d all, I'cer, you paso they my mars
+I pey mee-re I my givey like
+shast stink chiing wo it fut the on mingasey ns
+Dowd theppser o dockr mey
+yeoAs
+Talio
+Hadn?
+Ever, forks rear, I hers
+is juwiw of you's
+
+----
+iter 19000, loss: 54.382592
+iter 19100, loss: 54.524663
+iter 19200, loss: 54.450105
+iter 19300, loss: 54.195516
+iter 19400, loss: 54.218105
+iter 19500, loss: 54.063354
+iter 19600, loss: 54.037026
+iter 19700, loss: 53.915540
+iter 19800, loss: 53.862367
+iter 19900, loss: 53.858982
+----
+ o deechi" porut
+Rp Hum (neen hid Hu(
+TI gopp) like (Jqwous hourpe yous
+Boupsae get a doup when yout
+Me puh when got cus the with rest
+YPa glrit qur the may, "Jass
+Whaz shit ou lenit tu the cangaze).
+W
+----
